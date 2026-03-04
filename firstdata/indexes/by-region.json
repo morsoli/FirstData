@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-03T12:07:27.301957+00:00",
+    "generated_at": "2026-03-04T06:23:13.207432+00:00",
     "total_regions": 11,
-    "total_sources": 157,
+    "total_sources": 159,
     "version": "2.0"
   },
   "regions": {
@@ -163,6 +163,18 @@
       }
     ],
     "CN": [
+      {
+        "id": "china-mohrss",
+        "name": {
+          "en": "Ministry of Human Resources and Social Security of China - Employment and Social Security Statistics",
+          "zh": "人力资源和社会保障部统计数据"
+        },
+        "authority_level": "government",
+        "data_url": "http://www.mohrss.gov.cn/SYrlzyhshbzb/zwgk/szrs/",
+        "has_api": false,
+        "file_path": "china/economy/labor/china-mohrss.json",
+        "geographic_scope": "national"
+      },
       {
         "id": "china-ndrc-computing",
         "name": {
@@ -385,6 +397,18 @@
         "data_url": "http://www.caict.ac.cn/kxyj/qwfb/",
         "has_api": false,
         "file_path": "china/research/china-caict.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-mee",
+        "name": {
+          "en": "Ministry of Ecology and Environment of China - Environmental Data",
+          "zh": "生态环境部环境数据"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.mee.gov.cn/hjzl/",
+        "has_api": false,
+        "file_path": "china/resources/environment/china-mee.json",
         "geographic_scope": "national"
       },
       {
