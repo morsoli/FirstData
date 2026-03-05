@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-04T09:20:58.555987+00:00",
-    "total_sources": 164,
+    "generated_at": "2026-03-05T08:34:20.032340+00:00",
+    "total_sources": 166,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -3117,6 +3117,84 @@
       "file_path": "china/finance/securities/hkex.json"
     },
     {
+      "id": "china-mot",
+      "name": {
+        "en": "Ministry of Transport of China",
+        "zh": "中华人民共和国交通运输部",
+        "native": "中华人民共和国交通运输部"
+      },
+      "description": {
+        "en": "The Ministry of Transport (MOT) is responsible for planning, policy, and regulation of transportation in China, covering highways, waterways, civil aviation coordination, and postal services. It publishes comprehensive transportation statistics through annual statistical bulletins and monthly reports, including data on road and waterway infrastructure, passenger and freight volumes, vehicle registrations, port throughput, and transportation safety.",
+        "zh": "中华人民共和国交通运输部负责中国交通运输的规划、政策和监管，涵盖公路、水路、民航协调和邮政等领域。通过年度统计公报和月度报告发布全面的交通运输统计数据，包括公路和水路基础设施、客货运量、车辆登记、港口吞吐量和交通安全数据。"
+      },
+      "website": "https://www.mot.gov.cn",
+      "data_url": "https://www.mot.gov.cn/shuju/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "domains": [
+        "transportation",
+        "infrastructure",
+        "logistics"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "交通运输部",
+        "ministry of transport",
+        "公路",
+        "highway",
+        "水路",
+        "waterway",
+        "港口",
+        "port",
+        "客运量",
+        "passenger volume",
+        "货运量",
+        "freight volume",
+        "物流",
+        "logistics",
+        "交通基础设施",
+        "transport infrastructure",
+        "高速公路",
+        "expressway",
+        "内河航运",
+        "inland waterway",
+        "春运",
+        "Spring Festival travel",
+        "MOT",
+        "china"
+      ],
+      "data_content": {
+        "en": [
+          "Highway infrastructure - Total mileage, expressway length, road grades, bridges, and tunnels",
+          "Waterway infrastructure - Navigable inland waterway mileage, berths, port facilities",
+          "Passenger transport - Passenger volumes and turnover by highway, waterway, and urban transit",
+          "Freight transport - Freight volumes and turnover by highway and waterway",
+          "Port throughput - Cargo and container throughput for major coastal and inland ports",
+          "Vehicle statistics - Registered commercial vehicles, vessels, and urban transit vehicles",
+          "Transportation safety - Accident statistics, casualties, and safety indicators",
+          "Urban public transport - Bus routes, metro lines, ridership, and operational data",
+          "Fixed asset investment - Investment in transportation infrastructure by sector",
+          "Spring Festival travel rush (Chunyun) - Daily cross-regional passenger flow statistics"
+        ],
+        "zh": [
+          "公路基础设施 - 公路总里程、高速公路里程、公路等级、桥梁和隧道",
+          "水路基础设施 - 内河航道里程、泊位数、港口设施",
+          "客运 - 按公路、水路和城市公交分类的客运量和旅客周转量",
+          "货运 - 按公路和水路分类的货运量和货物周转量",
+          "港口吞吐量 - 主要沿海和内河港口的货物和集装箱吞吐量",
+          "车辆统计 - 营运车辆、船舶和城市公交车辆登记数",
+          "交通安全 - 事故统计、伤亡人数和安全指标",
+          "城市公共交通 - 公交线路、地铁线路、客运量和运营数据",
+          "固定资产投资 - 按行业分类的交通基础设施投资",
+          "春运 - 每日跨区域人员流动量统计"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/infrastructure/china-mot.json"
+    },
+    {
       "id": "ceic-china-urbanization",
       "name": {
         "en": "CEIC Data - China Urbanization Rate",
@@ -3180,6 +3258,82 @@
       },
       "has_api": true,
       "file_path": "china/national/ceic-china-urbanization.json"
+    },
+    {
+      "id": "china-mca",
+      "name": {
+        "en": "Ministry of Civil Affairs of China",
+        "zh": "中华人民共和国民政部",
+        "native": "中华人民共和国民政部"
+      },
+      "description": {
+        "en": "The Ministry of Civil Affairs (MCA) is responsible for social welfare, social organization management, grassroots governance, administrative divisions, marriage registration, and disaster relief in China. It publishes comprehensive statistical data through the China Civil Affairs Statistical Yearbook and quarterly statistical bulletins, covering social services, social organizations, community governance, and welfare institutions.",
+        "zh": "中华人民共和国民政部负责社会福利、社会组织管理、基层治理、行政区划、婚姻登记和救灾救济等工作。通过《中国民政统计年鉴》和季度统计公报发布全面的统计数据，涵盖社会服务、社会组织、社区治理和福利机构等领域。"
+      },
+      "website": "https://www.mca.gov.cn",
+      "data_url": "https://www.mca.gov.cn/n156/n2679/index.html",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "domains": [
+        "social",
+        "demographics",
+        "governance"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "quarterly",
+      "tags": [
+        "民政部",
+        "civil affairs",
+        "社会福利",
+        "social welfare",
+        "社会组织",
+        "social organizations",
+        "行政区划",
+        "administrative divisions",
+        "婚姻登记",
+        "marriage registration",
+        "救灾",
+        "disaster relief",
+        "养老",
+        "elderly care",
+        "社区治理",
+        "community governance",
+        "低保",
+        "minimum living standard",
+        "NGO",
+        "民间组织",
+        "MCA",
+        "china"
+      ],
+      "data_content": {
+        "en": [
+          "Social service statistics - Total expenditures, institutions, beds, and personnel in social services",
+          "Social organizations - Registration and management of social groups, foundations, and private non-enterprise units",
+          "Community governance - Urban and rural community statistics, residents' committees, villagers' committees",
+          "Administrative divisions - County-level and above administrative division codes and changes",
+          "Marriage registration - Marriage and divorce registration statistics by region",
+          "Disaster relief - Natural disaster statistics, affected populations, relief expenditures",
+          "Elderly care services - Nursing homes, elderly care institutions, beds, and residents",
+          "Minimum living standard guarantee (Dibao) - Urban and rural subsistence allowance recipients and expenditures",
+          "Orphan care and child welfare - Child welfare institutions, orphans, and adoption statistics",
+          "Funeral and burial services - Cremation rates, funeral service institutions"
+        ],
+        "zh": [
+          "社会服务统计 - 社会服务事业费支出、机构数、床位数和从业人员",
+          "社会组织 - 社会团体、基金会和民办非企业单位的登记管理统计",
+          "社区治理 - 城乡社区统计、居委会、村委会数据",
+          "行政区划 - 县级以上行政区划代码和变更情况",
+          "婚姻登记 - 分地区结婚和离婚登记统计",
+          "救灾 - 自然灾害统计、受灾人口、救灾支出",
+          "养老服务 - 养老院、养老机构、床位数和入住人数",
+          "最低生活保障(低保) - 城乡低保对象人数和支出",
+          "孤儿和儿童福利 - 儿童福利机构、孤儿和收养统计",
+          "殡葬服务 - 火化率、殡葬服务机构统计"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/national/china-mca.json"
     },
     {
       "id": "cnki-population-census",

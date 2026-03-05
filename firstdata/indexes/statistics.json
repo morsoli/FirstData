@@ -1,32 +1,32 @@
 {
   "metadata": {
-    "generated_at": "2026-03-04T09:20:58.555987+00:00",
+    "generated_at": "2026-03-05T08:34:20.032340+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 164,
+    "total_sources": 166,
     "sources_with_api": 76,
-    "last_updated": "2026-03-04"
+    "last_updated": "2026-03-05"
   },
   "by_authority_level": {
     "research": 30,
     "international": 44,
-    "government": 64,
+    "government": 66,
     "commercial": 11,
     "market": 14,
     "other": 1
   },
   "by_geographic_scope": {
     "global": 69,
-    "national": 75,
+    "national": 77,
     "regional": 20
   },
   "by_update_frequency": {
     "irregular": 38,
     "daily": 32,
     "weekly": 8,
-    "quarterly": 17,
-    "monthly": 32,
+    "quarterly": 18,
+    "monthly": 33,
     "annual": 30,
     "real-time": 7
   },
@@ -38,12 +38,12 @@
     "finance": 19,
     "environment": 19,
     "agriculture": 18,
+    "demographics": 12,
     "technology": 12,
-    "demographics": 11,
+    "social": 11,
     "energy": 11,
-    "social": 10,
+    "infrastructure": 10,
     "development": 9,
-    "infrastructure": 9,
     "manufacturing": 9,
     "housing": 8,
     "genomics": 7,
@@ -51,10 +51,10 @@
     "climate": 7,
     "machine learning": 7,
     "banking": 7,
+    "transportation": 7,
     "industry": 7,
     "bioinformatics": 6,
     "innovation": 6,
-    "transportation": 6,
     "climate change": 6,
     "drug discovery": 5,
     "molecular biology": 5,
@@ -71,6 +71,7 @@
     "productivity": 4,
     "labor": 4,
     "population": 4,
+    "governance": 4,
     "standards": 4,
     "investment": 4,
     "prices": 4,
@@ -96,7 +97,6 @@
     "atmosphere": 3,
     "mortality": 3,
     "economic development": 3,
-    "governance": 3,
     "higher-education": 3,
     "statistics": 3,
     "government": 3,
@@ -263,6 +263,7 @@
     "education-policy": 1,
     "basic-education": 1,
     "admissions": 1,
+    "logistics": 1,
     "urbanization": 1,
     "digital-economy": 1,
     "cloud-computing": 1,
