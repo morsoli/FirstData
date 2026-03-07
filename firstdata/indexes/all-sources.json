@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-07T04:10:08.979203+00:00",
+    "generated_at": "2026-03-07T08:13:24.436618+00:00",
     "total_sources": 204,
     "version": "2.0",
     "schema_version": "v2.0.0"
@@ -3634,7 +3634,7 @@
         "en": "The National Bureau of Statistics (NBS) is the principal government agency responsible for collecting, processing, and publishing statistical data in China. It provides comprehensive economic, demographic, and social statistics covering national accounts, population census, industrial production, investment, consumption, employment, prices, and regional development.",
         "zh": "国家统计局是中国政府负责收集、处理和发布统计数据的主要机构。提供包括国民经济核算、人口普查、工业生产、投资、消费、就业、价格和区域发展等全面的经济、人口和社会统计数据。"
       },
-      "website": "http://www.stats.gov.cn",
+      "website": "https://www.stats.gov.cn",
       "data_url": "https://www.stats.gov.cn/sj/",
       "api_url": "http://data.stats.gov.cn/api.htm",
       "country": "CN",
