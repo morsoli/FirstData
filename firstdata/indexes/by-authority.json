@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generated_at": "2026-03-07T08:13:24.436618+00:00",
-    "total_sources": 204,
+    "generated_at": "2026-03-09T02:57:34.462668+00:00",
+    "total_sources": 208,
     "authority_counts": {
       "research": 31,
       "international": 53,
-      "government": 89,
+      "government": 92,
+      "market": 16,
       "commercial": 15,
-      "market": 15,
       "other": 1
     },
     "version": "2.0"
@@ -1335,6 +1335,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-safe",
+        "name": {
+          "en": "State Administration of Foreign Exchange of China",
+          "zh": "国家外汇管理局",
+          "native": "国家外汇管理局"
+        },
+        "authority_level": "government",
+        "data_url": "http://www.safe.gov.cn/safe/tjsj/index.html",
+        "has_api": false,
+        "file_path": "china/finance/forex/china-safe.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "china-csrc",
         "name": {
           "en": "China Securities Regulatory Commission",
@@ -1345,6 +1358,19 @@
         "data_url": "https://www.csrc.gov.cn/csrc/c100103/common_list.shtml",
         "has_api": false,
         "file_path": "china/finance/securities/csrc.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-szse",
+        "name": {
+          "en": "Shenzhen Stock Exchange",
+          "zh": "深圳证券交易所",
+          "native": "深圳证券交易所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.szse.cn/market/trend/index.html",
+        "has_api": true,
+        "file_path": "china/finance/securities/szse.json",
         "geographic_scope": "national"
       },
       {
@@ -1469,6 +1495,19 @@
         "data_url": "https://www.cnipa.gov.cn/col/col61/index.html",
         "has_api": false,
         "file_path": "china/technology/intellectual_property/china-cnipa-patents.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-cinic",
+        "name": {
+          "en": "China Internet Network Information Center",
+          "zh": "中国互联网络信息中心",
+          "native": "中国互联网络信息中心"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.cnnic.cn/hlwfzyj/hlwxzbg/",
+        "has_api": false,
+        "file_path": "china/technology/internet/cnnic.json",
         "geographic_scope": "national"
       },
       {
@@ -2133,6 +2172,201 @@
         "geographic_scope": "national"
       }
     ],
+    "market": [
+      {
+        "id": "china-sse",
+        "name": {
+          "en": "Shanghai Stock Exchange",
+          "zh": "上海证券交易所",
+          "native": "上海证券交易所"
+        },
+        "authority_level": "market",
+        "data_url": "http://www.sse.com.cn/market/stockdata/statistic/",
+        "has_api": false,
+        "file_path": "china/finance/securities/china-sse.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "vicofa",
+        "name": {
+          "en": "Vietnam Coffee and Cocoa Association",
+          "zh": "越南咖啡与可可协会"
+        },
+        "authority_level": "market",
+        "data_url": "https://vicofa.org.vn/",
+        "has_api": false,
+        "file_path": "countries/asia/vietnam/vicofa.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "brazil-cecafe",
+        "name": {
+          "en": "Brazilian Coffee Exporters Council",
+          "zh": "巴西咖啡出口商协会"
+        },
+        "authority_level": "market",
+        "data_url": "https://www.cecafe.com.br/publicacoes/relatorio-de-exportacoes/",
+        "has_api": false,
+        "file_path": "countries/south-america/brazil-cecafe.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-rare-earth-association",
+        "name": {
+          "en": "Association of China Rare Earth Industry",
+          "zh": "中国稀土行业协会"
+        },
+        "authority_level": "market",
+        "data_url": "https://ac-rei.org.cn",
+        "has_api": false,
+        "file_path": "sectors/B-mining/rare-earth/china-rare-earth-association.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-additive-manufacturing-alliance",
+        "name": {
+          "en": "China Additive Manufacturing Alliance",
+          "zh": "中国增材制造产业联盟"
+        },
+        "authority_level": "market",
+        "data_url": "https://www.miit-eidc.org.cn",
+        "has_api": false,
+        "file_path": "sectors/C-manufacturing/additive/china-additive-manufacturing-alliance.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-auto-association",
+        "name": {
+          "en": "China Association of Automobile Manufacturers",
+          "zh": "中国汽车工业协会"
+        },
+        "authority_level": "market",
+        "data_url": "http://www.caam.org.cn/tjsj",
+        "has_api": false,
+        "file_path": "sectors/C-manufacturing/automotive/china-auto-association.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-charging-alliance",
+        "name": {
+          "en": "China Electric Vehicle Charging Infrastructure Promotion Alliance",
+          "zh": "中国电动汽车充电基础设施促进联盟"
+        },
+        "authority_level": "market",
+        "data_url": "https://evcipa.com/dataCenter/dataList",
+        "has_api": false,
+        "file_path": "sectors/C-manufacturing/automotive/china-charging-alliance.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-petroleum-chemical-federation",
+        "name": {
+          "en": "China Petroleum and Chemical Industry Federation",
+          "zh": "中国石油和化学工业联合会"
+        },
+        "authority_level": "market",
+        "data_url": "http://www.cpcif.org.cn/list/402882396610575f0166105924fe0000",
+        "has_api": false,
+        "file_path": "sectors/C-manufacturing/chemicals/china-petroleum-chemical-federation.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-lcd-association",
+        "name": {
+          "en": "China Optoelectronic Display Association - Liquid Crystal Division (CODA)",
+          "zh": "中国光学光电子行业协会液晶分会"
+        },
+        "authority_level": "market",
+        "data_url": "http://www.coda.org.cn/#/details/more?type=list-info&id=61b1c9ec105e35101858fc49&bannerId=61b30eaa105e353264b3f083",
+        "has_api": false,
+        "file_path": "sectors/C-manufacturing/electronics/china-lcd-association.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-optical-association",
+        "name": {
+          "en": "China Optics and Optoelectronics Manufacturers Association",
+          "zh": "中国光学光电子行业协会"
+        },
+        "authority_level": "market",
+        "data_url": "https://www.coema.org.cn/research/sum",
+        "has_api": false,
+        "file_path": "sectors/C-manufacturing/electronics/china-optical-association.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-semiconductor-association",
+        "name": {
+          "en": "China Semiconductor Industry Association",
+          "zh": "中国半导体行业协会"
+        },
+        "authority_level": "market",
+        "data_url": "https://web.csia.net.cn/hyyhfx",
+        "has_api": false,
+        "file_path": "sectors/C-manufacturing/electronics/china-semiconductor-association.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-machine-tool-association",
+        "name": {
+          "en": "China Machine Tool & Tool Builders' Association",
+          "zh": "中国机床工具工业协会"
+        },
+        "authority_level": "market",
+        "data_url": "https://www.cmtba.org.cn/web/11/list.html",
+        "has_api": false,
+        "file_path": "sectors/C-manufacturing/machinery/china-machine-tool-association.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-robot-industry-alliance",
+        "name": {
+          "en": "Robot Branch of China Machinery Industry Federation",
+          "zh": "中国机械工业联合会机器人分会"
+        },
+        "authority_level": "market",
+        "data_url": "http://cria.mei.net.cn/gzpt.asp?lm=/1310",
+        "has_api": false,
+        "file_path": "sectors/C-manufacturing/robotics/china-robot-industry-alliance.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "bp-statistical-review",
+        "name": {
+          "en": "Statistical Review of World Energy",
+          "zh": "世界能源统计年鉴"
+        },
+        "authority_level": "market",
+        "data_url": "https://www.energyinst.org/statistical-review",
+        "has_api": false,
+        "file_path": "sectors/D-energy/bp-statistical-review.json",
+        "geographic_scope": "global"
+      },
+      {
+        "id": "china-software-association",
+        "name": {
+          "en": "China Software Industry Association",
+          "zh": "中国软件行业协会"
+        },
+        "authority_level": "market",
+        "data_url": "https://www.csia.org.cn/",
+        "has_api": false,
+        "file_path": "sectors/J-information-communication/china-software-association.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "qs-world-university-rankings",
+        "name": {
+          "en": "QS World University Rankings",
+          "zh": "QS世界大学排名"
+        },
+        "authority_level": "market",
+        "data_url": "https://www.topuniversities.com/world-university-rankings",
+        "has_api": false,
+        "file_path": "sectors/P-education/qs-world-university-rankings.json",
+        "geographic_scope": "global"
+      }
+    ],
     "commercial": [
       {
         "id": "hkex",
@@ -2314,188 +2548,6 @@
         "has_api": true,
         "file_path": "sectors/finance_markets/joinquant.json",
         "geographic_scope": "national"
-      }
-    ],
-    "market": [
-      {
-        "id": "vicofa",
-        "name": {
-          "en": "Vietnam Coffee and Cocoa Association",
-          "zh": "越南咖啡与可可协会"
-        },
-        "authority_level": "market",
-        "data_url": "https://vicofa.org.vn/",
-        "has_api": false,
-        "file_path": "countries/asia/vietnam/vicofa.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "brazil-cecafe",
-        "name": {
-          "en": "Brazilian Coffee Exporters Council",
-          "zh": "巴西咖啡出口商协会"
-        },
-        "authority_level": "market",
-        "data_url": "https://www.cecafe.com.br/publicacoes/relatorio-de-exportacoes/",
-        "has_api": false,
-        "file_path": "countries/south-america/brazil-cecafe.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-rare-earth-association",
-        "name": {
-          "en": "Association of China Rare Earth Industry",
-          "zh": "中国稀土行业协会"
-        },
-        "authority_level": "market",
-        "data_url": "https://ac-rei.org.cn",
-        "has_api": false,
-        "file_path": "sectors/B-mining/rare-earth/china-rare-earth-association.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-additive-manufacturing-alliance",
-        "name": {
-          "en": "China Additive Manufacturing Alliance",
-          "zh": "中国增材制造产业联盟"
-        },
-        "authority_level": "market",
-        "data_url": "https://www.miit-eidc.org.cn",
-        "has_api": false,
-        "file_path": "sectors/C-manufacturing/additive/china-additive-manufacturing-alliance.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-auto-association",
-        "name": {
-          "en": "China Association of Automobile Manufacturers",
-          "zh": "中国汽车工业协会"
-        },
-        "authority_level": "market",
-        "data_url": "http://www.caam.org.cn/tjsj",
-        "has_api": false,
-        "file_path": "sectors/C-manufacturing/automotive/china-auto-association.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-charging-alliance",
-        "name": {
-          "en": "China Electric Vehicle Charging Infrastructure Promotion Alliance",
-          "zh": "中国电动汽车充电基础设施促进联盟"
-        },
-        "authority_level": "market",
-        "data_url": "https://evcipa.com/dataCenter/dataList",
-        "has_api": false,
-        "file_path": "sectors/C-manufacturing/automotive/china-charging-alliance.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-petroleum-chemical-federation",
-        "name": {
-          "en": "China Petroleum and Chemical Industry Federation",
-          "zh": "中国石油和化学工业联合会"
-        },
-        "authority_level": "market",
-        "data_url": "http://www.cpcif.org.cn/list/402882396610575f0166105924fe0000",
-        "has_api": false,
-        "file_path": "sectors/C-manufacturing/chemicals/china-petroleum-chemical-federation.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-lcd-association",
-        "name": {
-          "en": "China Optoelectronic Display Association - Liquid Crystal Division (CODA)",
-          "zh": "中国光学光电子行业协会液晶分会"
-        },
-        "authority_level": "market",
-        "data_url": "http://www.coda.org.cn/#/details/more?type=list-info&id=61b1c9ec105e35101858fc49&bannerId=61b30eaa105e353264b3f083",
-        "has_api": false,
-        "file_path": "sectors/C-manufacturing/electronics/china-lcd-association.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-optical-association",
-        "name": {
-          "en": "China Optics and Optoelectronics Manufacturers Association",
-          "zh": "中国光学光电子行业协会"
-        },
-        "authority_level": "market",
-        "data_url": "https://www.coema.org.cn/research/sum",
-        "has_api": false,
-        "file_path": "sectors/C-manufacturing/electronics/china-optical-association.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-semiconductor-association",
-        "name": {
-          "en": "China Semiconductor Industry Association",
-          "zh": "中国半导体行业协会"
-        },
-        "authority_level": "market",
-        "data_url": "https://web.csia.net.cn/hyyhfx",
-        "has_api": false,
-        "file_path": "sectors/C-manufacturing/electronics/china-semiconductor-association.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-machine-tool-association",
-        "name": {
-          "en": "China Machine Tool & Tool Builders' Association",
-          "zh": "中国机床工具工业协会"
-        },
-        "authority_level": "market",
-        "data_url": "https://www.cmtba.org.cn/web/11/list.html",
-        "has_api": false,
-        "file_path": "sectors/C-manufacturing/machinery/china-machine-tool-association.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "china-robot-industry-alliance",
-        "name": {
-          "en": "Robot Branch of China Machinery Industry Federation",
-          "zh": "中国机械工业联合会机器人分会"
-        },
-        "authority_level": "market",
-        "data_url": "http://cria.mei.net.cn/gzpt.asp?lm=/1310",
-        "has_api": false,
-        "file_path": "sectors/C-manufacturing/robotics/china-robot-industry-alliance.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "bp-statistical-review",
-        "name": {
-          "en": "Statistical Review of World Energy",
-          "zh": "世界能源统计年鉴"
-        },
-        "authority_level": "market",
-        "data_url": "https://www.energyinst.org/statistical-review",
-        "has_api": false,
-        "file_path": "sectors/D-energy/bp-statistical-review.json",
-        "geographic_scope": "global"
-      },
-      {
-        "id": "china-software-association",
-        "name": {
-          "en": "China Software Industry Association",
-          "zh": "中国软件行业协会"
-        },
-        "authority_level": "market",
-        "data_url": "https://www.csia.org.cn/",
-        "has_api": false,
-        "file_path": "sectors/J-information-communication/china-software-association.json",
-        "geographic_scope": "national"
-      },
-      {
-        "id": "qs-world-university-rankings",
-        "name": {
-          "en": "QS World University Rankings",
-          "zh": "QS世界大学排名"
-        },
-        "authority_level": "market",
-        "data_url": "https://www.topuniversities.com/world-university-rankings",
-        "has_api": false,
-        "file_path": "sectors/P-education/qs-world-university-rankings.json",
-        "geographic_scope": "global"
       }
     ],
     "other": [
