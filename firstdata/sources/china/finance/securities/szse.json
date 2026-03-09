@@ -1,0 +1,64 @@
+{
+  "id": "china-szse",
+  "name": {
+    "en": "Shenzhen Stock Exchange",
+    "zh": "深圳证券交易所",
+    "native": "深圳证券交易所"
+  },
+  "description": {
+    "en": "The Shenzhen Stock Exchange (SZSE) is one of China's two major stock exchanges, home to the ChiNext board (创业板) for innovative growth companies and the Small and Medium Enterprise (SME) board. It provides comprehensive market data including stock trading statistics, listed company information, bond market data, fund data, index data, and market summaries.",
+    "zh": "深圳证券交易所是中国两大主要证券交易所之一，设有面向创新成长型企业的创业板和中小企业板。提供全面的市场数据，包括股票交易统计、上市公司信息、债券市场数据、基金数据、指数数据和市场总览。"
+  },
+  "website": "https://www.szse.cn",
+  "data_url": "https://www.szse.cn/market/trend/index.html",
+  "api_url": "https://www.szse.cn/api/report/ShowReport/data",
+  "authority_level": "government",
+  "country": "CN",
+  "domains": [
+    "finance",
+    "securities",
+    "capital_markets"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "daily",
+  "tags": [
+    "china",
+    "shenzhen",
+    "stock-exchange",
+    "szse",
+    "chinext",
+    "创业板",
+    "中小板",
+    "深交所",
+    "equity",
+    "securities",
+    "a-shares",
+    "etf",
+    "bonds",
+    "index"
+  ],
+  "data_content": {
+    "en": [
+      "Market Overview - Daily trading volume, market capitalization, number of listed companies, and composite index",
+      "ChiNext Board (创业板) - Trading data, listings, and market statistics for innovative growth companies",
+      "Stock Trading Data - Real-time and historical prices, volume, turnover rate, and sector statistics",
+      "Listed Companies - Company profiles, financial disclosures, prospectuses, and annual reports",
+      "Bond Market - Corporate bonds, convertible bonds, asset-backed securities trading data",
+      "Fund Data - ETF, LOF, and REITs trading volume and net asset value statistics",
+      "Index Data - SZSE Component Index, ChiNext Index, and other derived indices",
+      "Industry Statistics - Trading data segmented by CSRC industry classification",
+      "Investor Statistics - Number of accounts, institutional vs. retail investor breakdown"
+    ],
+    "zh": [
+      "市场总览 - 每日成交量、市值、上市公司数量和综合指数",
+      "创业板 - 创新成长型企业交易数据、上市情况和市场统计",
+      "股票交易数据 - 实时和历史价格、成交量、换手率及行业统计",
+      "上市公司 - 公司概况、财务披露、招股说明书和年报",
+      "债券市场 - 公司债、可转债、资产支持证券交易数据",
+      "基金数据 - ETF、LOF和REITs成交量及净值统计",
+      "指数数据 - 深证成份指数、创业板指数及其他衍生指数",
+      "行业统计 - 按证监会行业分类的交易数据",
+      "投资者统计 - 账户数量、机构与散户投资者结构"
+    ]
+  }
+}
