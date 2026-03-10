@@ -12,10 +12,33 @@
   "website": "https://www.customs.gov.cn",
   "data_url": "https://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302277/index.html",
   "country": "CN",
-  "domains": ["trade", "economics"],
-  "tags": ["customs", "imports", "exports", "HS-code", "trade-statistics"],
+  "domains": [
+    "trade",
+    "economics"
+  ],
+  "tags": [
+    "customs",
+    "imports",
+    "exports",
+    "hs-code",
+    "trade-statistics"
+  ],
   "authority_level": "government",
   "update_frequency": "monthly",
-  "access_level": "free",
-  "has_api": false
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "Import/Export Statistics - Detailed trade data by HS code, country, and commodity category",
+      "Customs Revenue - National customs duty and tax collection data",
+      "Trade Balance - Monthly and annual trade surplus/deficit figures",
+      "Cross-border E-commerce - Cross-border online shopping import/export statistics"
+    ],
+    "zh": [
+      "进出口统计 - 按HS编码、国家和商品类别分类的详细贸易数据",
+      "海关税收 - 全国海关关税和税收征收数据",
+      "贸易差额 - 月度和年度贸易顺差/逆差数据",
+      "跨境电商 - 跨境网购进出口统计"
+    ]
+  },
+  "api_url": null
 }

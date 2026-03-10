@@ -13,10 +13,33 @@
   "data_url": "https://www.bps.go.id/en/statistics-table",
   "api_url": "https://webapi.bps.go.id/developer/",
   "country": "ID",
-  "domains": ["economics", "demographics", "trade", "manufacturing"],
-  "tags": ["statistics", "GDP", "population", "industry"],
+  "domains": [
+    "economics",
+    "demographics",
+    "trade",
+    "manufacturing"
+  ],
+  "tags": [
+    "statistics",
+    "gdp",
+    "population",
+    "industry"
+  ],
   "authority_level": "government",
   "update_frequency": "monthly",
-  "access_level": "free",
-  "has_api": true
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "GDP and Economic Growth - Quarterly and annual national accounts",
+      "Population Census - Demographics, urbanization, and labor force",
+      "Trade Statistics - Import/export by commodity and trading partner",
+      "Manufacturing - Industrial production index and manufacturing output"
+    ],
+    "zh": [
+      "GDP和经济增长 - 季度和年度国民账户",
+      "人口普查 - 人口、城镇化和劳动力",
+      "贸易统计 - 按商品和贸易伙伴分类的进出口",
+      "制造业 - 工业生产指数和制造业产值"
+    ]
+  }
 }

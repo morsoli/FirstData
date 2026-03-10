@@ -12,10 +12,33 @@
   "data_url": "https://www.singstat.gov.sg/find-data",
   "api_url": "https://tablebuilder.singstat.gov.sg/api",
   "country": "SG",
-  "domains": ["economics", "demographics", "trade", "technology"],
-  "tags": ["statistics", "GDP", "population", "digital-economy"],
+  "domains": [
+    "economics",
+    "demographics",
+    "trade",
+    "technology"
+  ],
+  "tags": [
+    "statistics",
+    "gdp",
+    "population",
+    "digital-economy"
+  ],
   "authority_level": "government",
   "update_frequency": "monthly",
-  "access_level": "free",
-  "has_api": true
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "GDP and Economic Performance - Quarterly national accounts and growth forecasts",
+      "Population and Demographics - Resident population, age structure, and labor force",
+      "Trade Statistics - Merchandise and services trade by partner and commodity",
+      "Digital Economy - ICT sector performance and digital adoption metrics"
+    ],
+    "zh": [
+      "GDP和经济表现 - 季度国民账户和增长预测",
+      "人口和人口统计 - 常住人口、年龄结构和劳动力",
+      "贸易统计 - 按伙伴和商品分类的货物和服务贸易",
+      "数字经济 - ICT部门表现和数字化采用指标"
+    ]
+  }
 }

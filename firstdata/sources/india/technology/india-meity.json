@@ -11,10 +11,33 @@
   "website": "https://www.meity.gov.in",
   "data_url": "https://www.meity.gov.in/content/annual-report",
   "country": "IN",
-  "domains": ["technology", "manufacturing", "trade"],
-  "tags": ["electronics", "IT-policy", "PLI-scheme", "digital-governance"],
+  "domains": [
+    "technology",
+    "manufacturing",
+    "trade"
+  ],
+  "tags": [
+    "electronics",
+    "it-policy",
+    "pli-scheme",
+    "digital-governance"
+  ],
   "authority_level": "government",
   "update_frequency": "annual",
-  "access_level": "free",
-  "has_api": false
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "Electronics Production - Domestic electronics manufacturing output and growth",
+      "IT Exports - Software and IT services export revenue",
+      "PLI Scheme - Production Linked Incentive scheme progress and investments",
+      "Digital Infrastructure - Internet penetration, digital payment, and e-governance metrics"
+    ],
+    "zh": [
+      "电子产品生产 - 国内电子制造产值和增长",
+      "IT出口 - 软件和IT服务出口收入",
+      "PLI计划 - 生产挂钩激励计划进展和投资",
+      "数字基础设施 - 互联网普及率、数字支付和电子政务指标"
+    ]
+  },
+  "api_url": null
 }

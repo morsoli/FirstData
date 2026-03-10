@@ -13,10 +13,33 @@
   "data_url": "https://www.inegi.org.mx/datos/",
   "api_url": "https://www.inegi.org.mx/servicios/api_indicadores.html",
   "country": "MX",
-  "domains": ["economics", "demographics", "trade", "transportation"],
-  "tags": ["statistics", "GDP", "census", "employment"],
+  "domains": [
+    "economics",
+    "demographics",
+    "trade",
+    "transportation"
+  ],
+  "tags": [
+    "statistics",
+    "gdp",
+    "census",
+    "employment"
+  ],
   "authority_level": "government",
   "update_frequency": "monthly",
-  "access_level": "free",
-  "has_api": true
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "GDP and Economic Activity - National accounts and economic activity indicators",
+      "Population Census - Demographics, housing, and migration data",
+      "Employment - Labor force participation, unemployment, and wages",
+      "Trade and Transportation - Foreign trade statistics and transport infrastructure"
+    ],
+    "zh": [
+      "GDP和经济活动 - 国民账户和经济活动指标",
+      "人口普查 - 人口、住房和迁移数据",
+      "就业 - 劳动力参与率、失业率和工资",
+      "贸易和交通 - 对外贸易统计和运输基础设施"
+    ]
+  }
 }

@@ -19,13 +19,27 @@
     "tourism"
   ],
   "tags": [
-    "ASEAN",
+    "asean",
     "regional-statistics",
     "trade",
     "investment"
   ],
   "authority_level": "international",
   "update_frequency": "annual",
-  "access_level": "free",
-  "has_api": false
+  "geographic_scope": "regional",
+  "data_content": {
+    "en": [
+      "Trade Statistics - Intra-ASEAN and external trade flows",
+      "Investment - FDI inflows by source country and sector",
+      "Tourism - International visitor arrivals to ASEAN member states",
+      "Economic Indicators - GDP, inflation, employment across 10 member states"
+    ],
+    "zh": [
+      "贸易统计 - 东盟内部和对外贸易流向",
+      "投资 - 按来源国和行业分类的FDI流入",
+      "旅游 - 东盟成员国国际游客人次",
+      "经济指标 - 10个成员国GDP、通胀、就业"
+    ]
+  },
+  "api_url": null
 }

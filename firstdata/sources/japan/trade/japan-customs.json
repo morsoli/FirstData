@@ -13,10 +13,31 @@
   "data_url": "https://www.customs.go.jp/toukei/info/index_e.htm",
   "api_url": "https://www.e-stat.go.jp/api/",
   "country": "JP",
-  "domains": ["trade", "economics"],
-  "tags": ["customs", "imports", "exports", "trade-statistics"],
+  "domains": [
+    "trade",
+    "economics"
+  ],
+  "tags": [
+    "customs",
+    "imports",
+    "exports",
+    "trade-statistics"
+  ],
   "authority_level": "government",
   "update_frequency": "monthly",
-  "access_level": "free",
-  "has_api": true
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "Trade Statistics - Monthly import/export by commodity and country",
+      "Customs District Data - Trade volumes by port and customs office",
+      "HS Code Analysis - Detailed commodity-level trade classification",
+      "Trade Trends - Year-over-year trade value and volume changes"
+    ],
+    "zh": [
+      "贸易统计 - 按商品和国家分类的月度进出口",
+      "海关辖区数据 - 按港口和海关办事处分类的贸易量",
+      "HS编码分析 - 详细商品级贸易分类",
+      "贸易趋势 - 贸易额和贸易量同比变化"
+    ]
+  }
 }

@@ -25,6 +25,20 @@
   ],
   "authority_level": "government",
   "update_frequency": "annual",
-  "access_level": "free",
-  "has_api": false
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "Tourism Statistics - Domestic and international tourist arrivals, revenue, and expenditure",
+      "Cultural Industry - Cultural enterprise statistics, revenue, and employment",
+      "Online Travel - Online travel market regulation and platform data",
+      "Heritage Sites - Cultural heritage and scenic area visitor statistics"
+    ],
+    "zh": [
+      "旅游统计 - 国内外游客人次、收入和支出",
+      "文化产业 - 文化企业统计、营收和就业",
+      "在线旅游 - 在线旅游市场监管和平台数据",
+      "文化遗产 - 文化遗产和景区游客统计"
+    ]
+  },
+  "api_url": null
 }

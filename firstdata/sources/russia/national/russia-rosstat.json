@@ -12,10 +12,35 @@
   "website": "https://rosstat.gov.ru",
   "data_url": "https://rosstat.gov.ru/statistic",
   "country": "RU",
-  "domains": ["economics", "demographics", "trade", "industry"],
-  "tags": ["statistics", "GDP", "population", "e-commerce", "retail"],
+  "domains": [
+    "economics",
+    "demographics",
+    "trade",
+    "industry"
+  ],
+  "tags": [
+    "statistics",
+    "gdp",
+    "population",
+    "e-commerce",
+    "retail"
+  ],
   "authority_level": "government",
   "update_frequency": "monthly",
-  "access_level": "free",
-  "has_api": false
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "GDP and National Accounts - Quarterly and annual economic output",
+      "Demographics - Population, births, deaths, and migration",
+      "Industrial Production - Manufacturing and mining output indices",
+      "Retail and E-commerce - Consumer spending and online retail statistics"
+    ],
+    "zh": [
+      "GDP和国民账户 - 季度和年度经济产出",
+      "人口统计 - 人口、出生、死亡和迁移",
+      "工业生产 - 制造业和采矿业产出指数",
+      "零售和电商 - 消费支出和网上零售统计"
+    ]
+  },
+  "api_url": null
 }
