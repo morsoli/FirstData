@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-09T10:44:18.474748+00:00",
+    "generated_at": "2026-03-10T02:04:41.274926+00:00",
     "total_regions": 14,
-    "total_sources": 208,
+    "total_sources": 210,
     "version": "2.0"
   },
   "regions": {
@@ -199,6 +199,19 @@
         "data_url": "http://www.moa.gov.cn/nybgb/",
         "has_api": false,
         "file_path": "china/economy/agriculture/china-moa.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-caac",
+        "name": {
+          "en": "Civil Aviation Administration of China",
+          "zh": "中国民用航空局",
+          "native": "中国民用航空局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.caac.gov.cn/XXGK/XXGK/TJSJ/index.html",
+        "has_api": false,
+        "file_path": "china/economy/china-caac.json",
         "geographic_scope": "national"
       },
       {

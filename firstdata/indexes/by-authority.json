@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-09T10:44:18.474748+00:00",
-    "total_sources": 208,
+    "generated_at": "2026-03-10T02:04:41.274926+00:00",
+    "total_sources": 210,
     "authority_counts": {
       "research": 31,
-      "international": 53,
-      "government": 92,
+      "international": 54,
+      "government": 93,
       "market": 16,
       "commercial": 15,
       "other": 1
@@ -682,6 +682,19 @@
         "geographic_scope": "regional"
       },
       {
+        "id": "eurostat",
+        "name": {
+          "en": "Eurostat - Statistical Office of the European Union",
+          "zh": "欧盟统计局",
+          "native": "Eurostat"
+        },
+        "authority_level": "international",
+        "data_url": "https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes",
+        "has_api": true,
+        "file_path": "international/economics/eurostat.json",
+        "geographic_scope": "regional"
+      },
+      {
         "id": "imf-data",
         "name": {
           "en": "IMF Data",
@@ -1146,6 +1159,19 @@
         "data_url": "http://www.moa.gov.cn/nybgb/",
         "has_api": false,
         "file_path": "china/economy/agriculture/china-moa.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-caac",
+        "name": {
+          "en": "Civil Aviation Administration of China",
+          "zh": "中国民用航空局",
+          "native": "中国民用航空局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.caac.gov.cn/XXGK/XXGK/TJSJ/index.html",
+        "has_api": false,
+        "file_path": "china/economy/china-caac.json",
         "geographic_scope": "national"
       },
       {
