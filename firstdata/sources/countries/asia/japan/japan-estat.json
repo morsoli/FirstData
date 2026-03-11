@@ -11,7 +11,7 @@
   },
   "website": "https://www.e-stat.go.jp/en",
   "data_url": "https://www.e-stat.go.jp/en/stat-search",
-  "api_url": "https://www.e-stat.go.jp/en/api",
+  "api_url": "https://www.e-stat.go.jp/en/developer",
   "authority_level": "government",
   "country": "JP",
   "domains": [
