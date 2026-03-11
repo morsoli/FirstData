@@ -1,0 +1,44 @@
+{
+  "id": "china-mct",
+  "name": {
+    "en": "Ministry of Culture and Tourism of China",
+    "zh": "中华人民共和国文化和旅游部",
+    "native": "中华人民共和国文化和旅游部"
+  },
+  "description": {
+    "en": "The Ministry of Culture and Tourism publishes statistics on domestic and international tourism, cultural industry development, and online travel market regulation in China.",
+    "zh": "文化和旅游部发布国内外旅游统计、文化产业发展和在线旅游市场监管数据。"
+  },
+  "website": "https://www.mct.gov.cn",
+  "data_url": "https://www.mct.gov.cn/zwgk/tjsj/",
+  "country": "CN",
+  "domains": [
+    "tourism",
+    "culture",
+    "economics"
+  ],
+  "tags": [
+    "tourism-statistics",
+    "cultural-industry",
+    "inbound-tourism",
+    "outbound-tourism"
+  ],
+  "authority_level": "government",
+  "update_frequency": "annual",
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "Tourism Statistics - Domestic and international tourist arrivals, revenue, and expenditure",
+      "Cultural Industry - Cultural enterprise statistics, revenue, and employment",
+      "Online Travel - Online travel market regulation and platform data",
+      "Heritage Sites - Cultural heritage and scenic area visitor statistics"
+    ],
+    "zh": [
+      "旅游统计 - 国内外游客人次、收入和支出",
+      "文化产业 - 文化企业统计、营收和就业",
+      "在线旅游 - 在线旅游市场监管和平台数据",
+      "文化遗产 - 文化遗产和景区游客统计"
+    ]
+  },
+  "api_url": null
+}

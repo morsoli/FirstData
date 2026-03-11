@@ -1,0 +1,45 @@
+{
+  "id": "thailand-nso",
+  "name": {
+    "en": "National Statistical Office of Thailand",
+    "zh": "泰国国家统计局",
+    "native": "สำนักงานสถิติแห่งชาติ"
+  },
+  "description": {
+    "en": "The National Statistical Office (NSO) is Thailand's central government agency for statistical data. It provides data on demographics, economy, labor, trade, and social indicators.",
+    "zh": "泰国国家统计局是泰国统计数据的中央政府机构。提供人口、经济、劳动力、贸易和社会指标数据。"
+  },
+  "website": "https://www.nso.go.th",
+  "data_url": "https://www.nso.go.th/nsoweb/nso/statistics",
+  "country": "TH",
+  "domains": [
+    "economics",
+    "demographics",
+    "labor",
+    "trade"
+  ],
+  "tags": [
+    "statistics",
+    "gdp",
+    "population",
+    "employment"
+  ],
+  "authority_level": "government",
+  "update_frequency": "quarterly",
+  "geographic_scope": "national",
+  "data_content": {
+    "en": [
+      "Population Census - Demographics, households, and urbanization",
+      "Labor Force Survey - Employment, unemployment, and wage statistics",
+      "Economic Statistics - GDP components, prices, and business surveys",
+      "Social Indicators - Education, health, and income distribution"
+    ],
+    "zh": [
+      "人口普查 - 人口、家庭和城镇化",
+      "劳动力调查 - 就业、失业和工资统计",
+      "经济统计 - GDP构成、价格和企业调查",
+      "社会指标 - 教育、卫生和收入分配"
+    ]
+  },
+  "api_url": null
+}
