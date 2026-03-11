@@ -1,0 +1,83 @@
+{
+  "id": "japan-estat",
+  "name": {
+    "en": "Japan e-Stat (Portal Site of Official Statistics)",
+    "zh": "日本统计局 e-Stat（政府统计综合窗口）",
+    "native": "政府統計の総合窓口 e-Stat"
+  },
+  "description": {
+    "en": "e-Stat is Japan's official statistics portal operated by the Statistics Bureau of Japan under the Ministry of Internal Affairs and Communications. It provides unified access to statistical data published by all Japanese government ministries and agencies, covering population, economy, industry, agriculture, education, health, and more. The platform offers a comprehensive REST API for data retrieval.",
+    "zh": "e-Stat 是日本总务省统计局运营的官方统计数据门户，提供对日本各政府部委和机构发布的统计数据的统一访问，涵盖人口、经济、产业、农业、教育、卫生等领域。该平台提供完整的 REST API 用于数据检索。"
+  },
+  "website": "https://www.e-stat.go.jp/en",
+  "data_url": "https://www.e-stat.go.jp/en/stat-search",
+  "api_url": "https://www.e-stat.go.jp/en/developer",
+  "authority_level": "government",
+  "country": "JP",
+  "domains": [
+    "statistics",
+    "economics",
+    "demographics",
+    "social",
+    "education",
+    "health"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "irregular",
+  "tags": [
+    "Japan",
+    "日本",
+    "e-Stat",
+    "statistics",
+    "统计",
+    "census",
+    "人口普查",
+    "population",
+    "人口",
+    "economy",
+    "经济",
+    "Ministry of Internal Affairs",
+    "总务省",
+    "Statistics Bureau",
+    "统计局",
+    "government data",
+    "政府数据",
+    "industrial statistics",
+    "产业统计",
+    "national accounts",
+    "国民账户",
+    "labor force",
+    "劳动力",
+    "API"
+  ],
+  "data_content": {
+    "en": [
+      "Population Census (every 5 years) — national and regional population, households, age structure",
+      "National Accounts (GDP, income, expenditure) from Cabinet Office",
+      "Consumer Price Index (CPI) and Producer Price Index",
+      "Labour Force Survey — employment, unemployment rate, working hours",
+      "Family Income and Expenditure Survey",
+      "Industrial Statistics — manufacturing output, number of establishments",
+      "Agricultural, Forestry and Fisheries Census",
+      "School Basic Survey — student enrolment, graduates, schools by level",
+      "Patient Survey and Medical Facility Survey",
+      "Housing and Land Survey",
+      "Retail Trade Statistics and Wholesale Statistics",
+      "Over 100,000 statistical tables accessible via REST API"
+    ],
+    "zh": [
+      "人口普查（每5年一次）——全国及地区人口、家庭数量、年龄结构",
+      "国民账户（GDP、收入、支出）——来自内阁府",
+      "消费者价格指数（CPI）和生产者价格指数",
+      "劳动力调查——就业人数、失业率、工作时长",
+      "家庭收支调查",
+      "工业统计——制造业产出、企业数量",
+      "农林渔业普查",
+      "学校基本调查——各级学校学生注册人数、毕业生数量",
+      "患者调查和医疗机构调查",
+      "住宅和土地调查",
+      "零售业和批发业统计",
+      "超过10万张统计表可通过 REST API 访问"
+    ]
+  }
+}
