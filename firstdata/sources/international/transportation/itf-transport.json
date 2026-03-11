@@ -10,7 +10,7 @@
   },
   "website": "https://www.itf-oecd.org/",
   "data_url": "https://www.itf-oecd.org/transport-statistics",
-  "api_url": "https://stats.oecd.org/Index.aspx?DataSetCode=ITF_ROAD_ACCIDENTS",
+  "api_url": "https://data-explorer.oecd.org/vis?df[ds]=dsDisseminateFinalDMZ&df[id]=ITF_INDICATORS&df[ag]=ITF",
   "authority_level": "international",
   "country": null,
   "domains": [
