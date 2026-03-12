@@ -1,0 +1,53 @@
+{
+  "id": "china-nafmii",
+  "name": {
+    "en": "National Association of Financial Market Institutional Investors",
+    "zh": "中国银行间市场交易商协会"
+  },
+  "description": {
+    "en": "NAFMII is a self-regulatory organization for China's interbank market, overseeing debt financing instruments, bond market registration, and market conduct. It publishes data on interbank bond issuance, trading volumes, market participants, and debt financing instruments including commercial paper, medium-term notes, and asset-backed securities.",
+    "zh": "中国银行间市场交易商协会是中国银行间市场的自律组织，负责债务融资工具注册、债券市场监管和市场行为规范。发布银行间债券发行、交易量、市场参与者以及短期融资券、中期票据、资产支持证券等债务融资工具数据。"
+  },
+  "website": "https://www.nafmii.org.cn",
+  "data_url": "https://www.nafmii.org.cn/scyjfx/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "national",
+  "domains": [
+    "finance",
+    "capital-markets",
+    "bond-market",
+    "debt-financing"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "china",
+    "interbank-market",
+    "bond-issuance",
+    "debt-financing",
+    "capital-markets",
+    "commercial-paper",
+    "medium-term-notes",
+    "银行间市场",
+    "债务融资",
+    "债券",
+    "交易商协会"
+  ],
+  "data_content": {
+    "en": [
+      "Interbank Bond Market - Bond issuance volumes, trading data, and market statistics",
+      "Debt Financing Instruments - Registration and issuance data for commercial paper (CP), super-short-term CP (SCP), medium-term notes (MTN), and perpetual bonds",
+      "Asset-Backed Securities - Issuance and performance data for interbank ABS products",
+      "Market Participants - Registry of dealers, underwriters, and institutional investors",
+      "Market Rules and Standards - Self-regulatory rules, market conventions, and compliance requirements"
+    ],
+    "zh": [
+      "银行间债券市场 - 债券发行量、交易数据和市场统计",
+      "债务融资工具 - 短期融资券(CP)、超短期融资券(SCP)、中期票据(MTN)和永续债的注册发行数据",
+      "资产支持证券 - 银行间ABS产品的发行与表现数据",
+      "市场参与者 - 交易商、承销商和机构投资者登记信息",
+      "市场规则与标准 - 自律规则、市场惯例和合规要求"
+    ]
+  }
+}

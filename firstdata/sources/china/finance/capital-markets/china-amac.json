@@ -1,0 +1,52 @@
+{
+  "id": "china-amac",
+  "name": {
+    "en": "Asset Management Association of China",
+    "zh": "中国证券投资基金业协会"
+  },
+  "description": {
+    "en": "AMAC is the self-regulatory organization for China's fund management industry, responsible for registration of private fund managers and products, industry statistics, and investor protection. It publishes comprehensive data on mutual funds, private funds, asset management plans, and industry development.",
+    "zh": "中国证券投资基金业协会是基金行业自律组织，负责私募基金管理人和产品登记备案、行业统计和投资者保护。发布公募基金、私募基金、资产管理计划和行业发展等全面数据。"
+  },
+  "website": "https://www.amac.org.cn",
+  "data_url": "https://www.amac.org.cn/researchstatistics/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "national",
+  "domains": [
+    "finance",
+    "capital-markets",
+    "fund-management",
+    "asset-management"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "china",
+    "mutual-funds",
+    "private-funds",
+    "asset-management",
+    "fund-industry",
+    "基金",
+    "私募",
+    "公募",
+    "资产管理",
+    "基金业协会"
+  ],
+  "data_content": {
+    "en": [
+      "Mutual Fund Statistics - AUM, fund counts, investor numbers, and performance by fund type (equity, bond, money market, hybrid)",
+      "Private Fund Registry - Registered private fund managers, fund products, AUM distribution, and regional statistics",
+      "Asset Management Plans - Securities firm, insurance, and futures asset management data",
+      "Industry Reports - Annual and quarterly reports on China's fund industry development, trends, and challenges",
+      "Investor Protection - Investor education data, complaint statistics, and protection mechanisms"
+    ],
+    "zh": [
+      "公募基金统计 - 管理规模、基金数量、投资者数量及各类型基金(股票、债券、货币、混合)表现",
+      "私募基金登记 - 已登记私募基金管理人、基金产品、管理规模分布和地区统计",
+      "资产管理计划 - 证券公司、保险、期货资产管理数据",
+      "行业报告 - 中国基金行业发展年度和季度报告、趋势与挑战分析",
+      "投资者保护 - 投资者教育数据、投诉统计和保护机制"
+    ]
+  }
+}

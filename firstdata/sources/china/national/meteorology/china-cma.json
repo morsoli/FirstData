@@ -1,0 +1,55 @@
+{
+  "id": "china-cma",
+  "name": {
+    "en": "China Meteorological Administration",
+    "zh": "中国气象局"
+  },
+  "description": {
+    "en": "The China Meteorological Administration (CMA) is the national meteorological authority responsible for weather monitoring, climate research, and meteorological services. Through its National Meteorological Information Center and China Meteorological Data Service Centre (data.cma.cn), it provides comprehensive weather observations, climate datasets, satellite imagery, and environmental monitoring data.",
+    "zh": "中国气象局是国家气象主管机构，负责天气监测、气候研究和气象服务。通过国家气象信息中心和中国气象数据网(data.cma.cn)，提供全面的气象观测、气候数据集、卫星影像和环境监测数据。"
+  },
+  "website": "https://www.cma.gov.cn",
+  "data_url": "https://data.cma.cn",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "national",
+  "domains": [
+    "meteorology",
+    "climate",
+    "environment",
+    "earth-science"
+  ],
+  "update_frequency": "daily",
+  "tags": [
+    "china",
+    "weather",
+    "climate",
+    "meteorology",
+    "satellite",
+    "environment",
+    "气象",
+    "天气",
+    "气候",
+    "气象数据",
+    "卫星遥感"
+  ],
+  "data_content": {
+    "en": [
+      "Surface Observations - Temperature, precipitation, humidity, wind, pressure from 2000+ weather stations nationwide",
+      "Climate Data - Historical climate records, climate normals, extreme weather events, and climate change indicators",
+      "Satellite Data - FY-series meteorological satellite imagery, cloud products, and remote sensing data",
+      "Radar Data - Weather radar observations covering precipitation, severe weather detection",
+      "Climate Projections - Regional climate model outputs, climate change scenarios, and impact assessments",
+      "Agrometeorological Data - Crop weather conditions, soil moisture, growing season data for agricultural planning"
+    ],
+    "zh": [
+      "地面观测 - 全国2000+气象站的温度、降水、湿度、风速、气压数据",
+      "气候数据 - 历史气候记录、气候标准值、极端天气事件和气候变化指标",
+      "卫星数据 - 风云系列气象卫星影像、云产品和遥感数据",
+      "雷达数据 - 覆盖降水、强对流天气的气象雷达观测",
+      "气候预估 - 区域气候模式输出、气候变化情景和影响评估",
+      "农业气象 - 作物气象条件、土壤湿度、生长季数据"
+    ]
+  }
+}
