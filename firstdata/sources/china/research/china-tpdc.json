@@ -1,0 +1,54 @@
+{
+  "id": "china-tpdc",
+  "name": {
+    "en": "National Tibetan Plateau Data Center",
+    "zh": "国家青藏高原科学数据中心"
+  },
+  "description": {
+    "en": "The National Tibetan Plateau Data Center (TPDC), hosted by the Institute of Tibetan Plateau Research, Chinese Academy of Sciences, is a national-level scientific data center focused on the Tibetan Plateau and surrounding regions. It provides open access to datasets on glaciology, hydrology, ecology, atmospheric science, and geoscience for the Third Pole region.",
+    "zh": "国家青藏高原科学数据中心由中国科学院青藏高原研究所运维，是面向青藏高原及周边区域的国家级科学数据中心。提供冰川学、水文学、生态学、大气科学和地球科学等领域的开放数据。"
+  },
+  "website": "https://data.tpdc.ac.cn",
+  "data_url": "https://data.tpdc.ac.cn",
+  "api_url": null,
+  "authority_level": "research",
+  "country": "CN",
+  "geographic_scope": "regional",
+  "domains": [
+    "earth-science",
+    "climate",
+    "ecology",
+    "glaciology",
+    "hydrology"
+  ],
+  "update_frequency": "irregular",
+  "tags": [
+    "china",
+    "tibetan-plateau",
+    "third-pole",
+    "glaciers",
+    "climate",
+    "ecology",
+    "geoscience",
+    "青藏高原",
+    "冰川",
+    "生态",
+    "第三极"
+  ],
+  "data_content": {
+    "en": [
+      "Glaciology - Glacier inventories, ice thickness, mass balance, and permafrost distribution for the Tibetan Plateau and High Mountain Asia",
+      "Hydrology - River discharge, lake levels, water resources, and watershed data for major Asian river headwaters",
+      "Ecology - Vegetation indices, land cover, biodiversity surveys, and ecosystem monitoring on the plateau",
+      "Atmospheric Science - Meteorological observations, radiation data, and atmospheric composition from high-altitude stations",
+      "Remote Sensing Products - Satellite-derived datasets including snow cover, land surface temperature, and terrain models"
+    ],
+    "zh": [
+      "冰川学 - 青藏高原和高亚洲的冰川编目、冰厚度、物质平衡和冻土分布",
+      "水文学 - 亚洲主要河流源区的河流径流、湖泊水位、水资源和流域数据",
+      "生态学 - 高原植被指数、土地覆盖、生物多样性调查和生态系统监测",
+      "大气科学 - 高海拔站点的气象观测、辐射数据和大气成分",
+      "遥感产品 - 卫星衍生数据集，包括积雪覆盖、地表温度和地形模型"
+    ]
+  }
+}

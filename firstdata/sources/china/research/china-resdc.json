@@ -1,0 +1,52 @@
+{
+  "id": "china-resdc",
+  "name": {
+    "en": "Resource and Environment Science and Data Center, Chinese Academy of Sciences",
+    "zh": "中国科学院资源环境科学与数据中心"
+  },
+  "description": {
+    "en": "The Resource and Environment Science and Data Center (RESDC), operated by the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, provides authoritative geospatial and environmental datasets for China and East Asia. It covers land use, natural resources, environmental quality, and socioeconomic spatial data.",
+    "zh": "中国科学院资源环境科学与数据中心由中国科学院地理科学与资源研究所运维，提供中国及东亚地区的权威地理空间和环境数据集，涵盖土地利用、自然资源、环境质量和社会经济空间数据。"
+  },
+  "website": "https://www.resdc.cn",
+  "data_url": "https://www.resdc.cn",
+  "api_url": null,
+  "authority_level": "research",
+  "country": "CN",
+  "geographic_scope": "national",
+  "domains": [
+    "earth-science",
+    "environment",
+    "natural-resources",
+    "geospatial"
+  ],
+  "update_frequency": "irregular",
+  "tags": [
+    "china",
+    "land-use",
+    "remote-sensing",
+    "natural-resources",
+    "environment",
+    "geospatial",
+    "资源环境",
+    "土地利用",
+    "遥感",
+    "地理空间"
+  ],
+  "data_content": {
+    "en": [
+      "Land Use/Cover - Multi-temporal land use classification data for China at 1km and 30m resolution from 1980s to present",
+      "Natural Resources - Datasets on water resources, mineral resources, soil types, and vegetation distribution",
+      "Environmental Quality - Air quality, water quality, and ecological environment assessment data",
+      "Socioeconomic Spatial Data - GDP spatial distribution, population density grids, and urbanization data",
+      "Climate and Meteorology - Spatial interpolation datasets of temperature, precipitation, and other climate variables"
+    ],
+    "zh": [
+      "土地利用/覆盖 - 1980年代至今中国1km和30m分辨率的多时相土地利用分类数据",
+      "自然资源 - 水资源、矿产资源、土壤类型和植被分布数据",
+      "环境质量 - 大气质量、水质和生态环境评估数据",
+      "社会经济空间数据 - GDP空间分布、人口密度格网和城镇化数据",
+      "气候气象 - 温度、降水等气候要素的空间插值数据集"
+    ]
+  }
+}
