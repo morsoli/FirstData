@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-03-11T03:51:15.523123+00:00",
+    "generated_at": "2026-03-12T02:05:36.531199+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 230,
-    "sources_with_api": 105,
-    "last_updated": "2026-03-11"
+    "total_sources": 231,
+    "sources_with_api": 106,
+    "last_updated": "2026-03-12"
   },
   "by_authority_level": {
     "research": 31,
     "international": 57,
-    "government": 110,
+    "government": 111,
     "market": 16,
     "commercial": 15,
     "other": 1
   },
   "by_geographic_scope": {
     "global": 80,
-    "national": 127,
+    "national": 128,
     "regional": 23
   },
   "by_update_frequency": {
@@ -26,32 +26,32 @@
     "daily": 43,
     "weekly": 9,
     "quarterly": 26,
-    "monthly": 56,
+    "monthly": 57,
     "annual": 43,
     "real-time": 10
   },
   "by_domain": {
-    "economics": 75,
-    "trade": 40,
+    "economics": 76,
+    "trade": 41,
     "finance": 35,
-    "demographics": 32,
-    "health": 27,
-    "education": 27,
-    "environment": 26,
+    "demographics": 33,
+    "health": 28,
+    "education": 28,
+    "environment": 27,
     "agriculture": 26,
-    "social": 18,
+    "social": 19,
     "infrastructure": 15,
     "technology": 15,
     "energy": 13,
     "development": 12,
     "industry": 12,
+    "manufacturing": 12,
+    "employment": 11,
     "transportation": 11,
-    "manufacturing": 11,
-    "employment": 10,
+    "housing": 9,
     "statistics": 9,
     "banking": 9,
     "population": 8,
-    "housing": 8,
     "securities": 8,
     "genomics": 7,
     "labor": 7,

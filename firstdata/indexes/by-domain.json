@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-11T03:51:15.523123+00:00",
+    "generated_at": "2026-03-12T02:05:36.531199+00:00",
     "total_domains": 682,
-    "total_sources": 230,
+    "total_sources": 231,
     "version": "2.0"
   },
   "domains": {
@@ -3834,6 +3834,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "canada-statcan",
         "name": {
           "en": "Statistics Canada",
@@ -5350,6 +5363,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "uk-ons-cpi-rpi",
         "name": {
           "en": "UK Office for National Statistics - Consumer Price Index and Retail Prices Index",
@@ -5981,6 +6007,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "uk-data-gov",
         "name": {
           "en": "Data.gov.uk",
@@ -6525,6 +6564,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "usa-census-bureau",
         "name": {
           "en": "United States Census Bureau",
@@ -7038,6 +7090,19 @@
         "data_url": "https://www.nso.gov.vn/en/statistical-data/",
         "has_api": false,
         "file_path": "countries/asia/vietnam/gso.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
         "geographic_scope": "national"
       },
       {
@@ -9805,6 +9870,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "uk-data-gov",
         "name": {
           "en": "Data.gov.uk",
@@ -10359,6 +10437,19 @@
         "data_url": "https://data.cnki.net/npcd",
         "has_api": false,
         "file_path": "china/national/cnki-population-census.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
         "geographic_scope": "national"
       },
       {
@@ -12620,6 +12711,19 @@
         "data_url": "https://www.miit.gov.cn/gxsj/index.html",
         "has_api": false,
         "file_path": "china/technology/telecommunications/china-miit.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
         "geographic_scope": "national"
       },
       {
@@ -16287,6 +16391,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "brazil-ibge",
         "name": {
           "en": "Brazilian Institute of Geography and Statistics",
@@ -17773,6 +17890,19 @@
         "data_url": "https://www.mpi.gov.vn/en/Pages/FDI-1637.aspx",
         "has_api": false,
         "file_path": "countries/asia/vietnam/vietnam-fia.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
         "geographic_scope": "national"
       },
       {

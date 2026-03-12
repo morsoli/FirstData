@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-11T03:51:15.523123+00:00",
-    "total_sources": 230,
+    "generated_at": "2026-03-12T02:05:36.531199+00:00",
+    "total_sources": 231,
     "authority_counts": {
       "research": 31,
       "international": 57,
-      "government": 110,
+      "government": 111,
       "market": 16,
       "commercial": 15,
       "other": 1
@@ -1974,6 +1974,19 @@
         "data_url": "https://www.bankofengland.co.uk/boeapps/database/",
         "has_api": true,
         "file_path": "countries/europe/bank-of-england-statistics.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "germany-destatis",
+        "name": {
+          "en": "Federal Statistical Office of Germany (Destatis)",
+          "zh": "德国联邦统计局",
+          "native": "Statistisches Bundesamt (Destatis)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.destatis.de/EN/Themes/_node.html",
+        "has_api": true,
+        "file_path": "countries/europe/germany/germany-destatis.json",
         "geographic_scope": "national"
       },
       {
