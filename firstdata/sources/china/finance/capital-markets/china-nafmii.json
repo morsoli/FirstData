@@ -9,7 +9,7 @@
     "zh": "中国银行间市场交易商协会是中国银行间市场的自律组织，负责债务融资工具注册、债券市场监管和市场行为规范。发布银行间债券发行、交易量、市场参与者以及短期融资券、中期票据、资产支持证券等债务融资工具数据。"
   },
   "website": "https://www.nafmii.org.cn",
-  "data_url": "https://www.nafmii.org.cn/scyjfx/",
+  "data_url": "https://www.nafmii.org.cn/",
   "api_url": null,
   "authority_level": "government",
   "country": "CN",
