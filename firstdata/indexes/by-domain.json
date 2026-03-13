@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T02:05:17.902545+00:00",
+    "generated_at": "2026-03-13T02:07:30.289105+00:00",
     "total_domains": 688,
-    "total_sources": 238,
+    "total_sources": 241,
     "version": "2.0"
   },
   "domains": {
@@ -2382,6 +2382,18 @@
         "has_api": true,
         "file_path": "international/energy/iea.json",
         "geographic_scope": "global"
+      },
+      {
+        "id": "irena",
+        "name": {
+          "en": "IRENA - International Renewable Energy Agency",
+          "zh": "国际可再生能源署"
+        },
+        "authority_level": "international",
+        "data_url": "https://www.irena.org/Data",
+        "has_api": true,
+        "file_path": "international/energy/irena.json",
+        "geographic_scope": "global"
       }
     ],
     "climate change": [
@@ -4279,6 +4291,18 @@
         "geographic_scope": "regional"
       },
       {
+        "id": "undp-hdr",
+        "name": {
+          "en": "UNDP Human Development Reports",
+          "zh": "联合国开发计划署人类发展报告"
+        },
+        "authority_level": "international",
+        "data_url": "https://hdr.undp.org/data-center",
+        "has_api": false,
+        "file_path": "international/development/undp-hdr.json",
+        "geographic_scope": "global"
+      },
+      {
         "id": "adb-ado",
         "name": {
           "en": "Asian Development Outlook",
@@ -5739,6 +5763,18 @@
         "geographic_scope": "regional"
       },
       {
+        "id": "undp-hdr",
+        "name": {
+          "en": "UNDP Human Development Reports",
+          "zh": "联合国开发计划署人类发展报告"
+        },
+        "authority_level": "international",
+        "data_url": "https://hdr.undp.org/data-center",
+        "has_api": false,
+        "file_path": "international/development/undp-hdr.json",
+        "geographic_scope": "global"
+      },
+      {
         "id": "adb-ado",
         "name": {
           "en": "Asian Development Outlook",
@@ -5898,6 +5934,18 @@
         "data_url": "https://www.iea.org/data-and-statistics",
         "has_api": true,
         "file_path": "international/energy/iea.json",
+        "geographic_scope": "global"
+      },
+      {
+        "id": "irena",
+        "name": {
+          "en": "IRENA - International Renewable Energy Agency",
+          "zh": "国际可再生能源署"
+        },
+        "authority_level": "international",
+        "data_url": "https://www.irena.org/Data",
+        "has_api": true,
+        "file_path": "international/energy/irena.json",
         "geographic_scope": "global"
       },
       {
@@ -6071,6 +6119,18 @@
         "data_url": "https://www.nso.go.th/nsoweb/nso/statistics",
         "has_api": false,
         "file_path": "thailand/national/thailand-nso.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-fred",
+        "name": {
+          "en": "FRED - Federal Reserve Economic Data",
+          "zh": "美联储经济数据库"
+        },
+        "authority_level": "government",
+        "data_url": "https://fred.stlouisfed.org",
+        "has_api": true,
+        "file_path": "us/economics/us-fred.json",
         "geographic_scope": "national"
       },
       {
@@ -6394,6 +6454,18 @@
         "has_api": true,
         "file_path": "international/development/idb.json",
         "geographic_scope": "regional"
+      },
+      {
+        "id": "undp-hdr",
+        "name": {
+          "en": "UNDP Human Development Reports",
+          "zh": "联合国开发计划署人类发展报告"
+        },
+        "authority_level": "international",
+        "data_url": "https://hdr.undp.org/data-center",
+        "has_api": false,
+        "file_path": "international/development/undp-hdr.json",
+        "geographic_scope": "global"
       },
       {
         "id": "adb",
@@ -7017,6 +7089,18 @@
         "geographic_scope": "global"
       },
       {
+        "id": "irena",
+        "name": {
+          "en": "IRENA - International Renewable Energy Agency",
+          "zh": "国际可再生能源署"
+        },
+        "authority_level": "international",
+        "data_url": "https://www.irena.org/Data",
+        "has_api": true,
+        "file_path": "international/energy/irena.json",
+        "geographic_scope": "global"
+      },
+      {
         "id": "unctad-infrastructure-statistics",
         "name": {
           "en": "UNCTAD Infrastructure Statistics Database",
@@ -7579,6 +7663,18 @@
         "data_url": "https://www.iea.org/data-and-statistics",
         "has_api": true,
         "file_path": "international/energy/iea.json",
+        "geographic_scope": "global"
+      },
+      {
+        "id": "irena",
+        "name": {
+          "en": "IRENA - International Renewable Energy Agency",
+          "zh": "国际可再生能源署"
+        },
+        "authority_level": "international",
+        "data_url": "https://www.irena.org/Data",
+        "has_api": true,
+        "file_path": "international/energy/irena.json",
         "geographic_scope": "global"
       },
       {
@@ -8586,6 +8682,18 @@
         "data_url": "https://www.joinquant.com/data",
         "has_api": true,
         "file_path": "sectors/finance_markets/joinquant.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-fred",
+        "name": {
+          "en": "FRED - Federal Reserve Economic Data",
+          "zh": "美联储经济数据库"
+        },
+        "authority_level": "government",
+        "data_url": "https://fred.stlouisfed.org",
+        "has_api": true,
+        "file_path": "us/economics/us-fred.json",
         "geographic_scope": "national"
       },
       {
@@ -10421,6 +10529,18 @@
         "has_api": true,
         "file_path": "international/development/idb.json",
         "geographic_scope": "regional"
+      },
+      {
+        "id": "undp-hdr",
+        "name": {
+          "en": "UNDP Human Development Reports",
+          "zh": "联合国开发计划署人类发展报告"
+        },
+        "authority_level": "international",
+        "data_url": "https://hdr.undp.org/data-center",
+        "has_api": false,
+        "file_path": "international/development/undp-hdr.json",
+        "geographic_scope": "global"
       },
       {
         "id": "adb",
@@ -12604,6 +12724,18 @@
         "data_url": "https://www.nso.go.th/nsoweb/nso/statistics",
         "has_api": false,
         "file_path": "thailand/national/thailand-nso.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-fred",
+        "name": {
+          "en": "FRED - Federal Reserve Economic Data",
+          "zh": "美联储经济数据库"
+        },
+        "authority_level": "government",
+        "data_url": "https://fred.stlouisfed.org",
+        "has_api": true,
+        "file_path": "us/economics/us-fred.json",
         "geographic_scope": "national"
       }
     ],
@@ -16939,6 +17071,18 @@
         "geographic_scope": "regional"
       },
       {
+        "id": "undp-hdr",
+        "name": {
+          "en": "UNDP Human Development Reports",
+          "zh": "联合国开发计划署人类发展报告"
+        },
+        "authority_level": "international",
+        "data_url": "https://hdr.undp.org/data-center",
+        "has_api": false,
+        "file_path": "international/development/undp-hdr.json",
+        "geographic_scope": "global"
+      },
+      {
         "id": "adb-ado",
         "name": {
           "en": "Asian Development Outlook",
@@ -18760,6 +18904,18 @@
         "data_url": "https://www.nso.go.th/nsoweb/nso/statistics",
         "has_api": false,
         "file_path": "thailand/national/thailand-nso.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-fred",
+        "name": {
+          "en": "FRED - Federal Reserve Economic Data",
+          "zh": "美联储经济数据库"
+        },
+        "authority_level": "government",
+        "data_url": "https://fred.stlouisfed.org",
+        "has_api": true,
+        "file_path": "us/economics/us-fred.json",
         "geographic_scope": "national"
       }
     ],

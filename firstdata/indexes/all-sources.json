@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T02:05:17.902545+00:00",
-    "total_sources": 238,
+    "generated_at": "2026-03-13T02:07:30.289105+00:00",
+    "total_sources": 241,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -11010,6 +11010,72 @@
       "file_path": "international/development/idb.json"
     },
     {
+      "id": "undp-hdr",
+      "name": {
+        "en": "UNDP Human Development Reports",
+        "zh": "联合国开发计划署人类发展报告"
+      },
+      "description": {
+        "en": "The United Nations Development Programme (UNDP) Human Development Report Office publishes the Human Development Index (HDI) and related composite indices since 1990. It provides authoritative data on human development across 190+ countries, including education, health, income, inequality, gender, and multidimensional poverty indicators. The HDI is the world's most widely cited measure of national development beyond GDP.",
+        "zh": "联合国开发计划署（UNDP）人类发展报告办公室自1990年起发布人类发展指数（HDI）及相关综合指数。它提供190多个国家的人类发展权威数据，涵盖教育、健康、收入、不平等、性别和多维贫困指标。HDI是全球引用最广泛的超越GDP的国家发展衡量指标。"
+      },
+      "website": "https://hdr.undp.org",
+      "data_url": "https://hdr.undp.org/data-center",
+      "api_url": null,
+      "country": null,
+      "domains": [
+        "development",
+        "social",
+        "economics",
+        "education",
+        "health"
+      ],
+      "geographic_scope": "global",
+      "update_frequency": "annual",
+      "tags": [
+        "hdi",
+        "human-development",
+        "poverty",
+        "inequality",
+        "education",
+        "health",
+        "undp",
+        "人类发展指数",
+        "贫困",
+        "不平等",
+        "发展指标",
+        "mpi",
+        "gii",
+        "gender",
+        "sustainable-development"
+      ],
+      "data_content": {
+        "en": [
+          "Human Development Index (HDI) - composite index of life expectancy, education, and income",
+          "Inequality-adjusted HDI (IHDI) - HDI adjusted for inequality in each dimension",
+          "Gender Development Index (GDI) - gender gaps in human development",
+          "Gender Inequality Index (GII) - gender-based disadvantage across health, empowerment, labor",
+          "Multidimensional Poverty Index (MPI) - non-income poverty across health, education, living standards",
+          "Planetary pressures-adjusted HDI (PHDI) - sustainability-adjusted development measure",
+          "Country profiles and dashboards - detailed statistics for 190+ countries",
+          "Historical time series data from 1990 onwards"
+        ],
+        "zh": [
+          "人类发展指数（HDI）- 预期寿命、教育和收入的综合指数",
+          "不平等调整人类发展指数（IHDI）- 按各维度不平等调整的HDI",
+          "性别发展指数（GDI）- 人类发展中的性别差距",
+          "性别不平等指数（GII）- 健康、赋权、劳动方面的性别劣势",
+          "多维贫困指数（MPI）- 健康、教育、生活水平方面的非收入贫困",
+          "行星压力调整HDI（PHDI）- 可持续发展调整的发展指标",
+          "国家概况和仪表板 - 190多个国家的详细统计",
+          "1990年以来的历史时间序列数据"
+        ]
+      },
+      "authority_level": "international",
+      "has_api": false,
+      "file_path": "international/development/undp-hdr.json"
+    },
+    {
       "id": "intl-copernicus-cdse",
       "name": {
         "en": "Copernicus Data Space Ecosystem",
@@ -12439,6 +12505,74 @@
       "authority_level": "international",
       "has_api": true,
       "file_path": "international/energy/iea.json"
+    },
+    {
+      "id": "irena",
+      "name": {
+        "en": "IRENA - International Renewable Energy Agency",
+        "zh": "国际可再生能源署"
+      },
+      "description": {
+        "en": "The International Renewable Energy Agency (IRENA) is an intergovernmental organisation supporting countries in their transition to a sustainable energy future. IRENA provides the most comprehensive global dataset on renewable energy capacity, generation, costs and investment. Its statistics cover 200+ countries with data from 2000 onwards, serving as the definitive reference for renewable energy deployment worldwide.",
+        "zh": "国际可再生能源署（IRENA）是支持各国向可持续能源未来转型的政府间组织。IRENA提供全球最全面的可再生能源装机容量、发电量、成本和投资数据集，统计覆盖200多个国家，数据从2000年起，是全球可再生能源部署的权威参考。"
+      },
+      "website": "https://www.irena.org",
+      "data_url": "https://www.irena.org/Data",
+      "api_url": "https://pxweb.irena.org/pxweb/en/IRENASTAT",
+      "country": null,
+      "domains": [
+        "energy",
+        "climate",
+        "environment",
+        "economics"
+      ],
+      "geographic_scope": "global",
+      "update_frequency": "annual",
+      "tags": [
+        "renewable-energy",
+        "solar",
+        "wind",
+        "hydropower",
+        "bioenergy",
+        "geothermal",
+        "energy-transition",
+        "可再生能源",
+        "太阳能",
+        "风能",
+        "装机容量",
+        "发电量",
+        "能源成本",
+        "irena",
+        "clean-energy",
+        "energy-investment"
+      ],
+      "data_content": {
+        "en": [
+          "Renewable Energy Statistics - capacity, generation and balances for 200+ countries",
+          "Renewable Power Generation Costs - LCOE data for solar, wind, hydro, bioenergy, geothermal",
+          "Renewable Energy Employment - jobs by technology and country",
+          "IRENA RE Capacity Statistics - installed capacity by technology and country",
+          "Global Landscape of Renewable Energy Finance",
+          "Renewable Energy Auctions - contract prices and volumes",
+          "Off-grid Renewable Energy Statistics",
+          "Hydrogen cost and production data",
+          "Energy Transition Investment Tracking"
+        ],
+        "zh": [
+          "可再生能源统计 - 200多个国家的装机容量、发电量和能源平衡",
+          "可再生能源发电成本 - 太阳能、风能、水电、生物能源、地热的平准化度电成本",
+          "可再生能源就业 - 按技术和国家分类的就业数据",
+          "可再生能源装机容量统计 - 按技术和国家分类的装机容量",
+          "全球可再生能源融资格局",
+          "可再生能源拍卖 - 合同价格和交易量",
+          "离网可再生能源统计",
+          "氢能成本和生产数据",
+          "能源转型投资追踪"
+        ]
+      },
+      "authority_level": "international",
+      "has_api": true,
+      "file_path": "international/energy/irena.json"
     },
     {
       "id": "basel-convention",
@@ -17390,6 +17524,81 @@
       "api_url": null,
       "has_api": false,
       "file_path": "thailand/national/thailand-nso.json"
+    },
+    {
+      "id": "us-fred",
+      "name": {
+        "en": "FRED - Federal Reserve Economic Data",
+        "zh": "美联储经济数据库"
+      },
+      "description": {
+        "en": "FRED (Federal Reserve Economic Data) is a comprehensive database maintained by the Federal Reserve Bank of St. Louis containing over 800,000 economic time series from 100+ sources. It is one of the most widely used free macroeconomic data platforms globally, covering GDP, employment, inflation, interest rates, money supply, trade, housing, and hundreds of other economic indicators for the US and international economies.",
+        "zh": "FRED（美联储经济数据）是由圣路易斯联邦储备银行维护的综合数据库，包含来自100多个数据源的超过80万条经济时间序列。它是全球使用最广泛的免费宏观经济数据平台之一，涵盖美国和国际经济的GDP、就业、通胀、利率、货币供应、贸易、住房等数百种经济指标。"
+      },
+      "website": "https://fred.stlouisfed.org",
+      "data_url": "https://fred.stlouisfed.org",
+      "api_url": "https://fred.stlouisfed.org/docs/api/fred/",
+      "country": "US",
+      "domains": [
+        "economics",
+        "finance",
+        "labor",
+        "trade"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "daily",
+      "tags": [
+        "fred",
+        "federal-reserve",
+        "macroeconomics",
+        "gdp",
+        "inflation",
+        "interest-rates",
+        "unemployment",
+        "money-supply",
+        "cpi",
+        "美联储",
+        "宏观经济",
+        "经济数据",
+        "利率",
+        "通胀",
+        "m2",
+        "time-series",
+        "economic-indicators"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and National Accounts - real/nominal GDP, GDP components, growth rates",
+          "Employment and Labor - unemployment rate, nonfarm payrolls, labor force participation",
+          "Prices and Inflation - CPI, PCE, PPI, breakeven inflation",
+          "Interest Rates - federal funds rate, Treasury yields, LIBOR/SOFR",
+          "Money Supply - M1, M2, monetary base",
+          "Banking - commercial bank assets/liabilities, lending standards",
+          "Housing - home prices, housing starts, mortgage rates",
+          "International Trade - trade balance, exchange rates",
+          "Industrial Production and Capacity Utilization",
+          "Consumer and Business Surveys - consumer confidence, PMI",
+          "Regional Data - state and metro area economic indicators",
+          "International data from IMF, World Bank, OECD, and other sources"
+        ],
+        "zh": [
+          "GDP和国民账户 - 实际/名义GDP、GDP构成、增长率",
+          "就业和劳动力 - 失业率、非农就业、劳动参与率",
+          "物价和通胀 - CPI、PCE、PPI、盈亏平衡通胀率",
+          "利率 - 联邦基金利率、国债收益率、LIBOR/SOFR",
+          "货币供应量 - M1、M2、基础货币",
+          "银行业 - 商业银行资产负债、贷款标准",
+          "住房 - 房价、新房开工、抵押贷款利率",
+          "国际贸易 - 贸易差额、汇率",
+          "工业生产和产能利用率",
+          "消费者和商业调查 - 消费者信心、PMI",
+          "地区数据 - 州和都会区经济指标",
+          "来自IMF、世界银行、OECD等来源的国际数据"
+        ]
+      },
+      "authority_level": "government",
+      "has_api": true,
+      "file_path": "us/economics/us-fred.json"
     },
     {
       "id": "sec-edgar",

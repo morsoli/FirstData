@@ -1,0 +1,64 @@
+{
+  "id": "undp-hdr",
+  "name": {
+    "en": "UNDP Human Development Reports",
+    "zh": "联合国开发计划署人类发展报告"
+  },
+  "description": {
+    "en": "The United Nations Development Programme (UNDP) Human Development Report Office publishes the Human Development Index (HDI) and related composite indices since 1990. It provides authoritative data on human development across 190+ countries, including education, health, income, inequality, gender, and multidimensional poverty indicators. The HDI is the world's most widely cited measure of national development beyond GDP.",
+    "zh": "联合国开发计划署（UNDP）人类发展报告办公室自1990年起发布人类发展指数（HDI）及相关综合指数。它提供190多个国家的人类发展权威数据，涵盖教育、健康、收入、不平等、性别和多维贫困指标。HDI是全球引用最广泛的超越GDP的国家发展衡量指标。"
+  },
+  "website": "https://hdr.undp.org",
+  "data_url": "https://hdr.undp.org/data-center",
+  "api_url": null,
+  "country": null,
+  "domains": [
+    "development",
+    "social",
+    "economics",
+    "education",
+    "health"
+  ],
+  "geographic_scope": "global",
+  "update_frequency": "annual",
+  "tags": [
+    "hdi",
+    "human-development",
+    "poverty",
+    "inequality",
+    "education",
+    "health",
+    "undp",
+    "人类发展指数",
+    "贫困",
+    "不平等",
+    "发展指标",
+    "mpi",
+    "gii",
+    "gender",
+    "sustainable-development"
+  ],
+  "data_content": {
+    "en": [
+      "Human Development Index (HDI) - composite index of life expectancy, education, and income",
+      "Inequality-adjusted HDI (IHDI) - HDI adjusted for inequality in each dimension",
+      "Gender Development Index (GDI) - gender gaps in human development",
+      "Gender Inequality Index (GII) - gender-based disadvantage across health, empowerment, labor",
+      "Multidimensional Poverty Index (MPI) - non-income poverty across health, education, living standards",
+      "Planetary pressures-adjusted HDI (PHDI) - sustainability-adjusted development measure",
+      "Country profiles and dashboards - detailed statistics for 190+ countries",
+      "Historical time series data from 1990 onwards"
+    ],
+    "zh": [
+      "人类发展指数（HDI）- 预期寿命、教育和收入的综合指数",
+      "不平等调整人类发展指数（IHDI）- 按各维度不平等调整的HDI",
+      "性别发展指数（GDI）- 人类发展中的性别差距",
+      "性别不平等指数（GII）- 健康、赋权、劳动方面的性别劣势",
+      "多维贫困指数（MPI）- 健康、教育、生活水平方面的非收入贫困",
+      "行星压力调整HDI（PHDI）- 可持续发展调整的发展指标",
+      "国家概况和仪表板 - 190多个国家的详细统计",
+      "1990年以来的历史时间序列数据"
+    ]
+  },
+  "authority_level": "international"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "us-fred",
+  "name": {
+    "en": "FRED - Federal Reserve Economic Data",
+    "zh": "美联储经济数据库"
+  },
+  "description": {
+    "en": "FRED (Federal Reserve Economic Data) is a comprehensive database maintained by the Federal Reserve Bank of St. Louis containing over 800,000 economic time series from 100+ sources. It is one of the most widely used free macroeconomic data platforms globally, covering GDP, employment, inflation, interest rates, money supply, trade, housing, and hundreds of other economic indicators for the US and international economies.",
+    "zh": "FRED（美联储经济数据）是由圣路易斯联邦储备银行维护的综合数据库，包含来自100多个数据源的超过80万条经济时间序列。它是全球使用最广泛的免费宏观经济数据平台之一，涵盖美国和国际经济的GDP、就业、通胀、利率、货币供应、贸易、住房等数百种经济指标。"
+  },
+  "website": "https://fred.stlouisfed.org",
+  "data_url": "https://fred.stlouisfed.org",
+  "api_url": "https://fred.stlouisfed.org/docs/api/fred/",
+  "country": "US",
+  "domains": [
+    "economics",
+    "finance",
+    "labor",
+    "trade"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "daily",
+  "tags": [
+    "fred",
+    "federal-reserve",
+    "macroeconomics",
+    "gdp",
+    "inflation",
+    "interest-rates",
+    "unemployment",
+    "money-supply",
+    "cpi",
+    "美联储",
+    "宏观经济",
+    "经济数据",
+    "利率",
+    "通胀",
+    "m2",
+    "time-series",
+    "economic-indicators"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and National Accounts - real/nominal GDP, GDP components, growth rates",
+      "Employment and Labor - unemployment rate, nonfarm payrolls, labor force participation",
+      "Prices and Inflation - CPI, PCE, PPI, breakeven inflation",
+      "Interest Rates - federal funds rate, Treasury yields, LIBOR/SOFR",
+      "Money Supply - M1, M2, monetary base",
+      "Banking - commercial bank assets/liabilities, lending standards",
+      "Housing - home prices, housing starts, mortgage rates",
+      "International Trade - trade balance, exchange rates",
+      "Industrial Production and Capacity Utilization",
+      "Consumer and Business Surveys - consumer confidence, PMI",
+      "Regional Data - state and metro area economic indicators",
+      "International data from IMF, World Bank, OECD, and other sources"
+    ],
+    "zh": [
+      "GDP和国民账户 - 实际/名义GDP、GDP构成、增长率",
+      "就业和劳动力 - 失业率、非农就业、劳动参与率",
+      "物价和通胀 - CPI、PCE、PPI、盈亏平衡通胀率",
+      "利率 - 联邦基金利率、国债收益率、LIBOR/SOFR",
+      "货币供应量 - M1、M2、基础货币",
+      "银行业 - 商业银行资产负债、贷款标准",
+      "住房 - 房价、新房开工、抵押贷款利率",
+      "国际贸易 - 贸易差额、汇率",
+      "工业生产和产能利用率",
+      "消费者和商业调查 - 消费者信心、PMI",
+      "地区数据 - 州和都会区经济指标",
+      "来自IMF、世界银行、OECD等来源的国际数据"
+    ]
+  },
+  "authority_level": "government"
+}

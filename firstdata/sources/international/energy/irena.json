@@ -1,0 +1,66 @@
+{
+  "id": "irena",
+  "name": {
+    "en": "IRENA - International Renewable Energy Agency",
+    "zh": "国际可再生能源署"
+  },
+  "description": {
+    "en": "The International Renewable Energy Agency (IRENA) is an intergovernmental organisation supporting countries in their transition to a sustainable energy future. IRENA provides the most comprehensive global dataset on renewable energy capacity, generation, costs and investment. Its statistics cover 200+ countries with data from 2000 onwards, serving as the definitive reference for renewable energy deployment worldwide.",
+    "zh": "国际可再生能源署（IRENA）是支持各国向可持续能源未来转型的政府间组织。IRENA提供全球最全面的可再生能源装机容量、发电量、成本和投资数据集，统计覆盖200多个国家，数据从2000年起，是全球可再生能源部署的权威参考。"
+  },
+  "website": "https://www.irena.org",
+  "data_url": "https://www.irena.org/Data",
+  "api_url": "https://pxweb.irena.org/pxweb/en/IRENASTAT",
+  "country": null,
+  "domains": [
+    "energy",
+    "climate",
+    "environment",
+    "economics"
+  ],
+  "geographic_scope": "global",
+  "update_frequency": "annual",
+  "tags": [
+    "renewable-energy",
+    "solar",
+    "wind",
+    "hydropower",
+    "bioenergy",
+    "geothermal",
+    "energy-transition",
+    "可再生能源",
+    "太阳能",
+    "风能",
+    "装机容量",
+    "发电量",
+    "能源成本",
+    "irena",
+    "clean-energy",
+    "energy-investment"
+  ],
+  "data_content": {
+    "en": [
+      "Renewable Energy Statistics - capacity, generation and balances for 200+ countries",
+      "Renewable Power Generation Costs - LCOE data for solar, wind, hydro, bioenergy, geothermal",
+      "Renewable Energy Employment - jobs by technology and country",
+      "IRENA RE Capacity Statistics - installed capacity by technology and country",
+      "Global Landscape of Renewable Energy Finance",
+      "Renewable Energy Auctions - contract prices and volumes",
+      "Off-grid Renewable Energy Statistics",
+      "Hydrogen cost and production data",
+      "Energy Transition Investment Tracking"
+    ],
+    "zh": [
+      "可再生能源统计 - 200多个国家的装机容量、发电量和能源平衡",
+      "可再生能源发电成本 - 太阳能、风能、水电、生物能源、地热的平准化度电成本",
+      "可再生能源就业 - 按技术和国家分类的就业数据",
+      "可再生能源装机容量统计 - 按技术和国家分类的装机容量",
+      "全球可再生能源融资格局",
+      "可再生能源拍卖 - 合同价格和交易量",
+      "离网可再生能源统计",
+      "氢能成本和生产数据",
+      "能源转型投资追踪"
+    ]
+  },
+  "authority_level": "international"
+}
