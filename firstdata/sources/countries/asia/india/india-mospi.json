@@ -1,0 +1,84 @@
+{
+  "id": "india-mospi",
+  "name": {
+    "en": "Ministry of Statistics and Programme Implementation (MoSPI)",
+    "zh": "印度统计与计划实施部",
+    "native": "सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय"
+  },
+  "description": {
+    "en": "The Ministry of Statistics and Programme Implementation (MoSPI) is the apex body for official statistics in India. It coordinates the Indian Statistical System and publishes a wide range of national statistical products including GDP estimates, Consumer Price Index, industrial production, employment surveys, social statistics, and the National Sample Survey. MoSPI also oversees the Central Statistics Office (CSO) and the National Sample Survey Office (NSSO).",
+    "zh": "印度统计与计划实施部（MoSPI）是印度官方统计的最高机构，协调印度统计体系，发布广泛的国家统计产品，包括GDP估算、消费者价格指数、工业生产、就业调查、社会统计和国家样本调查。MoSPI还负责监管中央统计局（CSO）和国家样本调查局（NSSO）。"
+  },
+  "website": "https://www.mospi.gov.in",
+  "data_url": "https://mospi.gov.in/data",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "IN",
+  "domains": [
+    "economics",
+    "demographics",
+    "employment",
+    "prices",
+    "industry",
+    "agriculture",
+    "social",
+    "trade",
+    "education",
+    "health"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": [
+    "India",
+    "MoSPI",
+    "official statistics",
+    "GDP",
+    "CPI",
+    "IIP",
+    "NSS",
+    "NSSO",
+    "CSO",
+    "national accounts",
+    "employment",
+    "population",
+    "census",
+    "social statistics",
+    "印度",
+    "官方统计",
+    "国民账户",
+    "消费者价格指数",
+    "工业生产",
+    "就业统计",
+    "人口普查"
+  ],
+  "data_content": {
+    "en": [
+      "National Accounts Statistics (GDP, GVA by sector)",
+      "Consumer Price Index (CPI) - Rural, Urban, Combined",
+      "Index of Industrial Production (IIP)",
+      "National Sample Survey (NSS) - employment, household expenditure",
+      "Annual Survey of Industries (ASI)",
+      "Economic Census data",
+      "Social Statistics (poverty, education, health indicators)",
+      "Time Use Survey",
+      "Sustainable Development Goals (SDG) India Index",
+      "Periodic Labour Force Survey (PLFS)",
+      "Price Statistics (WPI, CPI)",
+      "State-level GDP and economic statistics"
+    ],
+    "zh": [
+      "国民账户统计（GDP、分行业GVA）",
+      "消费者价格指数（CPI）——农村、城市、综合",
+      "工业生产指数（IIP）",
+      "国家样本调查（NSS）——就业、家庭支出",
+      "工业年度调查（ASI）",
+      "经济普查数据",
+      "社会统计（贫困、教育、卫生指标）",
+      "时间使用调查",
+      "可持续发展目标（SDG）印度指数",
+      "定期劳动力调查（PLFS）",
+      "价格统计（WPI、CPI）",
+      "各邦GDP和经济统计"
+    ]
+  }
+}
