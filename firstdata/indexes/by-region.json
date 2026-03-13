@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T02:05:17.902545+00:00",
+    "generated_at": "2026-03-13T02:07:30.289105+00:00",
     "total_regions": 24,
-    "total_sources": 238,
+    "total_sources": 241,
     "version": "2.0"
   },
   "regions": {
@@ -1553,6 +1553,18 @@
         "has_api": false,
         "file_path": "sectors/computer_science_ai/aws-open-data-registry.json",
         "geographic_scope": "global"
+      },
+      {
+        "id": "us-fred",
+        "name": {
+          "en": "FRED - Federal Reserve Economic Data",
+          "zh": "美联储经济数据库"
+        },
+        "authority_level": "government",
+        "data_url": "https://fred.stlouisfed.org",
+        "has_api": true,
+        "file_path": "us/economics/us-fred.json",
+        "geographic_scope": "national"
       },
       {
         "id": "sec-edgar",
