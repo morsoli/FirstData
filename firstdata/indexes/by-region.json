@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T02:11:15.490440+00:00",
-    "total_regions": 24,
-    "total_sources": 241,
+    "generated_at": "2026-03-14T02:05:04.067877+00:00",
+    "total_regions": 25,
+    "total_sources": 243,
     "version": "2.0"
   },
   "regions": {
@@ -1367,6 +1367,19 @@
     ],
     "SG": [
       {
+        "id": "singapore-singstat",
+        "name": {
+          "en": "Singapore Department of Statistics (SingStat)",
+          "zh": "新加坡统计局",
+          "native": "Department of Statistics Singapore"
+        },
+        "authority_level": "government",
+        "data_url": "https://tablebuilder.singstat.gov.sg",
+        "has_api": true,
+        "file_path": "countries/asia/singapore/singapore-singstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "singapore-dos",
         "name": {
           "en": "Department of Statistics Singapore",
@@ -1391,6 +1404,21 @@
         "data_url": "https://www.nso.go.th/nsoweb/nso/statistics",
         "has_api": false,
         "file_path": "thailand/national/thailand-nso.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "TR": [
+      {
+        "id": "turkey-tuik",
+        "name": {
+          "en": "Turkish Statistical Institute (TurkStat)",
+          "zh": "土耳其统计局",
+          "native": "Türkiye İstatistik Kurumu (TÜİK)"
+        },
+        "authority_level": "government",
+        "data_url": "https://data.tuik.gov.tr",
+        "has_api": true,
+        "file_path": "countries/europe/turkey/turkey-tuik.json",
         "geographic_scope": "national"
       }
     ],

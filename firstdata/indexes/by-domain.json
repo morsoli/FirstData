@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T02:11:15.490440+00:00",
+    "generated_at": "2026-03-14T02:05:04.067877+00:00",
     "total_domains": 688,
-    "total_sources": 241,
+    "total_sources": 243,
     "version": "2.0"
   },
   "domains": {
@@ -381,6 +381,19 @@
         "data_url": "https://www.insee.fr/en/statistiques",
         "has_api": true,
         "file_path": "countries/europe/fr/france-insee.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "turkey-tuik",
+        "name": {
+          "en": "Turkish Statistical Institute (TurkStat)",
+          "zh": "土耳其统计局",
+          "native": "Türkiye İstatistik Kurumu (TÜİK)"
+        },
+        "authority_level": "government",
+        "data_url": "https://data.tuik.gov.tr",
+        "has_api": true,
+        "file_path": "countries/europe/turkey/turkey-tuik.json",
         "geographic_scope": "national"
       },
       {
@@ -3939,6 +3952,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "singapore-singstat",
+        "name": {
+          "en": "Singapore Department of Statistics (SingStat)",
+          "zh": "新加坡统计局",
+          "native": "Department of Statistics Singapore"
+        },
+        "authority_level": "government",
+        "data_url": "https://tablebuilder.singstat.gov.sg",
+        "has_api": true,
+        "file_path": "countries/asia/singapore/singapore-singstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "korea-kostat",
         "name": {
           "en": "Statistics Korea (KOSTAT)",
@@ -3998,6 +4024,19 @@
         "data_url": "https://www.destatis.de/EN/Themes/_node.html",
         "has_api": true,
         "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "turkey-tuik",
+        "name": {
+          "en": "Turkish Statistical Institute (TurkStat)",
+          "zh": "土耳其统计局",
+          "native": "Türkiye İstatistik Kurumu (TÜİK)"
+        },
+        "authority_level": "government",
+        "data_url": "https://data.tuik.gov.tr",
+        "has_api": true,
+        "file_path": "countries/europe/turkey/turkey-tuik.json",
         "geographic_scope": "national"
       },
       {
@@ -5529,6 +5568,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "singapore-singstat",
+        "name": {
+          "en": "Singapore Department of Statistics (SingStat)",
+          "zh": "新加坡统计局",
+          "native": "Department of Statistics Singapore"
+        },
+        "authority_level": "government",
+        "data_url": "https://tablebuilder.singstat.gov.sg",
+        "has_api": true,
+        "file_path": "countries/asia/singapore/singapore-singstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "korea-kostat",
         "name": {
           "en": "Statistics Korea (KOSTAT)",
@@ -5613,6 +5665,19 @@
         "data_url": "https://www.destatis.de/EN/Themes/_node.html",
         "has_api": true,
         "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "turkey-tuik",
+        "name": {
+          "en": "Turkish Statistical Institute (TurkStat)",
+          "zh": "土耳其统计局",
+          "native": "Türkiye İstatistik Kurumu (TÜİK)"
+        },
+        "authority_level": "government",
+        "data_url": "https://data.tuik.gov.tr",
+        "has_api": true,
+        "file_path": "countries/europe/turkey/turkey-tuik.json",
         "geographic_scope": "national"
       },
       {
@@ -6866,6 +6931,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "singapore-singstat",
+        "name": {
+          "en": "Singapore Department of Statistics (SingStat)",
+          "zh": "新加坡统计局",
+          "native": "Department of Statistics Singapore"
+        },
+        "authority_level": "government",
+        "data_url": "https://tablebuilder.singstat.gov.sg",
+        "has_api": true,
+        "file_path": "countries/asia/singapore/singapore-singstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "vietnam-gso",
         "name": {
           "en": "General Statistics Office of Vietnam",
@@ -6901,6 +6979,19 @@
         "data_url": "https://www.destatis.de/EN/Themes/_node.html",
         "has_api": true,
         "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "turkey-tuik",
+        "name": {
+          "en": "Turkish Statistical Institute (TurkStat)",
+          "zh": "土耳其统计局",
+          "native": "Türkiye İstatistik Kurumu (TÜİK)"
+        },
+        "authority_level": "government",
+        "data_url": "https://data.tuik.gov.tr",
+        "has_api": true,
+        "file_path": "countries/europe/turkey/turkey-tuik.json",
         "geographic_scope": "national"
       },
       {
@@ -8390,6 +8481,19 @@
         "data_url": "https://www.hkma.gov.hk/eng/data-publications-and-research/data-and-statistics/",
         "has_api": true,
         "file_path": "countries/asia/hkma.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "singapore-singstat",
+        "name": {
+          "en": "Singapore Department of Statistics (SingStat)",
+          "zh": "新加坡统计局",
+          "native": "Department of Statistics Singapore"
+        },
+        "authority_level": "government",
+        "data_url": "https://tablebuilder.singstat.gov.sg",
+        "has_api": true,
+        "file_path": "countries/asia/singapore/singapore-singstat.json",
         "geographic_scope": "national"
       },
       {
@@ -17008,6 +17112,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "singapore-singstat",
+        "name": {
+          "en": "Singapore Department of Statistics (SingStat)",
+          "zh": "新加坡统计局",
+          "native": "Department of Statistics Singapore"
+        },
+        "authority_level": "government",
+        "data_url": "https://tablebuilder.singstat.gov.sg",
+        "has_api": true,
+        "file_path": "countries/asia/singapore/singapore-singstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "france-insee",
         "name": {
           "en": "INSEE - National Institute of Statistics and Economic Studies",
@@ -17031,6 +17148,19 @@
         "data_url": "https://www.destatis.de/EN/Themes/_node.html",
         "has_api": true,
         "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "turkey-tuik",
+        "name": {
+          "en": "Turkish Statistical Institute (TurkStat)",
+          "zh": "土耳其统计局",
+          "native": "Türkiye İstatistik Kurumu (TÜİK)"
+        },
+        "authority_level": "government",
+        "data_url": "https://data.tuik.gov.tr",
+        "has_api": true,
+        "file_path": "countries/europe/turkey/turkey-tuik.json",
         "geographic_scope": "national"
       },
       {
@@ -18487,6 +18617,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "singapore-singstat",
+        "name": {
+          "en": "Singapore Department of Statistics (SingStat)",
+          "zh": "新加坡统计局",
+          "native": "Department of Statistics Singapore"
+        },
+        "authority_level": "government",
+        "data_url": "https://tablebuilder.singstat.gov.sg",
+        "has_api": true,
+        "file_path": "countries/asia/singapore/singapore-singstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "gdvc",
         "name": {
           "en": "General Department of Vietnam Customs",
@@ -18571,6 +18714,19 @@
         "data_url": "https://www.destatis.de/EN/Themes/_node.html",
         "has_api": true,
         "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "turkey-tuik",
+        "name": {
+          "en": "Turkish Statistical Institute (TurkStat)",
+          "zh": "土耳其统计局",
+          "native": "Türkiye İstatistik Kurumu (TÜİK)"
+        },
+        "authority_level": "government",
+        "data_url": "https://data.tuik.gov.tr",
+        "has_api": true,
+        "file_path": "countries/europe/turkey/turkey-tuik.json",
         "geographic_scope": "national"
       },
       {

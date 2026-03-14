@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T02:11:15.490440+00:00",
-    "total_sources": 241,
+    "generated_at": "2026-03-14T02:05:04.067877+00:00",
+    "total_sources": 243,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -6432,6 +6432,76 @@
       "file_path": "countries/asia/philippines/psa.json"
     },
     {
+      "id": "singapore-singstat",
+      "name": {
+        "en": "Singapore Department of Statistics (SingStat)",
+        "zh": "新加坡统计局",
+        "native": "Department of Statistics Singapore"
+      },
+      "description": {
+        "en": "The Singapore Department of Statistics (SingStat) is the national statistical authority of Singapore, responsible for producing and disseminating authoritative statistics on Singapore's economy, population, and society. It provides key economic indicators including GDP, trade, inflation, employment, and demographic data, and offers open access to its data through the SingStat Table Builder platform.",
+        "zh": "新加坡统计局（SingStat）是新加坡官方国家统计机构，负责生产和发布新加坡经济、人口和社会的权威统计数据，提供包括GDP、贸易、通胀、就业和人口统计在内的核心经济指标，并通过SingStat Table Builder平台提供开放数据访问。"
+      },
+      "website": "https://www.singstat.gov.sg",
+      "data_url": "https://tablebuilder.singstat.gov.sg",
+      "api_url": "https://tablebuilder.singstat.gov.sg/api/table/metadata/",
+      "authority_level": "government",
+      "country": "SG",
+      "domains": [
+        "economics",
+        "demographics",
+        "trade",
+        "employment",
+        "social",
+        "finance"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "singapore",
+        "singstat",
+        "statistics",
+        "gdp",
+        "inflation",
+        "population",
+        "census",
+        "employment",
+        "trade",
+        "新加坡",
+        "统计局",
+        "东南亚",
+        "经济统计",
+        "人口普查",
+        "table builder"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and national accounts",
+          "Consumer price index (CPI) and inflation",
+          "International trade in goods and services",
+          "Population census and demographic statistics",
+          "Labour force and employment data",
+          "Household income and expenditure surveys",
+          "Industrial production statistics",
+          "Business expectations surveys",
+          "Tourism and visitor arrivals"
+        ],
+        "zh": [
+          "GDP和国民账户",
+          "消费者价格指数（CPI）和通胀",
+          "货物和服务国际贸易",
+          "人口普查和人口统计",
+          "劳动力和就业数据",
+          "家庭收入和支出调查",
+          "工业生产统计",
+          "企业前景调查",
+          "旅游和访客数量"
+        ]
+      },
+      "has_api": true,
+      "file_path": "countries/asia/singapore/singapore-singstat.json"
+    },
+    {
       "id": "korea-kostat",
       "name": {
         "en": "Statistics Korea (KOSTAT)",
@@ -7632,6 +7702,76 @@
       },
       "has_api": true,
       "file_path": "countries/europe/germany/germany-destatis.json"
+    },
+    {
+      "id": "turkey-tuik",
+      "name": {
+        "en": "Turkish Statistical Institute (TurkStat)",
+        "zh": "土耳其统计局",
+        "native": "Türkiye İstatistik Kurumu (TÜİK)"
+      },
+      "description": {
+        "en": "The Turkish Statistical Institute (TurkStat / TÜİK) is the official national statistical authority of Turkey, responsible for collecting, compiling, and disseminating statistical data on Turkey's economy, population, social structure, environment, and other sectors. It publishes key indicators including GDP, inflation, foreign trade, population census results, employment, and agricultural production.",
+        "zh": "土耳其统计局（TurkStat / TÜİK）是土耳其官方国家统计机构，负责收集、整理和发布土耳其经济、人口、社会结构、环境等领域的统计数据，发布包括GDP、通胀、对外贸易、人口普查、就业和农业生产在内的核心指标。"
+      },
+      "website": "https://www.tuik.gov.tr",
+      "data_url": "https://data.tuik.gov.tr",
+      "api_url": "https://data.tuik.gov.tr/api",
+      "authority_level": "government",
+      "country": "TR",
+      "domains": [
+        "economics",
+        "demographics",
+        "employment",
+        "trade",
+        "agriculture",
+        "social"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "turkey",
+        "tuik",
+        "turkstat",
+        "türkiye",
+        "statistics",
+        "gdp",
+        "inflation",
+        "population",
+        "census",
+        "employment",
+        "trade",
+        "土耳其",
+        "统计局",
+        "经济统计",
+        "人口普查"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and national accounts",
+          "Consumer price index (CPI) and inflation",
+          "Foreign trade statistics",
+          "Population census and demographic data",
+          "Employment and labor force statistics",
+          "Agricultural production data",
+          "Industrial production indices",
+          "Tourism statistics",
+          "Income and living conditions surveys"
+        ],
+        "zh": [
+          "GDP和国民账户",
+          "消费者价格指数（CPI）和通货膨胀",
+          "对外贸易统计",
+          "人口普查和人口统计数据",
+          "就业和劳动力统计",
+          "农业生产数据",
+          "工业生产指数",
+          "旅游统计",
+          "收入和生活条件调查"
+        ]
+      },
+      "has_api": true,
+      "file_path": "countries/europe/turkey/turkey-tuik.json"
     },
     {
       "id": "uk-boe",

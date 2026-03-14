@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-03-13T02:11:15.490440+00:00",
+    "generated_at": "2026-03-14T02:05:04.067877+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 241,
-    "sources_with_api": 109,
-    "last_updated": "2026-03-13"
+    "total_sources": 243,
+    "sources_with_api": 111,
+    "last_updated": "2026-03-14"
   },
   "by_authority_level": {
     "research": 33,
     "international": 59,
-    "government": 117,
+    "government": 119,
     "market": 16,
     "commercial": 15,
     "other": 1
   },
   "by_geographic_scope": {
     "global": 82,
-    "national": 135,
+    "national": 137,
     "regional": 24
   },
   "by_update_frequency": {
@@ -26,25 +26,25 @@
     "daily": 45,
     "weekly": 9,
     "quarterly": 26,
-    "monthly": 61,
+    "monthly": 63,
     "annual": 45,
     "real-time": 10
   },
   "by_domain": {
-    "economics": 81,
-    "trade": 44,
-    "finance": 39,
-    "demographics": 35,
+    "economics": 83,
+    "trade": 46,
+    "finance": 40,
+    "demographics": 37,
     "health": 30,
     "environment": 30,
     "education": 30,
-    "agriculture": 28,
-    "social": 22,
+    "agriculture": 29,
+    "social": 24,
+    "employment": 15,
     "infrastructure": 15,
     "technology": 15,
     "energy": 14,
     "industry": 14,
-    "employment": 13,
     "development": 13,
     "manufacturing": 12,
     "transportation": 11,
