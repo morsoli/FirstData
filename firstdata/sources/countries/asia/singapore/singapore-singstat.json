@@ -1,0 +1,45 @@
+{
+  "id": "singapore-singstat",
+  "name": {
+    "en": "Singapore Department of Statistics (SingStat)",
+    "zh": "新加坡统计局",
+    "native": "Department of Statistics Singapore"
+  },
+  "description": {
+    "en": "The Singapore Department of Statistics (SingStat) is the national statistical authority of Singapore, responsible for producing and disseminating authoritative statistics on Singapore's economy, population, and society. It provides key economic indicators including GDP, trade, inflation, employment, and demographic data, and offers open access to its data through the SingStat Table Builder platform.",
+    "zh": "新加坡统计局（SingStat）是新加坡官方国家统计机构，负责生产和发布新加坡经济、人口和社会的权威统计数据，提供包括GDP、贸易、通胀、就业和人口统计在内的核心经济指标，并通过SingStat Table Builder平台提供开放数据访问。"
+  },
+  "website": "https://www.singstat.gov.sg",
+  "data_url": "https://tablebuilder.singstat.gov.sg",
+  "api_url": "https://tablebuilder.singstat.gov.sg/api/table/metadata/",
+  "authority_level": "government",
+  "country": "SG",
+  "domains": ["economics", "demographics", "trade", "employment", "social", "finance"],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": ["singapore", "singstat", "statistics", "gdp", "inflation", "population", "census", "employment", "trade", "新加坡", "统计局", "东南亚", "经济统计", "人口普查", "table builder"],
+  "data_content": {
+    "en": [
+      "GDP and national accounts",
+      "Consumer price index (CPI) and inflation",
+      "International trade in goods and services",
+      "Population census and demographic statistics",
+      "Labour force and employment data",
+      "Household income and expenditure surveys",
+      "Industrial production statistics",
+      "Business expectations surveys",
+      "Tourism and visitor arrivals"
+    ],
+    "zh": [
+      "GDP和国民账户",
+      "消费者价格指数（CPI）和通胀",
+      "货物和服务国际贸易",
+      "人口普查和人口统计",
+      "劳动力和就业数据",
+      "家庭收入和支出调查",
+      "工业生产统计",
+      "企业前景调查",
+      "旅游和访客数量"
+    ]
+  }
+}
