@@ -1,0 +1,45 @@
+{
+  "id": "turkey-tuik",
+  "name": {
+    "en": "Turkish Statistical Institute (TurkStat)",
+    "zh": "土耳其统计局",
+    "native": "Türkiye İstatistik Kurumu (TÜİK)"
+  },
+  "description": {
+    "en": "The Turkish Statistical Institute (TurkStat / TÜİK) is the official national statistical authority of Turkey, responsible for collecting, compiling, and disseminating statistical data on Turkey's economy, population, social structure, environment, and other sectors. It publishes key indicators including GDP, inflation, foreign trade, population census results, employment, and agricultural production.",
+    "zh": "土耳其统计局（TurkStat / TÜİK）是土耳其官方国家统计机构，负责收集、整理和发布土耳其经济、人口、社会结构、环境等领域的统计数据，发布包括GDP、通胀、对外贸易、人口普查、就业和农业生产在内的核心指标。"
+  },
+  "website": "https://www.tuik.gov.tr",
+  "data_url": "https://data.tuik.gov.tr",
+  "api_url": "https://data.tuik.gov.tr/api",
+  "authority_level": "government",
+  "country": "TR",
+  "domains": ["economics", "demographics", "employment", "trade", "agriculture", "social"],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": ["turkey", "tuik", "turkstat", "türkiye", "statistics", "gdp", "inflation", "population", "census", "employment", "trade", "土耳其", "统计局", "经济统计", "人口普查"],
+  "data_content": {
+    "en": [
+      "GDP and national accounts",
+      "Consumer price index (CPI) and inflation",
+      "Foreign trade statistics",
+      "Population census and demographic data",
+      "Employment and labor force statistics",
+      "Agricultural production data",
+      "Industrial production indices",
+      "Tourism statistics",
+      "Income and living conditions surveys"
+    ],
+    "zh": [
+      "GDP和国民账户",
+      "消费者价格指数（CPI）和通货膨胀",
+      "对外贸易统计",
+      "人口普查和人口统计数据",
+      "就业和劳动力统计",
+      "农业生产数据",
+      "工业生产指数",
+      "旅游统计",
+      "收入和生活条件调查"
+    ]
+  }
+}
