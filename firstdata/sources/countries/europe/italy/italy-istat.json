@@ -1,0 +1,25 @@
+{
+  "id": "italy-istat",
+  "name": {
+    "en": "Italian National Institute of Statistics",
+    "zh": "意大利国家统计局"
+  },
+  "description": {
+    "en": "Italy's official statistical agency producing national accounts, population census, labor market, and regional statistics.",
+    "zh": "意大利官方统计机构，发布国民账户、人口普查、劳动力市场和区域统计数据。"
+  },
+  "website": "https://www.istat.it",
+  "data_url": "https://esploradati.istat.it/databrowser/",
+  "api_url": "https://esploradati.istat.it/SDMXWS/rest",
+  "data_content": {
+    "en": ["National accounts and GDP", "Population census", "Labor market statistics", "Consumer price index", "Regional economic indicators"],
+    "zh": ["国民账户与GDP", "人口普查", "劳动力市场统计", "消费者价格指数", "区域经济指标"]
+  },
+  "authority_level": "government",
+  "update_frequency": "monthly",
+  "coverage": "national",
+  "country_code": "IT",
+  "domains": ["economics", "demographics", "employment"],
+  "tags": ["italy", "statistics", "gdp", "census", "labor"],
+  "license": "open"
+}
