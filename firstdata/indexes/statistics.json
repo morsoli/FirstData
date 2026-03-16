@@ -1,20 +1,20 @@
 {
   "metadata": {
-    "generated_at": "2026-03-16T02:08:40.047224+00:00",
+    "generated_at": "2026-03-16T02:11:34.595780+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 256,
-    "sources_with_api": 121,
+    "total_sources": 260,
+    "sources_with_api": 122,
     "last_updated": "2026-03-16"
   },
   "by_authority_level": {
     "research": 33,
     "international": 65,
-    "government": 126,
+    "government": 128,
+    "other": 3,
     "market": 16,
-    "commercial": 15,
-    "other": 1
+    "commercial": 15
   },
   "by_geographic_scope": {
     "global": 82,
@@ -23,18 +23,18 @@
   },
   "by_update_frequency": {
     "irregular": 47,
-    "daily": 48,
+    "daily": 49,
     "weekly": 9,
-    "quarterly": 26,
-    "monthly": 68,
+    "quarterly": 28,
+    "monthly": 69,
     "annual": 48,
     "real-time": 10
   },
   "by_domain": {
-    "economics": 87,
+    "economics": 88,
     "trade": 48,
     "demographics": 44,
-    "finance": 40,
+    "finance": 43,
     "environment": 36,
     "health": 32,
     "education": 32,
