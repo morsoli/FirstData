@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-16T02:17:30.965193+00:00",
+    "generated_at": "2026-03-16T03:18:14.621977+00:00",
     "total_sources": 260,
     "version": "2.0",
     "schema_version": "v2.0.0"
@@ -5602,15 +5602,6 @@
         "household income & expenditure"
       ],
       "update_frequency": "irregular",
-      "data_formats": [
-        "CSV",
-        "JSON",
-        "Parquet"
-      ],
-      "contact": {
-        "email": "info@dosm.gov.my",
-        "phone": "+60 3-8885 7000"
-      },
       "data_content": {
         "en": [
           "Economic Statistics - GDP, manufacturing output, industrial production, wholesale & retail trade, services sector, construction, mining & quarrying",
@@ -7693,35 +7684,7 @@
         "economics",
         "monetary_policy"
       ],
-      "organization": {
-        "name": {
-          "en": "Bank of England",
-          "zh": "英格兰银行"
-        },
-        "type": "central_bank",
-        "country": "GB"
-      },
       "geographic_scope": "national",
-      "data_access": {
-        "methods": [
-          "web_download",
-          "database_query",
-          "api"
-        ],
-        "formats": [
-          "CSV",
-          "Excel",
-          "JSON"
-        ],
-        "requires_registration": false
-      },
-      "temporal_coverage": {
-        "start_year": null,
-        "coverage_notes": {
-          "en": "Historical time series with varying start dates depending on data series",
-          "zh": "历史时间序列数据，起始日期因数据系列而异"
-        }
-      },
       "data_content": {
         "en": [
           "Money and lending statistics",
@@ -7749,13 +7712,6 @@
         ]
       },
       "update_frequency": "daily",
-      "update_frequency_notes": {
-        "en": "Varies by dataset: Daily (exchange rates, SONIA), Weekly (money markets), Monthly (lending, deposits), Quarterly (detailed breakdowns)",
-        "zh": "因数据集而异：每日（汇率、SONIA）、每周（货币市场）、每月（信贷、存款）、每季度（详细分类）"
-      },
-      "support": {
-        "email": "BEEDSQueries@bankofengland.co.uk"
-      },
       "tags": [
         "central bank",
         "中央银行",
@@ -7786,12 +7742,6 @@
         "储备",
         "BoE"
       ],
-      "metadata": {
-        "last_verified": "2026-03-04",
-        "data_portal_url": "https://www.bankofengland.co.uk/boeapps/database/",
-        "statistical_releases_url": "https://www.bankofengland.co.uk/news/statistics",
-        "research_datasets_url": "https://www.bankofengland.co.uk/statistics/research-datasets"
-      },
       "has_api": true,
       "file_path": "countries/europe/bank-of-england-statistics.json"
     },
@@ -11065,29 +11015,6 @@
         "青少年",
         "adolescents"
       ],
-      "organization": {
-        "name": {
-          "zh": "联合国人口基金",
-          "en": "United Nations Population Fund"
-        },
-        "abbreviation": "UNFPA",
-        "type": "international_organization"
-      },
-      "access": {
-        "requires_registration": false,
-        "cost": "free"
-      },
-      "formats": [
-        "PDF",
-        "HTML",
-        "Excel"
-      ],
-      "related_links": {
-        "unfpa_china": "https://china.unfpa.org/zh-Hans",
-        "world_urbanization_prospects": "https://population.un.org/wup/",
-        "publications": "https://www.unfpa.org/publications",
-        "china_publications": "https://china.unfpa.org/zh-Hans/publications"
-      },
       "has_api": false,
       "file_path": "international/demographics/unfpa-urbanization.json"
     },
@@ -15797,7 +15724,6 @@
       "file_path": "sectors/C-manufacturing/chemicals/china-petroleum-chemical-federation.json"
     },
     {
-      "$schema": "https://firstdata.org/schemas/firstdata-v2.json",
       "id": "china-lcd-association",
       "name": {
         "en": "China Optoelectronic Display Association - Liquid Crystal Division (CODA)",
