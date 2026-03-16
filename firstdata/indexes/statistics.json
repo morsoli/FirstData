@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-16T02:11:34.595780+00:00",
+    "generated_at": "2026-03-16T02:17:30.965193+00:00",
     "version": "2.0"
   },
   "overview": {
@@ -17,8 +17,8 @@
     "commercial": 15
   },
   "by_geographic_scope": {
-    "global": 82,
-    "national": 137,
+    "global": 88,
+    "national": 148,
     "regional": 24
   },
   "by_update_frequency": {

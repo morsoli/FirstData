@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-16T02:11:34.595780+00:00",
+    "generated_at": "2026-03-16T02:17:30.965193+00:00",
     "total_sources": 260,
     "authority_counts": {
       "research": 33,
@@ -506,7 +506,8 @@
         "authority_level": "international",
         "data_url": "https://cds.climate.copernicus.eu",
         "has_api": true,
-        "file_path": "international/climate/ecmwf.json"
+        "file_path": "international/climate/ecmwf.json",
+        "geographic_scope": "global"
       },
       {
         "id": "ipcc",
@@ -517,7 +518,8 @@
         "authority_level": "international",
         "data_url": "https://www.ipcc-data.org/observ/index.html",
         "has_api": false,
-        "file_path": "international/climate/ipcc.json"
+        "file_path": "international/climate/ipcc.json",
+        "geographic_scope": "global"
       },
       {
         "id": "eu-construction",
@@ -994,7 +996,8 @@
         "authority_level": "international",
         "data_url": "https://www.who.int/data/gho/data/indicators",
         "has_api": true,
-        "file_path": "international/health/who-gho.json"
+        "file_path": "international/health/who-gho.json",
+        "geographic_scope": "global"
       },
       {
         "id": "un-population",
@@ -1005,7 +1008,8 @@
         "authority_level": "international",
         "data_url": "https://population.un.org/wpp/",
         "has_api": true,
-        "file_path": "international/humanitarian/un-population.json"
+        "file_path": "international/humanitarian/un-population.json",
+        "geographic_scope": "global"
       },
       {
         "id": "unhcr",
@@ -1016,7 +1020,8 @@
         "authority_level": "international",
         "data_url": "https://www.unhcr.org/refugee-statistics/",
         "has_api": true,
-        "file_path": "international/humanitarian/unhcr.json"
+        "file_path": "international/humanitarian/unhcr.json",
+        "geographic_scope": "global"
       },
       {
         "id": "unicef",
@@ -1027,7 +1032,8 @@
         "authority_level": "international",
         "data_url": "https://data.unicef.org/resources/resource-type/datasets/",
         "has_api": true,
-        "file_path": "international/humanitarian/unicef.json"
+        "file_path": "international/humanitarian/unicef.json",
+        "geographic_scope": "global"
       },
       {
         "id": "unctad-infrastructure-statistics",
@@ -1283,7 +1289,8 @@
         "authority_level": "government",
         "data_url": "https://www.nea.gov.cn/sjzz/",
         "has_api": false,
-        "file_path": "china/china-nea.json"
+        "file_path": "china/china-nea.json",
+        "geographic_scope": "national"
       },
       {
         "id": "cninfo",
@@ -1294,7 +1301,8 @@
         "authority_level": "government",
         "data_url": "https://www.cninfo.com.cn/new/commonUrl?url=disclosure/list/search",
         "has_api": true,
-        "file_path": "china/cninfo.json"
+        "file_path": "china/cninfo.json",
+        "geographic_scope": "national"
       },
       {
         "id": "china-construction-standards",
@@ -1950,7 +1958,8 @@
         "authority_level": "government",
         "data_url": "https://www.esri.cao.go.jp/en/sna/menu.html",
         "has_api": false,
-        "file_path": "countries/asia/japan/japan-esri.json"
+        "file_path": "countries/asia/japan/japan-esri.json",
+        "geographic_scope": "national"
       },
       {
         "id": "japan-estat",
@@ -1974,7 +1983,8 @@
         "authority_level": "government",
         "data_url": "https://www.data.jma.go.jp/gmd/risk/obsdl/index.php",
         "has_api": false,
-        "file_path": "countries/asia/japan/japan-jma.json"
+        "file_path": "countries/asia/japan/japan-jma.json",
+        "geographic_scope": "national"
       },
       {
         "id": "korea-bok",
@@ -2231,7 +2241,8 @@
         "authority_level": "government",
         "data_url": "https://esploradati.istat.it/databrowser/",
         "has_api": true,
-        "file_path": "countries/europe/italy/italy-istat.json"
+        "file_path": "countries/europe/italy/italy-istat.json",
+        "geographic_scope": "national"
       },
       {
         "id": "netherlands-cbs",
@@ -2242,7 +2253,8 @@
         "authority_level": "government",
         "data_url": "https://opendata.cbs.nl/statline/",
         "has_api": true,
-        "file_path": "countries/europe/netherlands/netherlands-cbs.json"
+        "file_path": "countries/europe/netherlands/netherlands-cbs.json",
+        "geographic_scope": "national"
       },
       {
         "id": "spain-ine",
@@ -2253,7 +2265,8 @@
         "authority_level": "government",
         "data_url": "https://www.ine.es/dyngs/INEbase/listaoperaciones.htm",
         "has_api": true,
-        "file_path": "countries/europe/spain/spain-ine.json"
+        "file_path": "countries/europe/spain/spain-ine.json",
+        "geographic_scope": "national"
       },
       {
         "id": "sweden-scb",
@@ -2264,7 +2277,8 @@
         "authority_level": "government",
         "data_url": "https://www.statistikdatabasen.scb.se",
         "has_api": true,
-        "file_path": "countries/europe/sweden/sweden-scb.json"
+        "file_path": "countries/europe/sweden/sweden-scb.json",
+        "geographic_scope": "national"
       },
       {
         "id": "turkey-tuik",
@@ -2312,7 +2326,8 @@
         "authority_level": "government",
         "data_url": "https://www.metoffice.gov.uk/research/climate/maps-and-data",
         "has_api": true,
-        "file_path": "countries/europe/uk/uk-met-office.json"
+        "file_path": "countries/europe/uk/uk-met-office.json",
+        "geographic_scope": "national"
       },
       {
         "id": "uk-ons-cpi-rpi",
@@ -2783,7 +2798,8 @@
         "authority_level": "other",
         "data_url": "https://www.chinaclear.cn/zdjs/tjyb/center_tjbg.shtml",
         "has_api": false,
-        "file_path": "china/china-csdc.json"
+        "file_path": "china/china-csdc.json",
+        "geographic_scope": "national"
       },
       {
         "id": "china-sac",
@@ -2794,7 +2810,8 @@
         "authority_level": "other",
         "data_url": "https://www.sac.net.cn/hysj/",
         "has_api": false,
-        "file_path": "china/china-sac.json"
+        "file_path": "china/china-sac.json",
+        "geographic_scope": "national"
       },
       {
         "id": "akshare",

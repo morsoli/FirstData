@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-03-16T02:11:34.595780+00:00",
+    "generated_at": "2026-03-16T02:17:30.965193+00:00",
     "total_sources": 260,
     "version": "2.0",
     "schema_version": "v2.0.0"
@@ -1920,8 +1920,6 @@
       },
       "authority_level": "other",
       "update_frequency": "monthly",
-      "coverage": "national",
-      "country_code": "CN",
       "domains": [
         "finance"
       ],
@@ -1932,7 +1930,8 @@
         "investor",
         "china"
       ],
-      "license": "open",
+      "country": "CN",
+      "geographic_scope": "national",
       "has_api": false,
       "file_path": "china/china-csdc.json"
     },
@@ -1963,8 +1962,6 @@
       },
       "authority_level": "government",
       "update_frequency": "monthly",
-      "coverage": "national",
-      "country_code": "CN",
       "domains": [
         "energy"
       ],
@@ -1975,7 +1972,8 @@
         "power",
         "china"
       ],
-      "license": "open",
+      "country": "CN",
+      "geographic_scope": "national",
       "has_api": false,
       "file_path": "china/china-nea.json"
     },
@@ -2010,8 +2008,6 @@
       },
       "authority_level": "other",
       "update_frequency": "quarterly",
-      "coverage": "national",
-      "country_code": "CN",
       "domains": [
         "finance"
       ],
@@ -2022,7 +2018,8 @@
         "sac",
         "ranking"
       ],
-      "license": "open",
+      "country": "CN",
+      "geographic_scope": "national",
       "has_api": false,
       "file_path": "china/china-sac.json"
     },
@@ -2057,8 +2054,6 @@
       },
       "authority_level": "government",
       "update_frequency": "daily",
-      "coverage": "national",
-      "country_code": "CN",
       "domains": [
         "finance"
       ],
@@ -2069,7 +2064,8 @@
         "financial-report",
         "china"
       ],
-      "license": "open",
+      "country": "CN",
+      "geographic_scope": "national",
       "has_api": true,
       "file_path": "china/cninfo.json"
     },
@@ -5611,7 +5607,6 @@
         "JSON",
         "Parquet"
       ],
-      "license": "Open Data",
       "contact": {
         "email": "info@dosm.gov.my",
         "phone": "+60 3-8885 7000"
@@ -6176,8 +6171,6 @@
       },
       "authority_level": "government",
       "update_frequency": "quarterly",
-      "coverage": "national",
-      "country_code": "JP",
       "domains": [
         "economics"
       ],
@@ -6188,7 +6181,8 @@
         "national-accounts",
         "business-cycle"
       ],
-      "license": "open",
+      "country": "JP",
+      "geographic_scope": "national",
       "has_api": false,
       "file_path": "countries/asia/japan/japan-esri.json"
     },
@@ -6305,8 +6299,6 @@
       },
       "authority_level": "government",
       "update_frequency": "daily",
-      "coverage": "national",
-      "country_code": "JP",
       "domains": [
         "climate",
         "environment",
@@ -6319,7 +6311,8 @@
         "japan",
         "climate"
       ],
-      "license": "open",
+      "country": "JP",
+      "geographic_scope": "national",
       "has_api": false,
       "file_path": "countries/asia/japan/japan-jma.json"
     },
@@ -7760,14 +7753,6 @@
         "en": "Varies by dataset: Daily (exchange rates, SONIA), Weekly (money markets), Monthly (lending, deposits), Quarterly (detailed breakdowns)",
         "zh": "因数据集而异：每日（汇率、SONIA）、每周（货币市场）、每月（信贷、存款）、每季度（详细分类）"
       },
-      "license": {
-        "type": "Open Government Licence",
-        "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
-        "notes": {
-          "en": "Most data published under UK Open Government Licence v3.0, allowing free reuse with attribution. Some exchange rate data excluded due to third-party licensing.",
-          "zh": "大部分数据根据英国开放政府许可证 v3.0 发布，允许署名后自由使用。部分汇率数据因第三方许可而不包含在内。"
-        }
-      },
       "support": {
         "email": "BEEDSQueries@bankofengland.co.uk"
       },
@@ -8011,8 +7996,6 @@
       },
       "authority_level": "government",
       "update_frequency": "monthly",
-      "coverage": "national",
-      "country_code": "IT",
       "domains": [
         "economics",
         "demographics",
@@ -8025,7 +8008,8 @@
         "census",
         "labor"
       ],
-      "license": "open",
+      "country": "IT",
+      "geographic_scope": "national",
       "has_api": true,
       "file_path": "countries/europe/italy/italy-istat.json"
     },
@@ -8064,8 +8048,6 @@
       },
       "authority_level": "government",
       "update_frequency": "monthly",
-      "coverage": "national",
-      "country_code": "NL",
       "domains": [
         "economics",
         "demographics",
@@ -8082,7 +8064,8 @@
         "odata",
         "gdp"
       ],
-      "license": "open",
+      "country": "NL",
+      "geographic_scope": "national",
       "has_api": true,
       "file_path": "countries/europe/netherlands/netherlands-cbs.json"
     },
@@ -8117,8 +8100,6 @@
       },
       "authority_level": "government",
       "update_frequency": "monthly",
-      "coverage": "national",
-      "country_code": "ES",
       "domains": [
         "economics",
         "demographics",
@@ -8131,7 +8112,8 @@
         "labor",
         "gdp"
       ],
-      "license": "open",
+      "country": "ES",
+      "geographic_scope": "national",
       "has_api": true,
       "file_path": "countries/europe/spain/spain-ine.json"
     },
@@ -8170,8 +8152,6 @@
       },
       "authority_level": "government",
       "update_frequency": "monthly",
-      "coverage": "national",
-      "country_code": "SE",
       "domains": [
         "economics",
         "demographics",
@@ -8188,7 +8168,8 @@
         "gdp",
         "population"
       ],
-      "license": "open",
+      "country": "SE",
+      "geographic_scope": "national",
       "has_api": true,
       "file_path": "countries/europe/sweden/sweden-scb.json"
     },
@@ -8450,8 +8431,6 @@
       },
       "authority_level": "government",
       "update_frequency": "daily",
-      "coverage": "national",
-      "country_code": "GB",
       "domains": [
         "climate",
         "environment"
@@ -8463,7 +8442,8 @@
         "hadcrut",
         "uk"
       ],
-      "license": "open",
+      "country": "GB",
+      "geographic_scope": "national",
       "has_api": true,
       "file_path": "countries/europe/uk/uk-met-office.json"
     },
@@ -10692,8 +10672,6 @@
       },
       "authority_level": "international",
       "update_frequency": "daily",
-      "coverage": "global",
-      "country_code": null,
       "domains": [
         "climate",
         "environment"
@@ -10705,7 +10683,8 @@
         "forecast",
         "climate"
       ],
-      "license": "open",
+      "country": null,
+      "geographic_scope": "global",
       "has_api": true,
       "file_path": "international/climate/ecmwf.json"
     },
@@ -10736,8 +10715,6 @@
       },
       "authority_level": "international",
       "update_frequency": "irregular",
-      "coverage": "global",
-      "country_code": null,
       "domains": [
         "climate",
         "environment"
@@ -10749,7 +10726,8 @@
         "temperature",
         "sea-level"
       ],
-      "license": "open",
+      "country": null,
+      "geographic_scope": "global",
       "has_api": false,
       "file_path": "international/climate/ipcc.json"
     },
@@ -14045,8 +14023,6 @@
       },
       "authority_level": "international",
       "update_frequency": "annual",
-      "coverage": "global",
-      "country_code": null,
       "domains": [
         "health"
       ],
@@ -14057,7 +14033,8 @@
         "disease",
         "immunization"
       ],
-      "license": "open",
+      "country": null,
+      "geographic_scope": "global",
       "has_api": true,
       "file_path": "international/health/who-gho.json"
     },
@@ -14089,8 +14066,6 @@
       },
       "authority_level": "international",
       "update_frequency": "irregular",
-      "coverage": "global",
-      "country_code": null,
       "domains": [
         "demographics"
       ],
@@ -14101,7 +14076,8 @@
         "migration",
         "urbanization"
       ],
-      "license": "open",
+      "country": null,
+      "geographic_scope": "global",
       "has_api": true,
       "file_path": "international/humanitarian/un-population.json"
     },
@@ -14133,8 +14109,6 @@
       },
       "authority_level": "international",
       "update_frequency": "annual",
-      "coverage": "global",
-      "country_code": null,
       "domains": [
         "demographics",
         "humanitarian"
@@ -14146,7 +14120,8 @@
         "displacement",
         "humanitarian"
       ],
-      "license": "open",
+      "country": null,
+      "geographic_scope": "global",
       "has_api": true,
       "file_path": "international/humanitarian/unhcr.json"
     },
@@ -14179,8 +14154,6 @@
       },
       "authority_level": "international",
       "update_frequency": "annual",
-      "coverage": "global",
-      "country_code": null,
       "domains": [
         "health",
         "demographics",
@@ -14193,7 +14166,8 @@
         "education",
         "development"
       ],
-      "license": "open",
+      "country": null,
+      "geographic_scope": "global",
       "has_api": true,
       "file_path": "international/humanitarian/unicef.json"
     },
