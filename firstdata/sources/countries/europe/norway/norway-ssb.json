@@ -1,0 +1,45 @@
+{
+  "id": "norway-ssb",
+  "name": {
+    "en": "Statistics Norway (SSB)",
+    "zh": "挪威统计局",
+    "native": "Statistisk sentralbyrå (SSB)"
+  },
+  "description": {
+    "en": "Statistics Norway (SSB) is Norway's official statistics agency, responsible for collecting, processing, and publishing statistics on Norwegian society, economy, population, and environment. SSB provides comprehensive data through its StatBank platform and open API.",
+    "zh": "挪威统计局（SSB）是挪威官方统计机构，负责收集、处理和发布挪威社会、经济、人口和环境统计数据。SSB通过其StatBank平台和开放API提供全面的数据访问服务。"
+  },
+  "website": "https://www.ssb.no/en",
+  "data_url": "https://www.ssb.no/en/statbank",
+  "api_url": "https://data.ssb.no/api/v0/en/table/",
+  "authority_level": "government",
+  "country": "NO",
+  "domains": ["economics", "demographics", "environment", "health", "education", "labor"],
+  "geographic_scope": "national",
+  "update_frequency": "quarterly",
+  "tags": ["norway", "ssb", "statistics norway", "nordic", "挪威", "统计局", "人口", "经济", "北欧", "statbank", "open data"],
+  "data_content": {
+    "en": [
+      "Population and migration statistics",
+      "National accounts and GDP",
+      "Labor market and employment data",
+      "Prices and consumer price index",
+      "Energy and environment statistics",
+      "Education and research data",
+      "Health and welfare statistics",
+      "Business and industry data",
+      "Foreign trade statistics"
+    ],
+    "zh": [
+      "人口与移民统计",
+      "国民账户与GDP",
+      "劳动力市场与就业数据",
+      "物价与消费者价格指数",
+      "能源与环境统计",
+      "教育与科研数据",
+      "卫生与福利统计",
+      "工商业数据",
+      "对外贸易统计"
+    ]
+  }
+}

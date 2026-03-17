@@ -1,0 +1,45 @@
+{
+  "id": "switzerland-fso",
+  "name": {
+    "en": "Swiss Federal Statistical Office (FSO)",
+    "zh": "瑞士联邦统计局",
+    "native": "Bundesamt für Statistik (BFS)"
+  },
+  "description": {
+    "en": "The Swiss Federal Statistical Office (FSO) is Switzerland's national statistics authority. It produces and publishes official statistics on Swiss economy, society, population, environment, and politics. FSO provides data through its STAT-TAB interactive database and PX-Web API.",
+    "zh": "瑞士联邦统计局（FSO/BFS）是瑞士国家统计机构，负责生产和发布关于瑞士经济、社会、人口、环境和政治的官方统计数据，通过STAT-TAB交互式数据库和PX-Web API提供数据访问。"
+  },
+  "website": "https://www.bfs.admin.ch/bfs/en/home.html",
+  "data_url": "https://www.bfs.admin.ch/bfs/en/home/statistics.html",
+  "api_url": "https://www.pxweb.bfs.admin.ch/api/v1/en",
+  "authority_level": "government",
+  "country": "CH",
+  "domains": ["economics", "demographics", "environment", "health", "education", "labor"],
+  "geographic_scope": "national",
+  "update_frequency": "annual",
+  "tags": ["switzerland", "fso", "bfs", "swiss statistics", "瑞士", "联邦统计局", "人口", "经济", "欧洲", "stat-tab", "px-web", "open data"],
+  "data_content": {
+    "en": [
+      "Population and household statistics",
+      "National accounts and GDP",
+      "Labor market and wages data",
+      "Prices and purchasing power",
+      "Health and social security statistics",
+      "Education and science data",
+      "Environment and energy statistics",
+      "Agriculture and forestry data",
+      "Foreign trade and balance of payments"
+    ],
+    "zh": [
+      "人口与家庭统计",
+      "国民账户与GDP",
+      "劳动力市场与工资数据",
+      "物价与购买力",
+      "卫生与社会保障统计",
+      "教育与科学数据",
+      "环境与能源统计",
+      "农业与林业数据",
+      "对外贸易与国际收支"
+    ]
+  }
+}
