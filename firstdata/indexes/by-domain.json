@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-17T02:11:12.763692+00:00",
+    "generated_at": "2026-03-18T02:05:09.865780+00:00",
     "total_domains": 690,
-    "total_sources": 267,
+    "total_sources": 269,
     "version": "2.0"
   },
   "domains": {
@@ -4085,6 +4085,32 @@
         "geographic_scope": "national"
       },
       {
+        "id": "austria-statistik",
+        "name": {
+          "en": "Statistics Austria",
+          "zh": "奥地利统计局",
+          "native": "Statistik Austria"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistik.at/statistiken",
+        "has_api": true,
+        "file_path": "countries/europe/at/austria-statistik.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "denmark-dst",
+        "name": {
+          "en": "Statistics Denmark",
+          "zh": "丹麦统计局",
+          "native": "Danmarks Statistik"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dst.dk/en/Statistik",
+        "has_api": true,
+        "file_path": "countries/europe/dk/denmark-dst.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "france-insee",
         "name": {
           "en": "INSEE - National Institute of Statistics and Economic Studies",
@@ -5872,6 +5898,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "austria-statistik",
+        "name": {
+          "en": "Statistics Austria",
+          "zh": "奥地利统计局",
+          "native": "Statistik Austria"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistik.at/statistiken",
+        "has_api": true,
+        "file_path": "countries/europe/at/austria-statistik.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "bank-of-england-statistics",
         "name": {
           "en": "Bank of England Statistical Database",
@@ -5881,6 +5920,19 @@
         "data_url": "https://www.bankofengland.co.uk/boeapps/database/",
         "has_api": true,
         "file_path": "countries/europe/bank-of-england-statistics.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "denmark-dst",
+        "name": {
+          "en": "Statistics Denmark",
+          "zh": "丹麦统计局",
+          "native": "Danmarks Statistik"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dst.dk/en/Statistik",
+        "has_api": true,
+        "file_path": "countries/europe/dk/denmark-dst.json",
         "geographic_scope": "national"
       },
       {
@@ -7331,6 +7383,32 @@
         "data_url": "https://www.nso.gov.vn/en/statistical-data/",
         "has_api": false,
         "file_path": "countries/asia/vietnam/gso.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "austria-statistik",
+        "name": {
+          "en": "Statistics Austria",
+          "zh": "奥地利统计局",
+          "native": "Statistik Austria"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistik.at/statistiken",
+        "has_api": true,
+        "file_path": "countries/europe/at/austria-statistik.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "denmark-dst",
+        "name": {
+          "en": "Statistics Denmark",
+          "zh": "丹麦统计局",
+          "native": "Danmarks Statistik"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dst.dk/en/Statistik",
+        "has_api": true,
+        "file_path": "countries/europe/dk/denmark-dst.json",
         "geographic_scope": "national"
       },
       {
@@ -16659,6 +16737,32 @@
         "geographic_scope": "national"
       },
       {
+        "id": "austria-statistik",
+        "name": {
+          "en": "Statistics Austria",
+          "zh": "奥地利统计局",
+          "native": "Statistik Austria"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistik.at/statistiken",
+        "has_api": true,
+        "file_path": "countries/europe/at/austria-statistik.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "denmark-dst",
+        "name": {
+          "en": "Statistics Denmark",
+          "zh": "丹麦统计局",
+          "native": "Danmarks Statistik"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dst.dk/en/Statistik",
+        "has_api": true,
+        "file_path": "countries/europe/dk/denmark-dst.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "france-insee",
         "name": {
           "en": "INSEE - National Institute of Statistics and Economic Studies",
@@ -17930,6 +18034,32 @@
         "data_url": "https://tablebuilder.singstat.gov.sg",
         "has_api": true,
         "file_path": "countries/asia/singapore/singapore-singstat.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "austria-statistik",
+        "name": {
+          "en": "Statistics Austria",
+          "zh": "奥地利统计局",
+          "native": "Statistik Austria"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistik.at/statistiken",
+        "has_api": true,
+        "file_path": "countries/europe/at/austria-statistik.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "denmark-dst",
+        "name": {
+          "en": "Statistics Denmark",
+          "zh": "丹麦统计局",
+          "native": "Danmarks Statistik"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dst.dk/en/Statistik",
+        "has_api": true,
+        "file_path": "countries/europe/dk/denmark-dst.json",
         "geographic_scope": "national"
       },
       {
@@ -19496,6 +19626,19 @@
         "data_url": "https://www.mpi.gov.vn/en/Pages/FDI-1637.aspx",
         "has_api": false,
         "file_path": "countries/asia/vietnam/vietnam-fia.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "denmark-dst",
+        "name": {
+          "en": "Statistics Denmark",
+          "zh": "丹麦统计局",
+          "native": "Danmarks Statistik"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dst.dk/en/Statistik",
+        "has_api": true,
+        "file_path": "countries/europe/dk/denmark-dst.json",
         "geographic_scope": "national"
       },
       {

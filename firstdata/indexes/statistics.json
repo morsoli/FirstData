@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-03-17T02:11:12.763692+00:00",
+    "generated_at": "2026-03-18T02:05:09.865780+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 267,
-    "sources_with_api": 128,
-    "last_updated": "2026-03-17"
+    "total_sources": 269,
+    "sources_with_api": 130,
+    "last_updated": "2026-03-18"
   },
   "by_authority_level": {
     "research": 36,
     "international": 67,
-    "government": 130,
+    "government": 132,
     "other": 3,
     "market": 16,
     "commercial": 15
   },
   "by_geographic_scope": {
     "global": 93,
-    "national": 150,
+    "national": 152,
     "regional": 24
   },
   "by_update_frequency": {
@@ -26,21 +26,21 @@
     "daily": 50,
     "weekly": 9,
     "quarterly": 29,
-    "monthly": 70,
-    "annual": 51,
+    "monthly": 71,
+    "annual": 52,
     "real-time": 10
   },
   "by_domain": {
-    "economics": 91,
-    "trade": 48,
-    "demographics": 46,
+    "economics": 93,
+    "trade": 49,
+    "demographics": 48,
     "finance": 45,
     "environment": 41,
     "health": 34,
     "education": 34,
     "agriculture": 30,
-    "social": 24,
-    "employment": 19,
+    "social": 26,
+    "employment": 21,
     "energy": 19,
     "climate": 16,
     "development": 15,
@@ -51,10 +51,10 @@
     "housing": 11,
     "transportation": 11,
     "labor": 10,
+    "prices": 10,
     "statistics": 9,
     "banking": 9,
     "population": 8,
-    "prices": 8,
     "securities": 8,
     "genomics": 7,
     "machine learning": 7,

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-17T02:11:12.763692+00:00",
-    "total_sources": 267,
+    "generated_at": "2026-03-18T02:05:09.865780+00:00",
+    "total_sources": 269,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -7665,6 +7665,75 @@
       "file_path": "countries/cn/geology/cgs.json"
     },
     {
+      "id": "austria-statistik",
+      "name": {
+        "en": "Statistics Austria",
+        "zh": "奥地利统计局",
+        "native": "Statistik Austria"
+      },
+      "description": {
+        "en": "Statistics Austria is the national statistical office of Austria, providing official statistics on population, economy, society, environment, and regional development. It serves as the primary source for national accounts, demographic data, labor market statistics, and social indicators.",
+        "zh": "奥地利统计局是奥地利官方国家统计机构，提供人口、经济、社会、环境和区域发展等方面的官方统计数据，是国民账户、人口统计、劳动力市场统计和社会指标的主要来源。"
+      },
+      "website": "https://www.statistik.at",
+      "data_url": "https://www.statistik.at/statistiken",
+      "api_url": "https://api.statistik.at/stat/rest/v1/",
+      "authority_level": "government",
+      "country": "AT",
+      "domains": [
+        "demographics",
+        "economics",
+        "social",
+        "employment",
+        "prices"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "annual",
+      "tags": [
+        "austria",
+        "statistik austria",
+        "official statistics",
+        "population",
+        "census",
+        "GDP",
+        "national accounts",
+        "labor market",
+        "inflation",
+        "social statistics",
+        "奥地利",
+        "奥地利统计局",
+        "人口统计",
+        "经济统计",
+        "就业",
+        "国民账户",
+        "通货膨胀"
+      ],
+      "data_content": {
+        "en": [
+          "Population and census data",
+          "GDP and national accounts",
+          "Employment and unemployment statistics",
+          "Consumer price index and inflation",
+          "Housing and construction statistics",
+          "Education and training indicators",
+          "Health and social welfare data",
+          "Regional and municipal statistics"
+        ],
+        "zh": [
+          "人口与普查数据",
+          "GDP与国民账户",
+          "就业与失业统计",
+          "消费者价格指数与通货膨胀",
+          "住房与建筑统计",
+          "教育与培训指标",
+          "卫生与社会福利数据",
+          "区域与市政统计"
+        ]
+      },
+      "has_api": true,
+      "file_path": "countries/europe/at/austria-statistik.json"
+    },
+    {
       "id": "bank-of-england-statistics",
       "name": {
         "en": "Bank of England Statistical Database",
@@ -7744,6 +7813,78 @@
       ],
       "has_api": true,
       "file_path": "countries/europe/bank-of-england-statistics.json"
+    },
+    {
+      "id": "denmark-dst",
+      "name": {
+        "en": "Statistics Denmark",
+        "zh": "丹麦统计局",
+        "native": "Danmarks Statistik"
+      },
+      "description": {
+        "en": "Statistics Denmark (Danmarks Statistik) is the national statistical institute of Denmark, responsible for collecting, compiling, and publishing official statistics on Danish society. It covers a wide range of topics including population, economy, business, trade, and social conditions, and provides open access via its StatBank API.",
+        "zh": "丹麦统计局（Danmarks Statistik）是丹麦官方国家统计机构，负责收集、整理和发布丹麦社会各方面的官方统计数据，涵盖人口、经济、商业、贸易和社会状况，并通过StatBank API提供开放数据访问。"
+      },
+      "website": "https://www.dst.dk",
+      "data_url": "https://www.dst.dk/en/Statistik",
+      "api_url": "https://api.statbank.dk/v1/",
+      "authority_level": "government",
+      "country": "DK",
+      "domains": [
+        "demographics",
+        "economics",
+        "trade",
+        "social",
+        "employment",
+        "prices"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "denmark",
+        "danmarks statistik",
+        "statistics denmark",
+        "StatBank",
+        "official statistics",
+        "population",
+        "GDP",
+        "national accounts",
+        "trade",
+        "labor market",
+        "CPI",
+        "丹麦",
+        "丹麦统计局",
+        "人口统计",
+        "经济统计",
+        "贸易",
+        "就业",
+        "国民账户",
+        "统计银行"
+      ],
+      "data_content": {
+        "en": [
+          "Population and vital statistics",
+          "GDP and national accounts",
+          "Foreign trade and balance of payments",
+          "Employment and labor market indicators",
+          "Consumer price index and inflation",
+          "Business and enterprise statistics",
+          "Social conditions and welfare",
+          "Environmental accounts and energy statistics"
+        ],
+        "zh": [
+          "人口与生命统计",
+          "GDP与国民账户",
+          "对外贸易与国际收支",
+          "就业与劳动力市场指标",
+          "消费者价格指数与通货膨胀",
+          "企业与工商统计",
+          "社会状况与福利",
+          "环境账户与能源统计"
+        ]
+      },
+      "has_api": true,
+      "file_path": "countries/europe/dk/denmark-dst.json"
     },
     {
       "id": "france-insee",

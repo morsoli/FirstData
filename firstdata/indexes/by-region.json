@@ -1,11 +1,26 @@
 {
   "metadata": {
-    "generated_at": "2026-03-17T02:11:12.763692+00:00",
-    "total_regions": 31,
-    "total_sources": 267,
+    "generated_at": "2026-03-18T02:05:09.865780+00:00",
+    "total_regions": 33,
+    "total_sources": 269,
     "version": "2.0"
   },
   "regions": {
+    "AT": [
+      {
+        "id": "austria-statistik",
+        "name": {
+          "en": "Statistics Austria",
+          "zh": "奥地利统计局",
+          "native": "Statistik Austria"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistik.at/statistiken",
+        "has_api": true,
+        "file_path": "countries/europe/at/austria-statistik.json",
+        "geographic_scope": "national"
+      }
+    ],
     "AU": [
       {
         "id": "australia-abs",
@@ -1039,6 +1054,21 @@
         "data_url": "https://www.destatis.de/EN/Themes/_node.html",
         "has_api": true,
         "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "DK": [
+      {
+        "id": "denmark-dst",
+        "name": {
+          "en": "Statistics Denmark",
+          "zh": "丹麦统计局",
+          "native": "Danmarks Statistik"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dst.dk/en/Statistik",
+        "has_api": true,
+        "file_path": "countries/europe/dk/denmark-dst.json",
         "geographic_scope": "national"
       }
     ],
