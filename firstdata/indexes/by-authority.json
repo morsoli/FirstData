@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-03-18T02:05:09.865780+00:00",
-    "total_sources": 269,
+    "generated_at": "2026-03-18T02:10:13.281407+00:00",
+    "total_sources": 274,
     "authority_counts": {
-      "research": 36,
-      "international": 67,
-      "government": 132,
+      "research": 37,
+      "international": 68,
+      "government": 135,
       "other": 3,
       "market": 16,
       "commercial": 15
@@ -145,6 +145,18 @@
         "data_url": "https://ghdx.healthdata.org/",
         "has_api": true,
         "file_path": "academic/health/ghdx.json",
+        "geographic_scope": "global"
+      },
+      {
+        "id": "owid",
+        "name": {
+          "en": "Our World in Data",
+          "zh": "用数据看世界"
+        },
+        "authority_level": "research",
+        "data_url": "https://github.com/owid/owid-datasets",
+        "has_api": true,
+        "file_path": "academic/multidisciplinary/owid.json",
         "geographic_scope": "global"
       },
       {
@@ -1034,6 +1046,18 @@
         "has_api": false,
         "file_path": "international/health/ecdc-surveillance.json",
         "geographic_scope": "regional"
+      },
+      {
+        "id": "gavi",
+        "name": {
+          "en": "GAVI, the Vaccine Alliance",
+          "zh": "全球疫苗免疫联盟"
+        },
+        "authority_level": "international",
+        "data_url": "https://www.gavi.org/programmes-impact/our-impact/facts-and-figures",
+        "has_api": false,
+        "file_path": "international/health/gavi.json",
+        "geographic_scope": "global"
       },
       {
         "id": "who-gho",
@@ -2617,6 +2641,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "us-census",
+        "name": {
+          "en": "U.S. Census Bureau",
+          "zh": "美国人口普查局"
+        },
+        "authority_level": "government",
+        "data_url": "https://data.census.gov",
+        "has_api": true,
+        "file_path": "countries/north-america/usa/us-census.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "us-data-gov",
         "name": {
           "en": "Data.gov",
@@ -2627,6 +2663,30 @@
         "has_api": false,
         "file_path": "countries/north-america/usa/us-data-gov.json",
         "geographic_scope": "national"
+      },
+      {
+        "id": "us-treasury",
+        "name": {
+          "en": "U.S. Department of the Treasury",
+          "zh": "美国财政部"
+        },
+        "authority_level": "government",
+        "data_url": "https://fiscaldata.treasury.gov",
+        "has_api": true,
+        "file_path": "countries/north-america/usa/us-treasury.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "usaid-ddl",
+        "name": {
+          "en": "USAID Development Data Library",
+          "zh": "美国国际开发署发展数据库"
+        },
+        "authority_level": "government",
+        "data_url": "https://data.usaid.gov",
+        "has_api": true,
+        "file_path": "countries/north-america/usa/usaid-ddl.json",
+        "geographic_scope": "global"
       },
       {
         "id": "usgs-earthexplorer",

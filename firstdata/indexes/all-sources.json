@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-18T02:05:09.865780+00:00",
-    "total_sources": 269,
+    "generated_at": "2026-03-18T02:10:13.281407+00:00",
+    "total_sources": 274,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -1564,6 +1564,72 @@
       "authority_level": "government",
       "has_api": true,
       "file_path": "academic/health/tcga.json"
+    },
+    {
+      "id": "owid",
+      "name": {
+        "en": "Our World in Data",
+        "zh": "用数据看世界"
+      },
+      "description": {
+        "en": "Our World in Data (OWID) is a scientific online publication by the University of Oxford that presents research and data on the world's largest problems — poverty, disease, hunger, climate change, war, existential risks, and inequality. All visualizations, data, and code are open-source and freely accessible. OWID aggregates data from authoritative sources (UN, World Bank, WHO, etc.) and presents it through interactive charts and downloadable datasets, making complex global data accessible to everyone.",
+        "zh": "Our World in Data（OWID）是牛津大学的科学在线出版物，提供关于全球最大挑战的研究和数据——贫困、疾病、饥饿、气候变化、战争、生存风险和不平等。所有可视化、数据和代码均为开源且免费访问。OWID汇集来自权威来源（联合国、世界银行、世卫组织等）的数据，通过交互式图表和可下载数据集呈现，使复杂的全球数据人人可及。"
+      },
+      "website": "https://ourworldindata.org",
+      "data_url": "https://github.com/owid/owid-datasets",
+      "api_url": "https://docs.owid.io/projects/etl/api/",
+      "country": null,
+      "domains": [
+        "global development",
+        "health",
+        "energy",
+        "environment",
+        "education",
+        "poverty",
+        "demographics",
+        "economics"
+      ],
+      "geographic_scope": "global",
+      "update_frequency": "daily",
+      "tags": [
+        "owid",
+        "our-world-in-data",
+        "global-development",
+        "oxford",
+        "open-data",
+        "covid-19",
+        "vaccination",
+        "poverty",
+        "climate-change",
+        "全球发展",
+        "数据可视化",
+        "开放数据"
+      ],
+      "data_content": {
+        "en": [
+          "Health - COVID-19 vaccinations, disease burden, life expectancy, causes of death",
+          "Energy - Energy mix, renewable energy, fossil fuels, CO2 emissions",
+          "Environment - Climate change, air pollution, deforestation, biodiversity",
+          "Population - Demographics, fertility, migration, urbanization",
+          "Poverty - Extreme poverty, inequality, economic development",
+          "Education - Literacy, school enrollment, educational attainment",
+          "Technology - Internet access, technology adoption",
+          "Food - Hunger, agricultural production, food supply"
+        ],
+        "zh": [
+          "健康 - COVID-19疫苗接种、疾病负担、预期寿命、死亡原因",
+          "能源 - 能源结构、可再生能源、化石燃料、碳排放",
+          "环境 - 气候变化、空气污染、森林砍伐、生物多样性",
+          "人口 - 人口统计、生育率、移民、城市化",
+          "贫困 - 极端贫困、不平等、经济发展",
+          "教育 - 识字率、入学率、教育程度",
+          "技术 - 互联网接入、技术采用",
+          "食品 - 饥饿、农业生产、食品供应"
+        ]
+      },
+      "authority_level": "research",
+      "has_api": true,
+      "file_path": "academic/multidisciplinary/owid.json"
     },
     {
       "id": "cern-open-data",
@@ -9783,6 +9849,71 @@
       "file_path": "countries/north-america/usa/us-cdc.json"
     },
     {
+      "id": "us-census",
+      "name": {
+        "en": "U.S. Census Bureau",
+        "zh": "美国人口普查局"
+      },
+      "description": {
+        "en": "The U.S. Census Bureau is the principal agency of the U.S. Federal Statistical System responsible for producing data about the American people and economy. It conducts the decennial census, the American Community Survey, and over 130 other surveys and censuses. The Bureau provides critical economic indicators including retail sales, housing starts, international trade, construction spending, and manufacturing data, serving as the primary source for U.S. demographic and economic statistics.",
+        "zh": "美国人口普查局是美国联邦统计系统的主要机构，负责生产关于美国人口和经济的数据。它进行十年一次的人口普查、美国社区调查以及130多项其他调查和普查。该局提供关键经济指标，包括零售销售、住房开工、国际贸易、建设支出和制造业数据，是美国人口和经济统计数据的主要来源。"
+      },
+      "website": "https://www.census.gov",
+      "data_url": "https://data.census.gov",
+      "api_url": "https://www.census.gov/data/developers.html",
+      "country": "US",
+      "domains": [
+        "demographics",
+        "economics",
+        "trade",
+        "housing",
+        "business",
+        "manufacturing",
+        "retail"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "census",
+        "demographics",
+        "population",
+        "retail-sales",
+        "housing",
+        "international-trade",
+        "manufacturing",
+        "economic-indicators",
+        "美国人口普查",
+        "人口统计",
+        "零售销售",
+        "住房数据"
+      ],
+      "data_content": {
+        "en": [
+          "Decennial Census - Complete count of U.S. population every 10 years",
+          "American Community Survey - Annual demographics, housing, economic data",
+          "Economic Indicators - Retail sales, housing starts, construction spending",
+          "International Trade - Monthly import/export statistics by commodity and country",
+          "Manufacturing - Manufacturers' shipments, inventories, and orders",
+          "Business Formation - New business applications and formations",
+          "Population Estimates - Annual intercensal population estimates",
+          "Housing - New residential construction, home ownership rates"
+        ],
+        "zh": [
+          "十年普查 - 每10年一次的美国人口完整统计",
+          "美国社区调查 - 年度人口、住房、经济数据",
+          "经济指标 - 零售销售、住房开工、建设支出",
+          "国际贸易 - 按商品和国家分类的月度进出口统计",
+          "制造业 - 制造商出货量、库存和订单",
+          "企业创设 - 新企业申请和创设",
+          "人口估计 - 年度人口估计",
+          "住房 - 新住宅建设、住房拥有率"
+        ]
+      },
+      "authority_level": "government",
+      "has_api": true,
+      "file_path": "countries/north-america/usa/us-census.json"
+    },
+    {
       "id": "us-data-gov",
       "name": {
         "en": "Data.gov",
@@ -9864,6 +9995,134 @@
       "authority_level": "government",
       "has_api": false,
       "file_path": "countries/north-america/usa/us-data-gov.json"
+    },
+    {
+      "id": "us-treasury",
+      "name": {
+        "en": "U.S. Department of the Treasury",
+        "zh": "美国财政部"
+      },
+      "description": {
+        "en": "The U.S. Department of the Treasury provides comprehensive data on federal finances, government debt, treasury securities, and economic policy. Key datasets include daily treasury statements, monthly treasury statements, treasury securities auction data, TIPS (Treasury Inflation-Protected Securities), international capital flows (TIC), and sanctions data. The Treasury is the authoritative source for U.S. government fiscal data and sovereign debt information.",
+        "zh": "美国财政部提供联邦财政、政府债务、国债证券和经济政策的综合数据。主要数据集包括每日国库报告、月度国库报告、国债拍卖数据、通胀保值国债（TIPS）、国际资本流动（TIC）和制裁数据。财政部是美国政府财政数据和主权债务信息的权威来源。"
+      },
+      "website": "https://home.treasury.gov",
+      "data_url": "https://fiscaldata.treasury.gov",
+      "api_url": "https://fiscaldata.treasury.gov/api-documentation/",
+      "country": "US",
+      "domains": [
+        "finance",
+        "fiscal policy",
+        "government debt",
+        "treasury securities",
+        "international capital flows",
+        "sanctions"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "daily",
+      "tags": [
+        "treasury",
+        "fiscal-data",
+        "government-debt",
+        "treasury-securities",
+        "TIPS",
+        "TIC",
+        "sanctions",
+        "federal-budget",
+        "美国财政部",
+        "国债",
+        "财政数据",
+        "通胀保值债券"
+      ],
+      "data_content": {
+        "en": [
+          "Daily Treasury Statement - Daily cash and debt operations of the U.S. Treasury",
+          "Monthly Treasury Statement - Monthly receipts, outlays, and deficit/surplus",
+          "Treasury Securities - Auction results, yield curves, outstanding debt",
+          "TIPS - Treasury Inflation-Protected Securities data",
+          "TIC Data - International capital flows, foreign holdings of U.S. securities",
+          "Federal Debt - Total public debt outstanding, debt to the penny",
+          "OFAC Sanctions - Sanctions lists and compliance data",
+          "Interest Rates - Treasury bill, note, and bond rates"
+        ],
+        "zh": [
+          "每日国库报告 - 美国国库每日现金和债务操作",
+          "月度国库报告 - 月度收入、支出和赤字/盈余",
+          "国债证券 - 拍卖结果、收益率曲线、未偿债务",
+          "通胀保值国债 - TIPS数据",
+          "国际资本流动 - TIC数据、外国持有美国证券",
+          "联邦债务 - 公共债务总额",
+          "OFAC制裁 - 制裁名单和合规数据",
+          "利率 - 国库券、票据和债券利率"
+        ]
+      },
+      "authority_level": "government",
+      "has_api": true,
+      "file_path": "countries/north-america/usa/us-treasury.json"
+    },
+    {
+      "id": "usaid-ddl",
+      "name": {
+        "en": "USAID Development Data Library",
+        "zh": "美国国际开发署发展数据库"
+      },
+      "description": {
+        "en": "The USAID Development Data Library (DDL) is the U.S. Agency for International Development's public repository for USAID-funded, machine-readable data. It provides open access to datasets across all sectors of international development, including health, education, agriculture, economic growth, democracy, and humanitarian assistance. The DDL supports USAID's open data policy and makes development data freely available to researchers, policymakers, and the public.",
+        "zh": "美国国际开发署发展数据库（DDL）是美国国际开发署资助的机器可读数据的公共存储库。它提供国际发展各领域的开放数据访问，包括卫生、教育、农业、经济增长、民主治理和人道主义援助。DDL支持USAID的开放数据政策，向研究人员、政策制定者和公众免费提供发展数据。"
+      },
+      "website": "https://www.usaid.gov",
+      "data_url": "https://data.usaid.gov",
+      "api_url": "https://data.usaid.gov/developers",
+      "country": "US",
+      "domains": [
+        "international development",
+        "foreign aid",
+        "health",
+        "education",
+        "agriculture",
+        "economic growth",
+        "humanitarian assistance",
+        "democracy and governance"
+      ],
+      "geographic_scope": "global",
+      "update_frequency": "irregular",
+      "tags": [
+        "usaid",
+        "development",
+        "foreign-aid",
+        "international-development",
+        "open-data",
+        "humanitarian",
+        "对外援助",
+        "国际发展",
+        "美国援助",
+        "发展数据"
+      ],
+      "data_content": {
+        "en": [
+          "Foreign Aid - U.S. government foreign assistance data by country and sector",
+          "Health Programs - Global health initiative datasets including HIV/AIDS, malaria, maternal health",
+          "Education - Education program data across developing countries",
+          "Agriculture and Food Security - Feed the Future and food security datasets",
+          "Economic Growth - Trade, investment, and economic development data",
+          "Democracy and Governance - Democratic institution and governance program data",
+          "Humanitarian Assistance - Disaster response and humanitarian aid data",
+          "Gender - Gender equality and women's empowerment datasets"
+        ],
+        "zh": [
+          "对外援助 - 按国家和行业分类的美国政府对外援助数据",
+          "卫生项目 - 全球卫生倡议数据集，包括艾滋病、疟疾、母婴健康",
+          "教育 - 发展中国家教育项目数据",
+          "农业与粮食安全 - 粮食安全数据集",
+          "经济增长 - 贸易、投资和经济发展数据",
+          "民主治理 - 民主制度和治理项目数据",
+          "人道主义援助 - 灾害响应和人道主义援助数据",
+          "性别 - 性别平等和妇女赋权数据集"
+        ]
+      },
+      "authority_level": "government",
+      "has_api": true,
+      "file_path": "countries/north-america/usa/usaid-ddl.json"
     },
     {
       "id": "usgs-earthexplorer",
@@ -14405,6 +14664,62 @@
       "authority_level": "international",
       "has_api": false,
       "file_path": "international/health/ecdc-surveillance.json"
+    },
+    {
+      "id": "gavi",
+      "name": {
+        "en": "GAVI, the Vaccine Alliance",
+        "zh": "全球疫苗免疫联盟"
+      },
+      "description": {
+        "en": "GAVI, the Vaccine Alliance is an international organisation that brings together public and private sectors to create equal access to new and underused vaccines for children in the world's poorest countries. GAVI provides data on global immunization coverage, vaccine supply and procurement, COVAX facility allocations, country-level vaccination programs, and financing for immunization. It is the primary data source for equitable vaccine distribution in developing countries.",
+        "zh": "全球疫苗免疫联盟（GAVI）是一个国际组织，汇集公共和私营部门，为世界最贫穷国家的儿童创造平等获取新型和未充分使用疫苗的机会。GAVI提供全球免疫覆盖、疫苗供应和采购、COVAX分配、国家级疫苗接种计划和免疫融资数据。它是发展中国家公平疫苗分配的主要数据来源。"
+      },
+      "website": "https://www.gavi.org",
+      "data_url": "https://www.gavi.org/programmes-impact/our-impact/facts-and-figures",
+      "api_url": null,
+      "country": null,
+      "domains": [
+        "health",
+        "immunization",
+        "vaccines",
+        "global health",
+        "development"
+      ],
+      "geographic_scope": "global",
+      "update_frequency": "quarterly",
+      "tags": [
+        "gavi",
+        "vaccines",
+        "immunization",
+        "covax",
+        "global-health",
+        "疫苗",
+        "免疫接种",
+        "全球卫生",
+        "疫苗联盟"
+      ],
+      "data_content": {
+        "en": [
+          "Immunization Coverage - Country-level vaccination coverage rates",
+          "COVAX Facility - COVID-19 vaccine allocation and delivery data",
+          "Vaccine Supply - Procurement, supply chain, and market data",
+          "Financing - Donor contributions and co-financing data",
+          "Programme Impact - Lives saved, future deaths averted estimates",
+          "Country Profiles - Individual country immunization programme data"
+        ],
+        "zh": [
+          "免疫覆盖 - 国家级疫苗接种覆盖率",
+          "COVAX设施 - COVID-19疫苗分配和交付数据",
+          "疫苗供应 - 采购、供应链和市场数据",
+          "融资 - 捐助方贡献和联合融资数据",
+          "项目影响 - 挽救生命和避免死亡估计",
+          "国家概况 - 各国免疫项目数据"
+        ]
+      },
+      "authority_level": "international",
+      "has_api": false,
+      "file_path": "international/health/gavi.json"
     },
     {
       "id": "who-gho",
