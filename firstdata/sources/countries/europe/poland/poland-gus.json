@@ -1,0 +1,47 @@
+{
+  "id": "poland-gus",
+  "name": {
+    "en": "Statistics Poland (GUS)",
+    "zh": "波兰中央统计局",
+    "native": "Główny Urząd Statystyczny"
+  },
+  "description": {
+    "en": "Statistics Poland (GUS — Główny Urząd Statystyczny) is the central government authority for official statistics in Poland. It provides comprehensive data on the Polish economy, society, population, and environment through its Local Data Bank (BDL) and open API.",
+    "zh": "波兰中央统计局（GUS）是波兰官方统计的中央政府机构，通过其地方数据库（BDL）和开放API提供波兰经济、社会、人口和环境的综合数据。"
+  },
+  "website": "https://stat.gov.pl/en/",
+  "data_url": "https://bdl.stat.gov.pl/BDL/start",
+  "api_url": "https://api.stat.gov.pl/Home/BdlApi",
+  "authority_level": "government",
+  "country": "PL",
+  "domains": ["economics", "population", "society", "environment", "labor"],
+  "geographic_scope": "national",
+  "update_frequency": "annual",
+  "tags": [
+    "Poland", "GUS", "Statistics Poland", "BDL", "Local Data Bank",
+    "波兰", "波兰统计局", "中东欧统计", "GDP", "人口", "就业",
+    "Central Europe", "official statistics", "open data", "economy", "census"
+  ],
+  "data_content": {
+    "en": [
+      "National accounts and GDP",
+      "Population and demographic statistics",
+      "Labor market and employment",
+      "Prices and inflation",
+      "Industrial and agricultural production",
+      "Foreign trade and balance of payments",
+      "Education and health statistics",
+      "Regional statistics by voivodeship"
+    ],
+    "zh": [
+      "国民账户和GDP",
+      "人口与人口统计",
+      "劳动力市场和就业",
+      "价格与通货膨胀",
+      "工业和农业生产",
+      "对外贸易和国际收支",
+      "教育和卫生统计",
+      "按省份划分的区域统计"
+    ]
+  }
+}
