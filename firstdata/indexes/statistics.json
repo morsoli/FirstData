@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-03-18T17:14:53.638932+00:00",
+    "generated_at": "2026-03-19T02:04:07.564807+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 274,
-    "sources_with_api": 134,
-    "last_updated": "2026-03-18"
+    "total_sources": 276,
+    "sources_with_api": 136,
+    "last_updated": "2026-03-19"
   },
   "by_authority_level": {
     "research": 37,
     "international": 68,
-    "government": 135,
+    "government": 137,
     "other": 3,
     "market": 16,
     "commercial": 15
   },
   "by_geographic_scope": {
     "global": 96,
-    "national": 154,
+    "national": 156,
     "regional": 24
   },
   "by_update_frequency": {
@@ -27,15 +27,15 @@
     "weekly": 9,
     "quarterly": 30,
     "monthly": 72,
-    "annual": 52,
+    "annual": 54,
     "real-time": 10
   },
   "by_domain": {
-    "economics": 95,
+    "economics": 97,
     "demographics": 50,
     "trade": 50,
     "finance": 46,
-    "environment": 42,
+    "environment": 44,
     "health": 37,
     "education": 36,
     "agriculture": 31,
@@ -48,13 +48,13 @@
     "technology": 15,
     "industry": 14,
     "manufacturing": 13,
+    "labor": 12,
     "housing": 12,
     "transportation": 11,
-    "labor": 10,
+    "population": 10,
     "prices": 10,
     "statistics": 9,
     "banking": 9,
-    "population": 8,
     "securities": 8,
     "genomics": 7,
     "machine learning": 7,
@@ -119,6 +119,7 @@
     "government-finance": 3,
     "fiscal policy": 3,
     "geology": 3,
+    "society": 3,
     "exchange rates": 3,
     "transport": 3,
     "renewable energy": 3,
@@ -391,7 +392,6 @@
     "defence": 1,
     "government spending": 1,
     "mapping": 1,
-    "society": 1,
     "towns and cities": 1,
     "digital service performance": 1,
     "price statistics": 1,

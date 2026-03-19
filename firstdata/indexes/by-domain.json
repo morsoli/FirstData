@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-18T17:14:53.638932+00:00",
+    "generated_at": "2026-03-19T02:04:07.564807+00:00",
     "total_domains": 702,
-    "total_sources": 274,
+    "total_sources": 276,
     "version": "2.0"
   },
   "domains": {
@@ -6034,6 +6034,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "finland-stat",
+        "name": {
+          "en": "Statistics Finland",
+          "zh": "芬兰统计局",
+          "native": "Tilastokeskus"
+        },
+        "authority_level": "government",
+        "data_url": "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/",
+        "has_api": true,
+        "file_path": "countries/europe/finland/finland-stat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "france-insee",
         "name": {
           "en": "INSEE - National Institute of Statistics and Economic Studies",
@@ -6094,6 +6107,19 @@
         "data_url": "https://www.ssb.no/en/statbank",
         "has_api": true,
         "file_path": "countries/europe/norway/norway-ssb.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "poland-gus",
+        "name": {
+          "en": "Statistics Poland (GUS)",
+          "zh": "波兰中央统计局",
+          "native": "Główny Urząd Statystyczny"
+        },
+        "authority_level": "government",
+        "data_url": "https://bdl.stat.gov.pl/BDL/start",
+        "has_api": true,
+        "file_path": "countries/europe/poland/poland-gus.json",
         "geographic_scope": "national"
       },
       {
@@ -8281,6 +8307,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "finland-stat",
+        "name": {
+          "en": "Statistics Finland",
+          "zh": "芬兰统计局",
+          "native": "Tilastokeskus"
+        },
+        "authority_level": "government",
+        "data_url": "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/",
+        "has_api": true,
+        "file_path": "countries/europe/finland/finland-stat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "germany-destatis",
         "name": {
           "en": "Federal Statistical Office of Germany (Destatis)",
@@ -8316,6 +8355,19 @@
         "data_url": "https://www.ssb.no/en/statbank",
         "has_api": true,
         "file_path": "countries/europe/norway/norway-ssb.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "poland-gus",
+        "name": {
+          "en": "Statistics Poland (GUS)",
+          "zh": "波兰中央统计局",
+          "native": "Główny Urząd Statystyczny"
+        },
+        "authority_level": "government",
+        "data_url": "https://bdl.stat.gov.pl/BDL/start",
+        "has_api": true,
+        "file_path": "countries/europe/poland/poland-gus.json",
         "geographic_scope": "national"
       },
       {
@@ -13970,6 +14022,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "finland-stat",
+        "name": {
+          "en": "Statistics Finland",
+          "zh": "芬兰统计局",
+          "native": "Tilastokeskus"
+        },
+        "authority_level": "government",
+        "data_url": "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/",
+        "has_api": true,
+        "file_path": "countries/europe/finland/finland-stat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "norway-ssb",
         "name": {
           "en": "Statistics Norway (SSB)",
@@ -13980,6 +14045,19 @@
         "data_url": "https://www.ssb.no/en/statbank",
         "has_api": true,
         "file_path": "countries/europe/norway/norway-ssb.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "poland-gus",
+        "name": {
+          "en": "Statistics Poland (GUS)",
+          "zh": "波兰中央统计局",
+          "native": "Główny Urząd Statystyczny"
+        },
+        "authority_level": "government",
+        "data_url": "https://bdl.stat.gov.pl/BDL/start",
+        "has_api": true,
+        "file_path": "countries/europe/poland/poland-gus.json",
         "geographic_scope": "national"
       },
       {
@@ -16764,6 +16842,32 @@
         "geographic_scope": "national"
       },
       {
+        "id": "finland-stat",
+        "name": {
+          "en": "Statistics Finland",
+          "zh": "芬兰统计局",
+          "native": "Tilastokeskus"
+        },
+        "authority_level": "government",
+        "data_url": "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/",
+        "has_api": true,
+        "file_path": "countries/europe/finland/finland-stat.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "poland-gus",
+        "name": {
+          "en": "Statistics Poland (GUS)",
+          "zh": "波兰中央统计局",
+          "native": "Główny Urząd Statystyczny"
+        },
+        "authority_level": "government",
+        "data_url": "https://bdl.stat.gov.pl/BDL/start",
+        "has_api": true,
+        "file_path": "countries/europe/poland/poland-gus.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "usa-census-bureau",
         "name": {
           "en": "United States Census Bureau",
@@ -18819,6 +18923,32 @@
       }
     ],
     "society": [
+      {
+        "id": "finland-stat",
+        "name": {
+          "en": "Statistics Finland",
+          "zh": "芬兰统计局",
+          "native": "Tilastokeskus"
+        },
+        "authority_level": "government",
+        "data_url": "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/",
+        "has_api": true,
+        "file_path": "countries/europe/finland/finland-stat.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "poland-gus",
+        "name": {
+          "en": "Statistics Poland (GUS)",
+          "zh": "波兰中央统计局",
+          "native": "Główny Urząd Statystyczny"
+        },
+        "authority_level": "government",
+        "data_url": "https://bdl.stat.gov.pl/BDL/start",
+        "has_api": true,
+        "file_path": "countries/europe/poland/poland-gus.json",
+        "geographic_scope": "national"
+      },
       {
         "id": "uk-data-gov",
         "name": {
