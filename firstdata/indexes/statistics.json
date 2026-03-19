@@ -1,37 +1,37 @@
 {
   "metadata": {
-    "generated_at": "2026-03-19T02:04:07.564807+00:00",
+    "generated_at": "2026-03-19T02:09:05.808099+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 276,
-    "sources_with_api": 136,
+    "total_sources": 279,
+    "sources_with_api": 137,
     "last_updated": "2026-03-19"
   },
   "by_authority_level": {
     "research": 37,
-    "international": 68,
+    "international": 71,
     "government": 137,
     "other": 3,
     "market": 16,
     "commercial": 15
   },
   "by_geographic_scope": {
-    "global": 96,
+    "global": 98,
     "national": 156,
-    "regional": 24
+    "regional": 25
   },
   "by_update_frequency": {
     "irregular": 49,
     "daily": 52,
     "weekly": 9,
     "quarterly": 30,
-    "monthly": 72,
+    "monthly": 74,
     "annual": 54,
-    "real-time": 10
+    "real-time": 11
   },
   "by_domain": {
-    "economics": 97,
+    "economics": 98,
     "demographics": 50,
     "trade": 50,
     "finance": 46,
@@ -40,11 +40,11 @@
     "education": 36,
     "agriculture": 31,
     "social": 26,
+    "energy": 23,
     "employment": 21,
-    "energy": 20,
     "development": 16,
     "climate": 16,
-    "infrastructure": 15,
+    "infrastructure": 16,
     "technology": 15,
     "industry": 14,
     "manufacturing": 13,
@@ -56,6 +56,7 @@
     "statistics": 9,
     "banking": 9,
     "securities": 8,
+    "commodities": 8,
     "genomics": 7,
     "machine learning": 7,
     "business": 7,
@@ -72,7 +73,6 @@
     "telecommunications": 6,
     "innovation": 6,
     "inflation": 6,
-    "commodities": 6,
     "drug discovery": 5,
     "molecular biology": 5,
     "chemistry": 5,

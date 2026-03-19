@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-19T02:04:07.564807+00:00",
+    "generated_at": "2026-03-19T02:09:05.808099+00:00",
     "total_domains": 702,
-    "total_sources": 276,
+    "total_sources": 279,
     "version": "2.0"
   },
   "domains": {
@@ -2834,6 +2834,30 @@
         "has_api": false,
         "file_path": "countries/south-america/brazil-conab.json",
         "geographic_scope": "national"
+      },
+      {
+        "id": "jodi",
+        "name": {
+          "en": "JODI - Joint Organisations Data Initiative",
+          "zh": "联合组织数据倡议"
+        },
+        "authority_level": "international",
+        "data_url": "https://www.jodidata.org/oil/database/data-downloads.aspx",
+        "has_api": false,
+        "file_path": "international/energy/jodi.json",
+        "geographic_scope": "global"
+      },
+      {
+        "id": "opec-statistics",
+        "name": {
+          "en": "OPEC Statistics",
+          "zh": "石油输出国组织统计数据"
+        },
+        "authority_level": "international",
+        "data_url": "https://asb.opec.org",
+        "has_api": false,
+        "file_path": "international/energy/opec-statistics.json",
+        "geographic_scope": "global"
       },
       {
         "id": "alpha-vantage",
@@ -6530,6 +6554,18 @@
         "geographic_scope": "global"
       },
       {
+        "id": "opec-statistics",
+        "name": {
+          "en": "OPEC Statistics",
+          "zh": "石油输出国组织统计数据"
+        },
+        "authority_level": "international",
+        "data_url": "https://asb.opec.org",
+        "has_api": false,
+        "file_path": "international/energy/opec-statistics.json",
+        "geographic_scope": "global"
+      },
+      {
         "id": "ebrd",
         "name": {
           "en": "European Bank for Reconstruction and Development",
@@ -7928,6 +7964,30 @@
         "geographic_scope": "global"
       },
       {
+        "id": "jodi",
+        "name": {
+          "en": "JODI - Joint Organisations Data Initiative",
+          "zh": "联合组织数据倡议"
+        },
+        "authority_level": "international",
+        "data_url": "https://www.jodidata.org/oil/database/data-downloads.aspx",
+        "has_api": false,
+        "file_path": "international/energy/jodi.json",
+        "geographic_scope": "global"
+      },
+      {
+        "id": "opec-statistics",
+        "name": {
+          "en": "OPEC Statistics",
+          "zh": "石油输出国组织统计数据"
+        },
+        "authority_level": "international",
+        "data_url": "https://asb.opec.org",
+        "has_api": false,
+        "file_path": "international/energy/opec-statistics.json",
+        "geographic_scope": "global"
+      },
+      {
         "id": "unctad-infrastructure-statistics",
         "name": {
           "en": "UNCTAD Infrastructure Statistics Database",
@@ -7938,6 +7998,18 @@
         "has_api": true,
         "file_path": "international/infrastructure/unctad-infrastructure-statistics.json",
         "geographic_scope": "global"
+      },
+      {
+        "id": "entso-e",
+        "name": {
+          "en": "ENTSO-E Transparency Platform",
+          "zh": "欧洲输电系统运营商联盟透明平台"
+        },
+        "authority_level": "international",
+        "data_url": "https://transparency.entsoe.eu",
+        "has_api": true,
+        "file_path": "regional/europe/entso-e.json",
+        "geographic_scope": "regional"
       },
       {
         "id": "china-charging-alliance",
@@ -13243,6 +13315,18 @@
         "has_api": true,
         "file_path": "international/transportation/itf-transport.json",
         "geographic_scope": "global"
+      },
+      {
+        "id": "entso-e",
+        "name": {
+          "en": "ENTSO-E Transparency Platform",
+          "zh": "欧洲输电系统运营商联盟透明平台"
+        },
+        "authority_level": "international",
+        "data_url": "https://transparency.entsoe.eu",
+        "has_api": true,
+        "file_path": "regional/europe/entso-e.json",
+        "geographic_scope": "regional"
       },
       {
         "id": "china-charging-alliance",

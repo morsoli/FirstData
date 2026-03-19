@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-19T02:04:07.564807+00:00",
-    "total_sources": 276,
+    "generated_at": "2026-03-19T02:09:05.808099+00:00",
+    "total_sources": 279,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -14068,6 +14068,131 @@
       "file_path": "international/energy/irena.json"
     },
     {
+      "id": "jodi",
+      "name": {
+        "en": "JODI - Joint Organisations Data Initiative",
+        "zh": "联合组织数据倡议"
+      },
+      "description": {
+        "en": "The Joint Organisations Data Initiative (JODI) is a concrete outcome of international efforts to improve the availability and reliability of energy data. It collects and disseminates data on oil and natural gas from over 100 countries, representing approximately 90% of global supply and demand. JODI is supported by seven international organizations (APEC, Eurostat, IEA, IEF, OLADE, OPEC, UNSD) and provides timely, transparent, and freely accessible energy statistics to enhance market transparency and reduce price volatility.",
+        "zh": "联合组织数据倡议（JODI）是国际社会提高能源数据可用性和可靠性的重要成果。它收集并发布来自100多个国家的石油和天然气数据，覆盖全球约90%的供需量。JODI由七个国际组织（APEC、Eurostat、IEA、IEF、OLADE、OPEC、UNSD）支持，提供及时、透明和免费的能源统计数据，以增强市场透明度并降低价格波动。"
+      },
+      "website": "https://www.jodidata.org",
+      "data_url": "https://www.jodidata.org/oil/database/data-downloads.aspx",
+      "api_url": null,
+      "country": null,
+      "domains": [
+        "energy",
+        "commodities"
+      ],
+      "geographic_scope": "global",
+      "update_frequency": "monthly",
+      "tags": [
+        "jodi",
+        "oil",
+        "natural-gas",
+        "energy-data",
+        "energy-transparency",
+        "石油数据",
+        "天然气",
+        "能源统计",
+        "international-organization",
+        "market-transparency",
+        "energy-supply",
+        "energy-demand"
+      ],
+      "data_content": {
+        "en": [
+          "JODI Oil World Database - monthly oil statistics from 100+ countries",
+          "JODI Gas World Database - monthly natural gas statistics",
+          "Production, imports, exports, refinery intake/output data",
+          "Stock levels and stock changes",
+          "Demand/consumption data by product category",
+          "Country-level data with historical time series",
+          "Data quality assessments and timeliness indicators"
+        ],
+        "zh": [
+          "JODI石油世界数据库 - 100多个国家的月度石油统计",
+          "JODI天然气世界数据库 - 月度天然气统计",
+          "生产、进口、出口、炼油进出料数据",
+          "库存水平和库存变化",
+          "按产品类别的需求/消费数据",
+          "国家级数据及历史时间序列",
+          "数据质量评估和时效性指标"
+        ]
+      },
+      "authority_level": "international",
+      "has_api": false,
+      "file_path": "international/energy/jodi.json"
+    },
+    {
+      "id": "opec-statistics",
+      "name": {
+        "en": "OPEC Statistics",
+        "zh": "石油输出国组织统计数据"
+      },
+      "description": {
+        "en": "The Organization of the Petroleum Exporting Countries (OPEC) provides authoritative data on global oil markets, including crude oil production, exports, prices, and demand forecasts. OPEC publishes the Monthly Oil Market Report (MOMR) and the Annual Statistical Bulletin (ASB), covering oil supply/demand balances, refinery operations, tanker markets, and macroeconomic indicators for its 13 member countries and beyond. Founded in 1960, OPEC coordinates petroleum policies among member states and is a primary source for global oil market intelligence.",
+        "zh": "石油输出国组织（OPEC）提供全球石油市场的权威数据，包括原油产量、出口量、价格和需求预测。OPEC发布月度石油市场报告（MOMR）和年度统计公报（ASB），涵盖石油供需平衡、炼油作业、油轮市场和13个成员国及全球宏观经济指标。OPEC成立于1960年，负责协调成员国的石油政策，是全球石油市场情报的主要来源。"
+      },
+      "website": "https://www.opec.org",
+      "data_url": "https://asb.opec.org",
+      "api_url": null,
+      "country": null,
+      "domains": [
+        "energy",
+        "economics",
+        "commodities"
+      ],
+      "geographic_scope": "global",
+      "update_frequency": "monthly",
+      "tags": [
+        "opec",
+        "oil",
+        "petroleum",
+        "crude-oil",
+        "石油",
+        "原油",
+        "energy",
+        "能源",
+        "oil-production",
+        "oil-prices",
+        "oil-market",
+        "international-organization",
+        "commodities",
+        "大宗商品"
+      ],
+      "data_content": {
+        "en": [
+          "Monthly Oil Market Report (MOMR) - oil supply/demand analysis and forecasts",
+          "Annual Statistical Bulletin (ASB) - comprehensive oil and energy statistics",
+          "Crude oil production data by member country",
+          "Oil exports and import data",
+          "OPEC Reference Basket price tracking",
+          "World oil demand and supply estimates",
+          "Refinery throughput and capacity data",
+          "Natural gas production statistics for member countries",
+          "Macroeconomic indicators for oil-producing nations",
+          "Tanker and freight market data"
+        ],
+        "zh": [
+          "月度石油市场报告（MOMR）- 石油供需分析与预测",
+          "年度统计公报（ASB）- 综合石油和能源统计",
+          "成员国原油产量数据",
+          "石油进出口数据",
+          "OPEC参考篮子价格跟踪",
+          "全球石油需求和供应估计",
+          "炼油产能和加工量数据",
+          "成员国天然气生产统计",
+          "产油国宏观经济指标",
+          "油轮和运费市场数据"
+        ]
+      },
+      "authority_level": "international",
+      "has_api": false,
+      "file_path": "international/energy/opec-statistics.json"
+    },
+    {
       "id": "basel-convention",
       "name": {
         "en": "Basel Convention Data",
@@ -16194,6 +16319,72 @@
       },
       "has_api": true,
       "file_path": "mexico/national/mexico-inegi.json"
+    },
+    {
+      "id": "entso-e",
+      "name": {
+        "en": "ENTSO-E Transparency Platform",
+        "zh": "欧洲输电系统运营商联盟透明平台"
+      },
+      "description": {
+        "en": "The European Network of Transmission System Operators for Electricity (ENTSO-E) Transparency Platform provides free, continuous access to pan-European electricity market data. Mandated by EU Regulation 543/2013, it publishes data from 42 TSOs across 36 countries covering generation, load, transmission, balancing, and outages. It is the authoritative source for European electricity market transparency, serving policymakers, researchers, traders, and the public.",
+        "zh": "欧洲输电系统运营商联盟（ENTSO-E）透明平台提供泛欧电力市场数据的免费持续访问。根据欧盟法规543/2013的要求，该平台发布来自36个国家42个输电系统运营商的数据，涵盖发电、负荷、输电、平衡和停运信息。这是欧洲电力市场透明度的权威数据来源，服务于政策制定者、研究人员、交易商和公众。"
+      },
+      "website": "https://www.entsoe.eu",
+      "data_url": "https://transparency.entsoe.eu",
+      "api_url": "https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html",
+      "country": null,
+      "domains": [
+        "energy",
+        "infrastructure"
+      ],
+      "geographic_scope": "regional",
+      "update_frequency": "real-time",
+      "tags": [
+        "entso-e",
+        "electricity",
+        "power-grid",
+        "european-energy",
+        "电力市场",
+        "欧洲电力",
+        "transmission",
+        "输电",
+        "generation",
+        "发电",
+        "energy-market",
+        "renewable-energy",
+        "cross-border-flow",
+        "day-ahead-prices"
+      ],
+      "data_content": {
+        "en": [
+          "Actual generation output per generation unit and type",
+          "Day-ahead and intraday electricity prices",
+          "Cross-border physical flows between countries",
+          "Total load (actual and forecast)",
+          "Installed generation capacity by fuel type",
+          "Transmission capacity and congestion data",
+          "Balancing market data",
+          "Planned and forced outages (generation and transmission)",
+          "Wind and solar generation forecasts",
+          "Net transfer capacity (NTC) between bidding zones"
+        ],
+        "zh": [
+          "各发电机组和类型的实际发电量",
+          "日前和日内电力价格",
+          "跨境物理电力流",
+          "总负荷（实际和预测）",
+          "按燃料类型的装机容量",
+          "输电容量和拥塞数据",
+          "平衡市场数据",
+          "计划和非计划停运（发电和输电）",
+          "风电和光伏发电预测",
+          "竞价区域间的净传输容量（NTC）"
+        ]
+      },
+      "authority_level": "international",
+      "has_api": true,
+      "file_path": "regional/europe/entso-e.json"
     },
     {
       "id": "russia-rosstat",
