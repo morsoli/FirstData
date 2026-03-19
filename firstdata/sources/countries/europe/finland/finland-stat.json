@@ -1,0 +1,47 @@
+{
+  "id": "finland-stat",
+  "name": {
+    "en": "Statistics Finland",
+    "zh": "芬兰统计局",
+    "native": "Tilastokeskus"
+  },
+  "description": {
+    "en": "Statistics Finland is the national statistical institute of Finland, providing official statistics on the economy, population, society, and environment. It operates the StatFin database offering comprehensive time series data across all major statistical domains.",
+    "zh": "芬兰统计局是芬兰国家统计机构，提供经济、人口、社会和环境方面的官方统计数据。其StatFin数据库提供涵盖所有主要统计领域的综合时间序列数据。"
+  },
+  "website": "https://stat.fi/en/",
+  "data_url": "https://pxdata.stat.fi/PxWeb/pxweb/en/StatFin/",
+  "api_url": "https://pxdata.stat.fi/PxWeb/api/v1/en/StatFin/",
+  "authority_level": "government",
+  "country": "FI",
+  "domains": ["economics", "population", "society", "environment", "labor"],
+  "geographic_scope": "national",
+  "update_frequency": "annual",
+  "tags": [
+    "Finland", "Statistics Finland", "Tilastokeskus", "StatFin",
+    "芬兰", "芬兰统计局", "北欧统计", "GDP", "人口", "就业",
+    "Nordic", "official statistics", "PxWeb", "economy", "census"
+  ],
+  "data_content": {
+    "en": [
+      "National accounts and GDP",
+      "Population and demographic statistics",
+      "Labor market and employment",
+      "Prices and cost of living",
+      "Education and culture statistics",
+      "Environment and energy statistics",
+      "Foreign trade statistics",
+      "Health and social welfare data"
+    ],
+    "zh": [
+      "国民账户和GDP",
+      "人口与人口统计",
+      "劳动力市场和就业",
+      "价格和生活成本",
+      "教育和文化统计",
+      "环境和能源统计",
+      "对外贸易统计",
+      "健康和社会福利数据"
+    ]
+  }
+}
