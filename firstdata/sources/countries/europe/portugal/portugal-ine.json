@@ -8,10 +8,8 @@
     "en": "National statistical institute of Portugal providing comprehensive socioeconomic data",
     "zh": "葡萄牙国家统计机构，提供全面的社会经济数据"
   },
-  "url": "https://www.ine.pt",
   "data_url": "https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_base_dados",
   "api_url": "https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_api",
-  "api_docs": null,
   "authority_level": "government",
   "country": "PT",
   "geographic_scope": "national",
@@ -41,5 +39,12 @@
       "按产品和伙伴分类的国际贸易统计",
       "住房和建筑统计"
     ]
-  }
+  },
+  "website": "https://www.ine.pt",
+  "tags": [
+    "statistics",
+    "portugal",
+    "europe",
+    "government-data"
+  ]
 }
