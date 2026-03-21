@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-20T02:11:03.403028+00:00",
-    "total_sources": 280,
+    "generated_at": "2026-03-21T01:17:44.554355+00:00",
+    "total_sources": 282,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -10634,6 +10634,58 @@
       "file_path": "countries/oceania/australia/bureau-of-meteorology.json"
     },
     {
+      "id": "argentina-indec",
+      "name": {
+        "en": "National Institute of Statistics and Censuses (INDEC)",
+        "zh": "阿根廷国家统计与普查局"
+      },
+      "description": {
+        "en": "Official statistical agency of Argentina providing demographic, economic, and social data",
+        "zh": "阿根廷官方统计机构，提供人口、经济和社会数据"
+      },
+      "website": "https://www.indec.gob.ar",
+      "data_url": "https://www.indec.gob.ar/indec/web/Nivel3-Tema-3-35",
+      "api_url": "https://apis.datos.gob.ar/series/api/",
+      "authority_level": "government",
+      "country": "AR",
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "domains": [
+        "demographics",
+        "economics",
+        "trade",
+        "employment",
+        "social"
+      ],
+      "tags": [
+        "statistics",
+        "argentina",
+        "south-america",
+        "government-data",
+        "census"
+      ],
+      "data_content": {
+        "en": [
+          "National Census - population, housing, economic census",
+          "Consumer Price Index (IPC) and inflation statistics",
+          "Foreign trade - imports and exports by product and partner",
+          "Labour market - employment, unemployment, wages",
+          "National accounts - GDP, industrial production",
+          "Poverty and income distribution"
+        ],
+        "zh": [
+          "国家普查 - 人口、住房、经济普查",
+          "消费者价格指数(IPC)和通胀统计",
+          "对外贸易 - 按产品和伙伴分类的进出口",
+          "劳动力市场 - 就业、失业、工资",
+          "国民账户 - GDP、工业生产",
+          "贫困和收入分配"
+        ]
+      },
+      "has_api": true,
+      "file_path": "countries/south-america/argentina/argentina-indec.json"
+    },
+    {
       "id": "brazil-bcb",
       "name": {
         "en": "Central Bank of Brazil",
@@ -10975,6 +11027,57 @@
       "authority_level": "government",
       "has_api": true,
       "file_path": "countries/south-america/brazil-ibge.json"
+    },
+    {
+      "id": "chile-ine",
+      "name": {
+        "en": "National Statistics Institute of Chile (INE)",
+        "zh": "智利国家统计局"
+      },
+      "description": {
+        "en": "Official statistical agency of Chile providing demographic, economic, and social statistics",
+        "zh": "智利官方统计机构，提供人口、经济和社会统计数据"
+      },
+      "website": "https://www.ine.gob.cl",
+      "data_url": "https://www.ine.gob.cl/estadisticas",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CL",
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "domains": [
+        "demographics",
+        "economics",
+        "employment",
+        "social",
+        "environment"
+      ],
+      "tags": [
+        "statistics",
+        "chile",
+        "south-america",
+        "government-data"
+      ],
+      "data_content": {
+        "en": [
+          "Population Census and demographic projections",
+          "Consumer Price Index (IPC) and inflation",
+          "Employment and labour force surveys",
+          "Economic activity indicators",
+          "Environmental statistics",
+          "Gender and social statistics"
+        ],
+        "zh": [
+          "人口普查和人口预测",
+          "消费者价格指数(IPC)和通胀",
+          "就业和劳动力调查",
+          "经济活动指标",
+          "环境统计",
+          "性别和社会统计"
+        ]
+      },
+      "has_api": false,
+      "file_path": "countries/south-america/chile/chile-ine.json"
     },
     {
       "id": "usgs",

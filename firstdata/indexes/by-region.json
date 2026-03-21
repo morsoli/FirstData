@@ -1,11 +1,25 @@
 {
   "metadata": {
-    "generated_at": "2026-03-20T02:11:03.403028+00:00",
-    "total_regions": 37,
-    "total_sources": 280,
+    "generated_at": "2026-03-21T01:17:44.554355+00:00",
+    "total_regions": 39,
+    "total_sources": 282,
     "version": "2.0"
   },
   "regions": {
+    "AR": [
+      {
+        "id": "argentina-indec",
+        "name": {
+          "en": "National Institute of Statistics and Censuses (INDEC)",
+          "zh": "阿根廷国家统计与普查局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.indec.gob.ar/indec/web/Nivel3-Tema-3-35",
+        "has_api": true,
+        "file_path": "countries/south-america/argentina/argentina-indec.json",
+        "geographic_scope": "national"
+      }
+    ],
     "AT": [
       {
         "id": "austria-statistik",
@@ -203,6 +217,20 @@
         "data_url": "https://www.bfs.admin.ch/bfs/en/home/statistics.html",
         "has_api": true,
         "file_path": "countries/europe/switzerland/switzerland-fso.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "CL": [
+      {
+        "id": "chile-ine",
+        "name": {
+          "en": "National Statistics Institute of Chile (INE)",
+          "zh": "智利国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.ine.gob.cl/estadisticas",
+        "has_api": false,
+        "file_path": "countries/south-america/chile/chile-ine.json",
         "geographic_scope": "national"
       }
     ],
