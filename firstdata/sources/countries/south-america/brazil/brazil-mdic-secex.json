@@ -9,8 +9,8 @@
     "zh": "巴西发展、工业、商业和服务部（MDIC）下属的外贸秘书处（SECEX）是巴西外贸统计的官方来源。通过其ComexStat平台，SECEX提供全面细致的巴西国际贸易数据，包括按产品（NCM/HS编码）、国家、州、入境口岸和运输方式分类的进出口数据。数据涵盖所有官方登记的外贸交易，广泛用于经济分析和贸易政策研究。"
   },
   "website": "https://www.gov.br/mdic",
-  "data_url": "http://comexstat.mdic.gov.br/en/home",
-  "api_url": "http://comexstat.mdic.gov.br/en/about/api",
+  "data_url": "https://comexstat.mdic.gov.br/en/home",
+  "api_url": "https://comexstat.mdic.gov.br/en/about/api",
   "authority_level": "government",
   "country": "BR",
   "domains": [
