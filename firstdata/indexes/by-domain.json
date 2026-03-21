@@ -1,14 +1,8 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "generated_at": "2026-03-21T02:14:40.509447+00:00",
-    "total_domains": 705,
-    "total_sources": 288,
-=======
-    "generated_at": "2026-03-21T02:11:37.710129+00:00",
-    "total_domains": 703,
-    "total_sources": 284,
->>>>>>> origin/main
+    "generated_at": "2026-03-21T02:23:37.010995+00:00",
+    "total_domains": 706,
+    "total_sources": 290,
     "version": "2.0"
   },
   "domains": {
@@ -6538,7 +6532,7 @@
           "zh": "巴西发展、工业、商业和服务部外贸秘书处"
         },
         "authority_level": "government",
-        "data_url": "http://comexstat.mdic.gov.br/en/home",
+        "data_url": "https://comexstat.mdic.gov.br/en/home",
         "has_api": true,
         "file_path": "countries/south-america/brazil/brazil-mdic-secex.json",
         "geographic_scope": "national"
@@ -13295,7 +13289,7 @@
           "zh": "巴西发展、工业、商业和服务部外贸秘书处"
         },
         "authority_level": "government",
-        "data_url": "http://comexstat.mdic.gov.br/en/home",
+        "data_url": "https://comexstat.mdic.gov.br/en/home",
         "has_api": true,
         "file_path": "countries/south-america/brazil/brazil-mdic-secex.json",
         "geographic_scope": "national"
@@ -20992,7 +20986,7 @@
           "zh": "巴西发展、工业、商业和服务部外贸秘书处"
         },
         "authority_level": "government",
-        "data_url": "http://comexstat.mdic.gov.br/en/home",
+        "data_url": "https://comexstat.mdic.gov.br/en/home",
         "has_api": true,
         "file_path": "countries/south-america/brazil/brazil-mdic-secex.json",
         "geographic_scope": "national"

@@ -1,20 +1,11 @@
 {
   "metadata": {
-<<<<<<< HEAD
-    "generated_at": "2026-03-21T02:14:40.509447+00:00",
-    "total_sources": 288,
+    "generated_at": "2026-03-21T02:23:37.010995+00:00",
+    "total_sources": 290,
     "authority_counts": {
       "research": 37,
       "international": 73,
-      "government": 144,
-=======
-    "generated_at": "2026-03-21T02:11:37.710129+00:00",
-    "total_sources": 284,
-    "authority_counts": {
-      "research": 37,
-      "international": 71,
-      "government": 142,
->>>>>>> origin/main
+      "government": 146,
       "other": 3,
       "market": 16,
       "commercial": 15
@@ -2935,7 +2926,7 @@
           "zh": "巴西发展、工业、商业和服务部外贸秘书处"
         },
         "authority_level": "government",
-        "data_url": "http://comexstat.mdic.gov.br/en/home",
+        "data_url": "https://comexstat.mdic.gov.br/en/home",
         "has_api": true,
         "file_path": "countries/south-america/brazil/brazil-mdic-secex.json",
         "geographic_scope": "national"
