@@ -1,0 +1,93 @@
+{
+  "id": "indonesia-bps",
+  "name": {
+    "en": "Statistics Indonesia (BPS)",
+    "zh": "印度尼西亚中央统计局",
+    "native": "Badan Pusat Statistik"
+  },
+  "description": {
+    "en": "Statistics Indonesia (BPS — Badan Pusat Statistik) is the official national statistical agency of Indonesia, responsible for providing high-quality statistical data to support evidence-based policymaking. Established in 1960 and reorganized under Law No. 16 of 1997, BPS covers all aspects of Indonesian society and economy, including population, poverty, economic growth, inflation, trade, agriculture, and social indicators. BPS conducts the national population census every ten years and the agricultural census every ten years, and publishes a wide range of regular statistical reports through its website and open data portal.",
+    "zh": "印度尼西亚中央统计局（BPS — Badan Pusat Statistik）是印度尼西亚官方国家统计机构，负责提供高质量统计数据以支持基于证据的政策制定。BPS成立于1960年，并根据1997年第16号法律重组，覆盖印度尼西亚社会和经济的各个方面，包括人口、贫困、经济增长、通货膨胀、贸易、农业和社会指标。BPS每十年进行一次全国人口普查和农业普查，并通过其网站和开放数据门户发布各种定期统计报告。"
+  },
+  "website": "https://www.bps.go.id",
+  "data_url": "https://www.bps.go.id/en/statistics-table",
+  "api_url": "https://webapi.bps.go.id/",
+  "authority_level": "government",
+  "country": "ID",
+  "domains": [
+    "demographics",
+    "economics",
+    "social",
+    "employment",
+    "agriculture",
+    "prices",
+    "trade",
+    "industry",
+    "poverty"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": [
+    "indonesia",
+    "印度尼西亚",
+    "bps",
+    "badan pusat statistik",
+    "statistics indonesia",
+    "population",
+    "人口",
+    "gdp",
+    "国内生产总值",
+    "poverty",
+    "贫困",
+    "inflation",
+    "通货膨胀",
+    "census",
+    "人口普查",
+    "employment",
+    "就业",
+    "agriculture",
+    "农业",
+    "southeast asia",
+    "东南亚",
+    "open data",
+    "开放数据",
+    "government statistics",
+    "政府统计",
+    "asean",
+    "东盟"
+  ],
+  "data_content": {
+    "en": [
+      "Population Census - decennial census data on population size, distribution, and characteristics",
+      "Economic Growth - GDP and Gross Regional Domestic Product (GRDP) by province",
+      "Poverty Statistics - poverty rate, poverty line, poverty depth and severity indices",
+      "Inflation and Prices - Consumer Price Index (CPI), food prices, housing price index",
+      "Labor Force Survey (SAKERNAS) - employment, unemployment, underemployment, wages",
+      "National Income - national accounts, sectoral value added, household income",
+      "Foreign Trade - exports and imports by commodity, country, and province",
+      "Agricultural Census - farming households, land use, crop production, livestock",
+      "Manufacturing Industry - large and medium enterprise statistics, production output",
+      "Social Statistics - education participation, health indicators, welfare programs",
+      "Village Potential Data (PODES) - village-level infrastructure, facilities, and economy",
+      "Population Projection - future population estimates by age group and province",
+      "Household Income and Expenditure Survey (SUSENAS) - consumption and living standards",
+      "Indonesia in Figures - annual statistical compendium for quick reference"
+    ],
+    "zh": [
+      "人口普查 - 人口规模、分布和特征的十年一次普查数据",
+      "经济增长 - 按省份划分的GDP和地区国内生产总值（GRDP）",
+      "贫困统计 - 贫困率、贫困线、贫困深度和严重程度指数",
+      "通胀与价格 - 消费者价格指数（CPI）、食品价格、房价指数",
+      "劳动力调查（SAKERNAS）- 就业、失业、不充分就业、工资",
+      "国民收入 - 国民账户、各部门增加值、家庭收入",
+      "对外贸易 - 按商品、国家和省份划分的出口和进口",
+      "农业普查 - 农业家庭、土地利用、粮食产量、畜牧业",
+      "制造业 - 大中型企业统计、生产产出",
+      "社会统计 - 教育参与率、健康指标、福利计划",
+      "村庄潜力数据（PODES）- 村级基础设施、设施和经济",
+      "人口预测 - 按年龄组和省份划分的未来人口估算",
+      "家庭收入和支出调查（SUSENAS）- 消费和生活水平",
+      "印度尼西亚数字 - 用于快速参考的年度统计汇编"
+    ]
+  }
+}

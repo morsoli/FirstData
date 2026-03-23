@@ -1,0 +1,92 @@
+{
+  "id": "russia-rosstat",
+  "name": {
+    "en": "Federal State Statistics Service (Rosstat)",
+    "zh": "俄罗斯联邦统计局",
+    "native": "Федеральная служба государственной статистики (Росстат)"
+  },
+  "description": {
+    "en": "The Federal State Statistics Service (Rosstat) is Russia's central statistical authority responsible for collecting, processing, and publishing official statistics on the socio-economic, demographic, environmental, and other aspects of life in the Russian Federation. Rosstat maintains a comprehensive statistical database covering population, economy, industry, agriculture, trade, social welfare, housing, and environmental indicators. It publishes the official Statistical Yearbook of Russia and provides open data through its official portal.",
+    "zh": "俄罗斯联邦统计局（Rosstat）是俄罗斯的中央统计机构，负责收集、处理和发布俄罗斯联邦社会经济、人口、环境等各方面的官方统计数据。Rosstat维护着覆盖人口、经济、工业、农业、贸易、社会福利、住房和环境指标的综合统计数据库，发布官方《俄罗斯统计年鉴》，并通过官方门户网站提供开放数据。"
+  },
+  "website": "https://rosstat.gov.ru",
+  "data_url": "https://rosstat.gov.ru/statistics",
+  "api_url": "https://rosstat.gov.ru/opendata",
+  "authority_level": "government",
+  "country": "RU",
+  "domains": [
+    "demographics",
+    "economics",
+    "social",
+    "employment",
+    "prices",
+    "industry",
+    "agriculture",
+    "trade",
+    "housing",
+    "environment"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": [
+    "russia",
+    "俄罗斯",
+    "rosstat",
+    "federal statistics",
+    "联邦统计",
+    "population",
+    "人口",
+    "gdp",
+    "国内生产总值",
+    "inflation",
+    "通货膨胀",
+    "employment",
+    "就业",
+    "industry",
+    "工业",
+    "census",
+    "人口普查",
+    "statistical yearbook",
+    "统计年鉴",
+    "eastern europe",
+    "东欧",
+    "open data",
+    "开放数据",
+    "government statistics",
+    "政府统计"
+  ],
+  "data_content": {
+    "en": [
+      "Population and Demography - census data, population dynamics, births, deaths, migration",
+      "National Accounts - GDP, GNP, value added by sector, input-output tables",
+      "Industry and Manufacturing - industrial production indices, output by sector",
+      "Agriculture - crop production, livestock, food industry statistics",
+      "Labor Market - employment, unemployment, wages, working hours",
+      "Prices - Consumer Price Index (CPI), Producer Price Index (PPI), housing prices",
+      "Foreign Trade - exports, imports, trade balance by commodity and country",
+      "Finance and Banking - federal budget, government debt, banking sector indicators",
+      "Social Statistics - education, healthcare, social protection, poverty",
+      "Housing and Construction - housing stock, new construction, utility services",
+      "Environment - emissions, waste, water resources, protected areas",
+      "Regional Statistics - socio-economic indicators broken down by federal subjects",
+      "Russia in Figures - annual compact statistical handbook",
+      "Statistical Yearbook of Russia - comprehensive annual statistical compendium"
+    ],
+    "zh": [
+      "人口与人口统计 - 人口普查数据、人口动态、出生、死亡、移民",
+      "国民账户 - GDP、GNP、各部门增加值、投入产出表",
+      "工业和制造业 - 工业生产指数、各部门产出",
+      "农业 - 粮食产量、畜牧业、食品工业统计",
+      "劳动力市场 - 就业、失业、工资、工时",
+      "价格 - 消费者价格指数（CPI）、生产者价格指数（PPI）、房价",
+      "对外贸易 - 按商品和国家分类的出口、进口、贸易差额",
+      "金融与银行 - 联邦预算、政府债务、银行业指标",
+      "社会统计 - 教育、医疗、社会保障、贫困",
+      "住房与建筑 - 住房存量、新建筑、公用服务",
+      "环境 - 排放、废物、水资源、保护区",
+      "地区统计 - 按联邦主体划分的社会经济指标",
+      "俄罗斯数字 - 年度简明统计手册",
+      "俄罗斯统计年鉴 - 综合年度统计汇编"
+    ]
+  }
+}
