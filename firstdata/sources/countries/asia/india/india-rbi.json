@@ -14,13 +14,13 @@
   "api_url": "https://api.rbi.org.in/",
   "country": "IN",
   "domains": [
-    "monetary policy",
+    "monetary-policy",
     "banking",
     "finance",
     "economics",
-    "exchange rates",
-    "balance of payments",
-    "government finance"
+    "exchange-rates",
+    "balance-of-payments",
+    "government-finance"
   ],
   "geographic_scope": "national",
   "update_frequency": "monthly",

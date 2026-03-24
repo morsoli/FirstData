@@ -13,12 +13,12 @@
   "api_url": null,
   "country": "US",
   "domains": [
-    "monetary policy",
+    "monetary-policy",
     "banking",
     "finance",
     "economics",
-    "financial stability",
-    "consumer credit"
+    "financial-stability",
+    "consumer-credit"
   ],
   "geographic_scope": "national",
   "update_frequency": "monthly",

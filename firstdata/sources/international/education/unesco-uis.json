@@ -10,7 +10,7 @@
   },
   "website": "https://uis.unesco.org/",
   "data_url": "https://data.uis.unesco.org/",
-  "api_url": "https://api.uis.unesco.org/sdmx/",
+  "api_url": null,
   "country": null,
   "domains": [
     "education",
