@@ -1,0 +1,65 @@
+{
+  "id": "japan-jetro",
+  "name": {
+    "en": "Japan External Trade Organization",
+    "zh": "日本贸易振兴机构",
+    "native": "日本貿易振興機構"
+  },
+  "description": {
+    "en": "JETRO is a Japanese government-related organization that promotes mutual trade and investment between Japan and the world. It provides comprehensive trade and investment statistics, country-specific market reports, industry research, FDI data, and business environment analyses. JETRO maintains regional offices in over 70 countries and publishes authoritative data on Japan's trade patterns and global investment flows.",
+    "zh": "JETRO是日本政府下属的贸易振兴机构，致力于促进日本与世界各国的贸易和投资往来。提供全面的贸易和投资统计数据、各国市场报告、产业研究、外商直接投资数据及商业环境分析。JETRO在全球70多个国家设有办事处，发布日本贸易格局和全球投资流向的权威数据。"
+  },
+  "website": "https://www.jetro.go.jp/en/",
+  "data_url": "https://www.jetro.go.jp/en/reports/statistics.html",
+  "api_url": null,
+  "country": "JP",
+  "domains": [
+    "trade",
+    "investment",
+    "economics",
+    "market research",
+    "FDI"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": [
+    "Japan",
+    "trade",
+    "investment",
+    "FDI",
+    "export",
+    "import",
+    "market-research",
+    "trade-statistics",
+    "business-environment",
+    "日本",
+    "贸易",
+    "投资",
+    "外商直接投资"
+  ],
+  "data_content": {
+    "en": [
+      "Japan's Trade Statistics (Exports and Imports by Country/Product)",
+      "Foreign Direct Investment Statistics (Inward and Outward)",
+      "Country/Region-Specific Trade and Investment Reports",
+      "Industry and Market Research Reports",
+      "Business Cost Comparisons Across Countries",
+      "Japanese Companies' Overseas Business Activities Survey",
+      "Global Trade and Investment Trends Analysis",
+      "Supply Chain and Logistics Data",
+      "SME Internationalization Statistics"
+    ],
+    "zh": [
+      "日本贸易统计（按国家/产品分类的进出口数据）",
+      "外商直接投资统计（对内和对外）",
+      "各国/地区贸易和投资报告",
+      "产业和市场研究报告",
+      "各国商务成本比较",
+      "日本企业海外经营活动调查",
+      "全球贸易和投资趋势分析",
+      "供应链和物流数据",
+      "中小企业国际化统计"
+    ]
+  },
+  "authority_level": "government"
+}

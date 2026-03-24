@@ -1,0 +1,75 @@
+{
+  "id": "us-federalreserve",
+  "name": {
+    "en": "Federal Reserve Board",
+    "zh": "美联储理事会"
+  },
+  "description": {
+    "en": "The Board of Governors of the Federal Reserve System is the central bank of the United States, responsible for monetary policy, banking supervision, and maintaining financial stability. The Fed publishes authoritative data including FOMC meeting minutes, the Beige Book, Financial Accounts of the United States (Z.1), consumer credit, industrial production, capacity utilization, and the Senior Loan Officer Opinion Survey. Distinct from FRED (the data aggregation service), the Board's website provides primary-source policy documents and regulatory data.",
+    "zh": "美联储理事会是美国的中央银行，负责货币政策制定、银行业监管和维护金融稳定。美联储发布权威数据，包括FOMC会议纪要、褐皮书、美国金融账户（Z.1）、消费信贷、工业生产、产能利用率以及高级信贷官意见调查等。与FRED（数据聚合服务）不同，理事会网站提供一手政策文件和监管数据。"
+  },
+  "website": "https://www.federalreserve.gov/",
+  "data_url": "https://www.federalreserve.gov/data.htm",
+  "api_url": null,
+  "country": "US",
+  "domains": [
+    "monetary policy",
+    "banking",
+    "finance",
+    "economics",
+    "financial stability",
+    "consumer credit"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": [
+    "USA",
+    "central-bank",
+    "monetary-policy",
+    "FOMC",
+    "interest-rates",
+    "banking-supervision",
+    "financial-stability",
+    "consumer-credit",
+    "industrial-production",
+    "美联储",
+    "联邦储备",
+    "货币政策",
+    "利率"
+  ],
+  "data_content": {
+    "en": [
+      "FOMC Meeting Minutes and Statements",
+      "Beige Book (Regional Economic Conditions)",
+      "Financial Accounts of the United States (Z.1)",
+      "Consumer Credit (G.19)",
+      "Industrial Production and Capacity Utilization (G.17)",
+      "Money Stock Measures (H.6)",
+      "Selected Interest Rates (H.15)",
+      "Assets and Liabilities of Commercial Banks (H.8)",
+      "Senior Loan Officer Opinion Survey",
+      "Summary of Economic Projections (SEP)",
+      "Financial Stability Reports",
+      "Supervision and Regulation Reports",
+      "Flow of Funds Data",
+      "Foreign Exchange Rates (H.10)"
+    ],
+    "zh": [
+      "FOMC会议纪要和声明",
+      "褐皮书（地区经济状况）",
+      "美国金融账户（Z.1）",
+      "消费信贷（G.19）",
+      "工业生产和产能利用率（G.17）",
+      "货币存量指标（H.6）",
+      "精选利率（H.15）",
+      "商业银行资产负债表（H.8）",
+      "高级信贷官意见调查",
+      "经济预测摘要（SEP）",
+      "金融稳定报告",
+      "监管报告",
+      "资金流量数据",
+      "外汇汇率（H.10）"
+    ]
+  },
+  "authority_level": "government"
+}

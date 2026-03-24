@@ -1,0 +1,73 @@
+{
+  "id": "india-rbi",
+  "name": {
+    "en": "Reserve Bank of India",
+    "zh": "印度储备银行",
+    "native": "भारतीय रिज़र्व बैंक"
+  },
+  "description": {
+    "en": "India's central bank responsible for monetary policy, financial regulation, and economic data publication. RBI publishes comprehensive statistics on money supply, interest rates, exchange rates, banking sector performance, balance of payments, government finance, and price indices. It also releases quarterly GDP-related monetary indicators, the Annual Report, and the Report on Trend and Progress of Banking in India.",
+    "zh": "印度中央银行，负责货币政策制定、金融监管及经济数据发布。RBI发布关于货币供应量、利率、汇率、银行业绩效、国际收支、政府财政和价格指数的全面统计数据，并定期发布季度货币政策报告、年度报告及印度银行业趋势与进展报告。"
+  },
+  "website": "https://www.rbi.org.in/",
+  "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+  "api_url": "https://api.rbi.org.in/",
+  "country": "IN",
+  "domains": [
+    "monetary policy",
+    "banking",
+    "finance",
+    "economics",
+    "exchange rates",
+    "balance of payments",
+    "government finance"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": [
+    "India",
+    "central-bank",
+    "monetary-policy",
+    "banking",
+    "exchange-rates",
+    "money-supply",
+    "interest-rates",
+    "balance-of-payments",
+    "financial-regulation",
+    "economic-statistics",
+    "印度",
+    "中央银行",
+    "货币政策"
+  ],
+  "data_content": {
+    "en": [
+      "Money Supply (M0-M3) and Reserve Money",
+      "Interest Rates (Repo, Reverse Repo, Bank Rate, MCLR)",
+      "Foreign Exchange Reserves and Exchange Rates",
+      "Banking Statistics (Scheduled Commercial Banks, Cooperative Banks)",
+      "Balance of Payments and External Debt",
+      "Government Finance (Central and State)",
+      "Consumer Price Index and Wholesale Price Index",
+      "Financial Inclusion Statistics",
+      "Payment and Settlement Systems Data",
+      "Financial Stability Report Data",
+      "Quarterly Monetary Policy Reports",
+      "Annual Report and Statistical Tables"
+    ],
+    "zh": [
+      "货币供应量（M0-M3）和储备货币",
+      "利率（回购利率、逆回购利率、银行利率、MCLR）",
+      "外汇储备和汇率",
+      "银行业统计（商业银行、合作银行）",
+      "国际收支和外债",
+      "政府财政（中央和各邦）",
+      "消费者价格指数和批发价格指数",
+      "普惠金融统计",
+      "支付结算系统数据",
+      "金融稳定报告数据",
+      "季度货币政策报告",
+      "年度报告和统计表"
+    ]
+  },
+  "authority_level": "government"
+}

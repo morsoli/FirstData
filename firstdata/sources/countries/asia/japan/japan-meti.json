@@ -1,0 +1,70 @@
+{
+  "id": "japan-meti",
+  "name": {
+    "en": "Ministry of Economy, Trade and Industry (Japan)",
+    "zh": "日本经济产业省",
+    "native": "経済産業省"
+  },
+  "description": {
+    "en": "Japan's Ministry of Economy, Trade and Industry (METI) is responsible for economic and industrial policy, trade policy, energy policy, and industrial standards. METI publishes comprehensive statistics including the Indices of Industrial Production (IIP), Census of Manufactures, Commercial and Service Industry Statistics, energy consumption data, and economic surveys covering Japan's industrial and commercial sectors.",
+    "zh": "日本经济产业省（METI）负责经济产业政策、贸易政策、能源政策及产业标准的制定。METI发布全面的统计数据，包括工业生产指数（IIP）、制造业普查、商业服务业统计、能源消费数据以及涵盖日本工商业的经济调查报告。"
+  },
+  "website": "https://www.meti.go.jp/english/",
+  "data_url": "https://www.meti.go.jp/english/statistics/index.html",
+  "api_url": null,
+  "country": "JP",
+  "domains": [
+    "industry",
+    "trade",
+    "energy",
+    "manufacturing",
+    "commerce",
+    "economics"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": [
+    "Japan",
+    "industry",
+    "manufacturing",
+    "trade-policy",
+    "energy",
+    "industrial-production",
+    "commerce",
+    "economic-policy",
+    "industrial-statistics",
+    "日本",
+    "经济产业省",
+    "工业生产",
+    "制造业"
+  ],
+  "data_content": {
+    "en": [
+      "Indices of Industrial Production (IIP)",
+      "Census of Manufactures",
+      "Current Survey of Commerce",
+      "Survey of Selected Service Industries",
+      "Mineral and Petroleum Statistics",
+      "Energy Consumption Statistics",
+      "Machinery Orders and Production Data",
+      "Small and Medium Enterprise Statistics",
+      "Trade Policy and International Commerce Data",
+      "Industrial Technology and Innovation Statistics",
+      "Regional Economic and Industrial Trends"
+    ],
+    "zh": [
+      "工业生产指数（IIP）",
+      "制造业普查",
+      "商业动态统计调查",
+      "特定服务产业调查",
+      "矿物和石油统计",
+      "能源消费统计",
+      "机械订单和生产数据",
+      "中小企业统计",
+      "贸易政策和国际商务数据",
+      "产业技术和创新统计",
+      "地区经济和产业动态"
+    ]
+  },
+  "authority_level": "government"
+}

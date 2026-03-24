@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-24T02:07:15.889866+00:00",
-    "total_sources": 293,
+    "generated_at": "2026-03-24T02:10:18.763045+00:00",
+    "total_sources": 298,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -6268,6 +6268,81 @@
       "file_path": "countries/asia/india/india-mospi.json"
     },
     {
+      "id": "india-rbi",
+      "name": {
+        "en": "Reserve Bank of India",
+        "zh": "印度储备银行",
+        "native": "भारतीय रिज़र्व बैंक"
+      },
+      "description": {
+        "en": "India's central bank responsible for monetary policy, financial regulation, and economic data publication. RBI publishes comprehensive statistics on money supply, interest rates, exchange rates, banking sector performance, balance of payments, government finance, and price indices. It also releases quarterly GDP-related monetary indicators, the Annual Report, and the Report on Trend and Progress of Banking in India.",
+        "zh": "印度中央银行，负责货币政策制定、金融监管及经济数据发布。RBI发布关于货币供应量、利率、汇率、银行业绩效、国际收支、政府财政和价格指数的全面统计数据，并定期发布季度货币政策报告、年度报告及印度银行业趋势与进展报告。"
+      },
+      "website": "https://www.rbi.org.in/",
+      "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+      "api_url": "https://api.rbi.org.in/",
+      "country": "IN",
+      "domains": [
+        "monetary policy",
+        "banking",
+        "finance",
+        "economics",
+        "exchange rates",
+        "balance of payments",
+        "government finance"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "India",
+        "central-bank",
+        "monetary-policy",
+        "banking",
+        "exchange-rates",
+        "money-supply",
+        "interest-rates",
+        "balance-of-payments",
+        "financial-regulation",
+        "economic-statistics",
+        "印度",
+        "中央银行",
+        "货币政策"
+      ],
+      "data_content": {
+        "en": [
+          "Money Supply (M0-M3) and Reserve Money",
+          "Interest Rates (Repo, Reverse Repo, Bank Rate, MCLR)",
+          "Foreign Exchange Reserves and Exchange Rates",
+          "Banking Statistics (Scheduled Commercial Banks, Cooperative Banks)",
+          "Balance of Payments and External Debt",
+          "Government Finance (Central and State)",
+          "Consumer Price Index and Wholesale Price Index",
+          "Financial Inclusion Statistics",
+          "Payment and Settlement Systems Data",
+          "Financial Stability Report Data",
+          "Quarterly Monetary Policy Reports",
+          "Annual Report and Statistical Tables"
+        ],
+        "zh": [
+          "货币供应量（M0-M3）和储备货币",
+          "利率（回购利率、逆回购利率、银行利率、MCLR）",
+          "外汇储备和汇率",
+          "银行业统计（商业银行、合作银行）",
+          "国际收支和外债",
+          "政府财政（中央和各邦）",
+          "消费者价格指数和批发价格指数",
+          "普惠金融统计",
+          "支付结算系统数据",
+          "金融稳定报告数据",
+          "季度货币政策报告",
+          "年度报告和统计表"
+        ]
+      },
+      "authority_level": "government",
+      "has_api": true,
+      "file_path": "countries/asia/india/india-rbi.json"
+    },
+    {
       "id": "indonesia-bps",
       "name": {
         "en": "Statistics Indonesia (BPS)",
@@ -6576,6 +6651,73 @@
       "file_path": "countries/asia/japan/japan-estat.json"
     },
     {
+      "id": "japan-jetro",
+      "name": {
+        "en": "Japan External Trade Organization",
+        "zh": "日本贸易振兴机构",
+        "native": "日本貿易振興機構"
+      },
+      "description": {
+        "en": "JETRO is a Japanese government-related organization that promotes mutual trade and investment between Japan and the world. It provides comprehensive trade and investment statistics, country-specific market reports, industry research, FDI data, and business environment analyses. JETRO maintains regional offices in over 70 countries and publishes authoritative data on Japan's trade patterns and global investment flows.",
+        "zh": "JETRO是日本政府下属的贸易振兴机构，致力于促进日本与世界各国的贸易和投资往来。提供全面的贸易和投资统计数据、各国市场报告、产业研究、外商直接投资数据及商业环境分析。JETRO在全球70多个国家设有办事处，发布日本贸易格局和全球投资流向的权威数据。"
+      },
+      "website": "https://www.jetro.go.jp/en/",
+      "data_url": "https://www.jetro.go.jp/en/reports/statistics.html",
+      "api_url": null,
+      "country": "JP",
+      "domains": [
+        "trade",
+        "investment",
+        "economics",
+        "market research",
+        "FDI"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "Japan",
+        "trade",
+        "investment",
+        "FDI",
+        "export",
+        "import",
+        "market-research",
+        "trade-statistics",
+        "business-environment",
+        "日本",
+        "贸易",
+        "投资",
+        "外商直接投资"
+      ],
+      "data_content": {
+        "en": [
+          "Japan's Trade Statistics (Exports and Imports by Country/Product)",
+          "Foreign Direct Investment Statistics (Inward and Outward)",
+          "Country/Region-Specific Trade and Investment Reports",
+          "Industry and Market Research Reports",
+          "Business Cost Comparisons Across Countries",
+          "Japanese Companies' Overseas Business Activities Survey",
+          "Global Trade and Investment Trends Analysis",
+          "Supply Chain and Logistics Data",
+          "SME Internationalization Statistics"
+        ],
+        "zh": [
+          "日本贸易统计（按国家/产品分类的进出口数据）",
+          "外商直接投资统计（对内和对外）",
+          "各国/地区贸易和投资报告",
+          "产业和市场研究报告",
+          "各国商务成本比较",
+          "日本企业海外经营活动调查",
+          "全球贸易和投资趋势分析",
+          "供应链和物流数据",
+          "中小企业国际化统计"
+        ]
+      },
+      "authority_level": "government",
+      "has_api": false,
+      "file_path": "countries/asia/japan/japan-jetro.json"
+    },
+    {
       "id": "japan-jma",
       "name": {
         "en": "Japan Meteorological Agency",
@@ -6619,6 +6761,78 @@
       "geographic_scope": "national",
       "has_api": false,
       "file_path": "countries/asia/japan/japan-jma.json"
+    },
+    {
+      "id": "japan-meti",
+      "name": {
+        "en": "Ministry of Economy, Trade and Industry (Japan)",
+        "zh": "日本经济产业省",
+        "native": "経済産業省"
+      },
+      "description": {
+        "en": "Japan's Ministry of Economy, Trade and Industry (METI) is responsible for economic and industrial policy, trade policy, energy policy, and industrial standards. METI publishes comprehensive statistics including the Indices of Industrial Production (IIP), Census of Manufactures, Commercial and Service Industry Statistics, energy consumption data, and economic surveys covering Japan's industrial and commercial sectors.",
+        "zh": "日本经济产业省（METI）负责经济产业政策、贸易政策、能源政策及产业标准的制定。METI发布全面的统计数据，包括工业生产指数（IIP）、制造业普查、商业服务业统计、能源消费数据以及涵盖日本工商业的经济调查报告。"
+      },
+      "website": "https://www.meti.go.jp/english/",
+      "data_url": "https://www.meti.go.jp/english/statistics/index.html",
+      "api_url": null,
+      "country": "JP",
+      "domains": [
+        "industry",
+        "trade",
+        "energy",
+        "manufacturing",
+        "commerce",
+        "economics"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "Japan",
+        "industry",
+        "manufacturing",
+        "trade-policy",
+        "energy",
+        "industrial-production",
+        "commerce",
+        "economic-policy",
+        "industrial-statistics",
+        "日本",
+        "经济产业省",
+        "工业生产",
+        "制造业"
+      ],
+      "data_content": {
+        "en": [
+          "Indices of Industrial Production (IIP)",
+          "Census of Manufactures",
+          "Current Survey of Commerce",
+          "Survey of Selected Service Industries",
+          "Mineral and Petroleum Statistics",
+          "Energy Consumption Statistics",
+          "Machinery Orders and Production Data",
+          "Small and Medium Enterprise Statistics",
+          "Trade Policy and International Commerce Data",
+          "Industrial Technology and Innovation Statistics",
+          "Regional Economic and Industrial Trends"
+        ],
+        "zh": [
+          "工业生产指数（IIP）",
+          "制造业普查",
+          "商业动态统计调查",
+          "特定服务产业调查",
+          "矿物和石油统计",
+          "能源消费统计",
+          "机械订单和生产数据",
+          "中小企业统计",
+          "贸易政策和国际商务数据",
+          "产业技术和创新统计",
+          "地区经济和产业动态"
+        ]
+      },
+      "authority_level": "government",
+      "has_api": false,
+      "file_path": "countries/asia/japan/japan-meti.json"
     },
     {
       "id": "korea-bok",
@@ -10838,6 +11052,83 @@
       "file_path": "countries/north-america/usa/us-data-gov.json"
     },
     {
+      "id": "us-federalreserve",
+      "name": {
+        "en": "Federal Reserve Board",
+        "zh": "美联储理事会"
+      },
+      "description": {
+        "en": "The Board of Governors of the Federal Reserve System is the central bank of the United States, responsible for monetary policy, banking supervision, and maintaining financial stability. The Fed publishes authoritative data including FOMC meeting minutes, the Beige Book, Financial Accounts of the United States (Z.1), consumer credit, industrial production, capacity utilization, and the Senior Loan Officer Opinion Survey. Distinct from FRED (the data aggregation service), the Board's website provides primary-source policy documents and regulatory data.",
+        "zh": "美联储理事会是美国的中央银行，负责货币政策制定、银行业监管和维护金融稳定。美联储发布权威数据，包括FOMC会议纪要、褐皮书、美国金融账户（Z.1）、消费信贷、工业生产、产能利用率以及高级信贷官意见调查等。与FRED（数据聚合服务）不同，理事会网站提供一手政策文件和监管数据。"
+      },
+      "website": "https://www.federalreserve.gov/",
+      "data_url": "https://www.federalreserve.gov/data.htm",
+      "api_url": null,
+      "country": "US",
+      "domains": [
+        "monetary policy",
+        "banking",
+        "finance",
+        "economics",
+        "financial stability",
+        "consumer credit"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "USA",
+        "central-bank",
+        "monetary-policy",
+        "FOMC",
+        "interest-rates",
+        "banking-supervision",
+        "financial-stability",
+        "consumer-credit",
+        "industrial-production",
+        "美联储",
+        "联邦储备",
+        "货币政策",
+        "利率"
+      ],
+      "data_content": {
+        "en": [
+          "FOMC Meeting Minutes and Statements",
+          "Beige Book (Regional Economic Conditions)",
+          "Financial Accounts of the United States (Z.1)",
+          "Consumer Credit (G.19)",
+          "Industrial Production and Capacity Utilization (G.17)",
+          "Money Stock Measures (H.6)",
+          "Selected Interest Rates (H.15)",
+          "Assets and Liabilities of Commercial Banks (H.8)",
+          "Senior Loan Officer Opinion Survey",
+          "Summary of Economic Projections (SEP)",
+          "Financial Stability Reports",
+          "Supervision and Regulation Reports",
+          "Flow of Funds Data",
+          "Foreign Exchange Rates (H.10)"
+        ],
+        "zh": [
+          "FOMC会议纪要和声明",
+          "褐皮书（地区经济状况）",
+          "美国金融账户（Z.1）",
+          "消费信贷（G.19）",
+          "工业生产和产能利用率（G.17）",
+          "货币存量指标（H.6）",
+          "精选利率（H.15）",
+          "商业银行资产负债表（H.8）",
+          "高级信贷官意见调查",
+          "经济预测摘要（SEP）",
+          "金融稳定报告",
+          "监管报告",
+          "资金流量数据",
+          "外汇汇率（H.10）"
+        ]
+      },
+      "authority_level": "government",
+      "has_api": false,
+      "file_path": "countries/north-america/usa/us-federalreserve.json"
+    },
+    {
       "id": "us-treasury",
       "name": {
         "en": "U.S. Department of the Treasury",
@@ -14987,6 +15278,81 @@
       "authority_level": "international",
       "has_api": false,
       "file_path": "international/education/oecd-pisa.json"
+    },
+    {
+      "id": "unesco-uis",
+      "name": {
+        "en": "UNESCO Institute for Statistics",
+        "zh": "联合国教科文组织统计研究所"
+      },
+      "description": {
+        "en": "The UNESCO Institute for Statistics (UIS) is the official statistical agency of UNESCO and the primary UN source for internationally comparable data on education, science, technology, innovation, culture, and communication. UIS maintains the most comprehensive global education database covering enrollment, literacy, expenditure, learning outcomes, and teacher statistics for over 200 countries.",
+        "zh": "联合国教科文组织统计研究所（UIS）是UNESCO的官方统计机构，也是联合国在教育、科学、技术、创新、文化和传播领域国际可比数据的主要来源。UIS维护着最全面的全球教育数据库，涵盖200多个国家的入学率、识字率、教育支出、学习成果和教师统计数据。"
+      },
+      "website": "https://uis.unesco.org/",
+      "data_url": "https://data.uis.unesco.org/",
+      "api_url": "https://api.uis.unesco.org/sdmx/",
+      "country": null,
+      "domains": [
+        "education",
+        "science",
+        "technology",
+        "innovation",
+        "culture",
+        "communication"
+      ],
+      "geographic_scope": "global",
+      "update_frequency": "annual",
+      "tags": [
+        "UNESCO",
+        "education",
+        "literacy",
+        "enrollment",
+        "science-statistics",
+        "R&D",
+        "SDG4",
+        "learning-outcomes",
+        "education-expenditure",
+        "teachers",
+        "international-comparison",
+        "教育",
+        "识字率",
+        "入学率",
+        "科研统计"
+      ],
+      "data_content": {
+        "en": [
+          "Education Enrollment and Completion Rates (Pre-primary to Tertiary)",
+          "Literacy and Educational Attainment by Age and Gender",
+          "Education Expenditure (Public and Private)",
+          "Teacher Statistics (Pupil-Teacher Ratios, Qualifications)",
+          "Learning Outcomes and Assessments",
+          "Out-of-School Children and Youth Statistics",
+          "SDG 4 Education Monitoring Indicators",
+          "Science, Technology and Innovation Statistics",
+          "R&D Expenditure and Researcher Data",
+          "Cultural Statistics and Heritage Data",
+          "ICT in Education Statistics",
+          "International Student Mobility Data"
+        ],
+        "zh": [
+          "教育入学率和完成率（学前至高等教育）",
+          "识字率和受教育程度（按年龄和性别）",
+          "教育支出（公共和私人）",
+          "教师统计（师生比、教师资质）",
+          "学习成果和评估",
+          "失学儿童和青年统计",
+          "SDG 4教育监测指标",
+          "科学、技术和创新统计",
+          "研发支出和研究人员数据",
+          "文化统计和遗产数据",
+          "教育信息化统计",
+          "国际学生流动数据"
+        ]
+      },
+      "authority_level": "international",
+      "has_api": true,
+      "file_path": "international/education/unesco-uis.json"
     },
     {
       "id": "iaea-energy-data",

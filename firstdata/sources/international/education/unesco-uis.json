@@ -1,0 +1,73 @@
+{
+  "id": "unesco-uis",
+  "name": {
+    "en": "UNESCO Institute for Statistics",
+    "zh": "联合国教科文组织统计研究所"
+  },
+  "description": {
+    "en": "The UNESCO Institute for Statistics (UIS) is the official statistical agency of UNESCO and the primary UN source for internationally comparable data on education, science, technology, innovation, culture, and communication. UIS maintains the most comprehensive global education database covering enrollment, literacy, expenditure, learning outcomes, and teacher statistics for over 200 countries.",
+    "zh": "联合国教科文组织统计研究所（UIS）是UNESCO的官方统计机构，也是联合国在教育、科学、技术、创新、文化和传播领域国际可比数据的主要来源。UIS维护着最全面的全球教育数据库，涵盖200多个国家的入学率、识字率、教育支出、学习成果和教师统计数据。"
+  },
+  "website": "https://uis.unesco.org/",
+  "data_url": "https://data.uis.unesco.org/",
+  "api_url": "https://api.uis.unesco.org/sdmx/",
+  "country": null,
+  "domains": [
+    "education",
+    "science",
+    "technology",
+    "innovation",
+    "culture",
+    "communication"
+  ],
+  "geographic_scope": "global",
+  "update_frequency": "annual",
+  "tags": [
+    "UNESCO",
+    "education",
+    "literacy",
+    "enrollment",
+    "science-statistics",
+    "R&D",
+    "SDG4",
+    "learning-outcomes",
+    "education-expenditure",
+    "teachers",
+    "international-comparison",
+    "教育",
+    "识字率",
+    "入学率",
+    "科研统计"
+  ],
+  "data_content": {
+    "en": [
+      "Education Enrollment and Completion Rates (Pre-primary to Tertiary)",
+      "Literacy and Educational Attainment by Age and Gender",
+      "Education Expenditure (Public and Private)",
+      "Teacher Statistics (Pupil-Teacher Ratios, Qualifications)",
+      "Learning Outcomes and Assessments",
+      "Out-of-School Children and Youth Statistics",
+      "SDG 4 Education Monitoring Indicators",
+      "Science, Technology and Innovation Statistics",
+      "R&D Expenditure and Researcher Data",
+      "Cultural Statistics and Heritage Data",
+      "ICT in Education Statistics",
+      "International Student Mobility Data"
+    ],
+    "zh": [
+      "教育入学率和完成率（学前至高等教育）",
+      "识字率和受教育程度（按年龄和性别）",
+      "教育支出（公共和私人）",
+      "教师统计（师生比、教师资质）",
+      "学习成果和评估",
+      "失学儿童和青年统计",
+      "SDG 4教育监测指标",
+      "科学、技术和创新统计",
+      "研发支出和研究人员数据",
+      "文化统计和遗产数据",
+      "教育信息化统计",
+      "国际学生流动数据"
+    ]
+  },
+  "authority_level": "international"
+}
