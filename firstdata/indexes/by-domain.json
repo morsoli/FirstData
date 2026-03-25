@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-24T02:07:15.889866+00:00",
-    "total_domains": 706,
-    "total_sources": 293,
+    "generated_at": "2026-03-24T02:10:18.763045+00:00",
+    "total_domains": 710,
+    "total_sources": 298,
     "version": "2.0"
   },
   "domains": {
@@ -31,6 +31,21 @@
         "data_url": "https://www.imt2030.org.cn/html/default/zhongwen/chengguofabu/index.html",
         "has_api": false,
         "file_path": "sectors/J-information-communication/china-imt2030.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "FDI": [
+      {
+        "id": "japan-jetro",
+        "name": {
+          "en": "Japan External Trade Organization",
+          "zh": "日本贸易振兴机构",
+          "native": "日本貿易振興機構"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.jetro.go.jp/en/reports/statistics.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-jetro.json",
         "geographic_scope": "national"
       }
     ],
@@ -1224,6 +1239,19 @@
     ],
     "balance of payments": [
       {
+        "id": "india-rbi",
+        "name": {
+          "en": "Reserve Bank of India",
+          "zh": "印度储备银行",
+          "native": "भारतीय रिज़र्व बैंक"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+        "has_api": true,
+        "file_path": "countries/asia/india/india-rbi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "boj-statistics",
         "name": {
           "en": "Bank of Japan Statistics",
@@ -1341,6 +1369,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "india-rbi",
+        "name": {
+          "en": "Reserve Bank of India",
+          "zh": "印度储备银行",
+          "native": "भारतीय रिज़र्व बैंक"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+        "has_api": true,
+        "file_path": "countries/asia/india/india-rbi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "boj-statistics",
         "name": {
           "en": "Bank of Japan Statistics",
@@ -1389,6 +1430,18 @@
         "data_url": "https://www.banxico.org.mx",
         "has_api": true,
         "file_path": "countries/north-america/mexico/banxico.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-federalreserve",
+        "name": {
+          "en": "Federal Reserve Board",
+          "zh": "美联储理事会"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.federalreserve.gov/data.htm",
+        "has_api": false,
+        "file_path": "countries/north-america/usa/us-federalreserve.json",
         "geographic_scope": "national"
       },
       {
@@ -2958,6 +3011,19 @@
         "has_api": false,
         "file_path": "countries/asia/hk-companies-registry.json",
         "geographic_scope": "national"
+      },
+      {
+        "id": "japan-meti",
+        "name": {
+          "en": "Ministry of Economy, Trade and Industry (Japan)",
+          "zh": "日本经济产业省",
+          "native": "経済産業省"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.meti.go.jp/english/statistics/index.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-meti.json",
+        "geographic_scope": "national"
       }
     ],
     "commodities": [
@@ -3108,6 +3174,20 @@
         "has_api": false,
         "file_path": "sectors/B-mining/rare-earth/china-rare-earth-association.json",
         "geographic_scope": "national"
+      }
+    ],
+    "communication": [
+      {
+        "id": "unesco-uis",
+        "name": {
+          "en": "UNESCO Institute for Statistics",
+          "zh": "联合国教科文组织统计研究所"
+        },
+        "authority_level": "international",
+        "data_url": "https://data.uis.unesco.org/",
+        "has_api": true,
+        "file_path": "international/education/unesco-uis.json",
+        "geographic_scope": "global"
       }
     ],
     "communications": [
@@ -3361,6 +3441,20 @@
         "has_api": false,
         "file_path": "academic/economics/conference-board.json",
         "geographic_scope": "global"
+      }
+    ],
+    "consumer credit": [
+      {
+        "id": "us-federalreserve",
+        "name": {
+          "en": "Federal Reserve Board",
+          "zh": "美联储理事会"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.federalreserve.gov/data.htm",
+        "has_api": false,
+        "file_path": "countries/north-america/usa/us-federalreserve.json",
+        "geographic_scope": "national"
       }
     ],
     "consumer expenditures": [
@@ -3838,6 +3932,18 @@
         "has_api": true,
         "file_path": "countries/north-america/canada/statcan.json",
         "geographic_scope": "national"
+      },
+      {
+        "id": "unesco-uis",
+        "name": {
+          "en": "UNESCO Institute for Statistics",
+          "zh": "联合国教科文组织统计研究所"
+        },
+        "authority_level": "international",
+        "data_url": "https://data.uis.unesco.org/",
+        "has_api": true,
+        "file_path": "international/education/unesco-uis.json",
+        "geographic_scope": "global"
       }
     ],
     "currencies": [
@@ -6206,6 +6312,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "india-rbi",
+        "name": {
+          "en": "Reserve Bank of India",
+          "zh": "印度储备银行",
+          "native": "भारतीय रिज़र्व बैंक"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+        "has_api": true,
+        "file_path": "countries/asia/india/india-rbi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "indonesia-bps",
         "name": {
           "en": "Statistics Indonesia (BPS)",
@@ -6241,6 +6360,32 @@
         "data_url": "https://www.e-stat.go.jp/en/stat-search",
         "has_api": true,
         "file_path": "countries/asia/japan/japan-estat.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "japan-jetro",
+        "name": {
+          "en": "Japan External Trade Organization",
+          "zh": "日本贸易振兴机构",
+          "native": "日本貿易振興機構"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.jetro.go.jp/en/reports/statistics.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-jetro.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "japan-meti",
+        "name": {
+          "en": "Ministry of Economy, Trade and Industry (Japan)",
+          "zh": "日本经济产业省",
+          "native": "経済産業省"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.meti.go.jp/english/statistics/index.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-meti.json",
         "geographic_scope": "national"
       },
       {
@@ -6676,6 +6821,18 @@
         "data_url": "https://data.census.gov",
         "has_api": true,
         "file_path": "countries/north-america/usa/us-census.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-federalreserve",
+        "name": {
+          "en": "Federal Reserve Board",
+          "zh": "美联储理事会"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.federalreserve.gov/data.htm",
+        "has_api": false,
+        "file_path": "countries/north-america/usa/us-federalreserve.json",
         "geographic_scope": "national"
       },
       {
@@ -7652,6 +7809,18 @@
         "geographic_scope": "global"
       },
       {
+        "id": "unesco-uis",
+        "name": {
+          "en": "UNESCO Institute for Statistics",
+          "zh": "联合国教科文组织统计研究所"
+        },
+        "authority_level": "international",
+        "data_url": "https://data.uis.unesco.org/",
+        "has_api": true,
+        "file_path": "international/education/unesco-uis.json",
+        "geographic_scope": "global"
+      },
+      {
         "id": "unicef",
         "name": {
           "en": "UNICEF Data",
@@ -8383,6 +8552,19 @@
         "data_url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202312/t20231229_1363000.html",
         "has_api": false,
         "file_path": "china/economy/macro/china-ndrc-computing.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "japan-meti",
+        "name": {
+          "en": "Ministry of Economy, Trade and Industry (Japan)",
+          "zh": "日本经济产业省",
+          "native": "経済産業省"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.meti.go.jp/english/statistics/index.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-meti.json",
         "geographic_scope": "national"
       },
       {
@@ -9839,6 +10021,19 @@
     ],
     "exchange rates": [
       {
+        "id": "india-rbi",
+        "name": {
+          "en": "Reserve Bank of India",
+          "zh": "印度储备银行",
+          "native": "भारतीय रिज़र्व बैंक"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+        "has_api": true,
+        "file_path": "countries/asia/india/india-rbi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "uk-boe",
         "name": {
           "en": "Bank of England Statistical Interactive Database",
@@ -10189,6 +10384,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "india-rbi",
+        "name": {
+          "en": "Reserve Bank of India",
+          "zh": "印度储备银行",
+          "native": "भारतीय रिज़र्व बैंक"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+        "has_api": true,
+        "file_path": "countries/asia/india/india-rbi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "singapore-singstat",
         "name": {
           "en": "Singapore Department of Statistics (SingStat)",
@@ -10261,6 +10469,18 @@
         "data_url": "https://catalog.data.gov/dataset",
         "has_api": false,
         "file_path": "countries/north-america/usa/us-data-gov.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-federalreserve",
+        "name": {
+          "en": "Federal Reserve Board",
+          "zh": "美联储理事会"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.federalreserve.gov/data.htm",
+        "has_api": false,
+        "file_path": "countries/north-america/usa/us-federalreserve.json",
         "geographic_scope": "national"
       },
       {
@@ -10744,6 +10964,18 @@
         "data_url": "https://www.bankofengland.co.uk/boeapps/database/",
         "has_api": false,
         "file_path": "countries/europe/uk/bank-of-england.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-federalreserve",
+        "name": {
+          "en": "Federal Reserve Board",
+          "zh": "美联储理事会"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.federalreserve.gov/data.htm",
+        "has_api": false,
+        "file_path": "countries/north-america/usa/us-federalreserve.json",
         "geographic_scope": "national"
       },
       {
@@ -12054,6 +12286,19 @@
       }
     ],
     "government finance": [
+      {
+        "id": "india-rbi",
+        "name": {
+          "en": "Reserve Bank of India",
+          "zh": "印度储备银行",
+          "native": "भारतीय रिज़र्व बैंक"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+        "has_api": true,
+        "file_path": "countries/asia/india/india-rbi.json",
+        "geographic_scope": "national"
+      },
       {
         "id": "adb-key-indicators",
         "name": {
@@ -13673,6 +13918,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "japan-meti",
+        "name": {
+          "en": "Ministry of Economy, Trade and Industry (Japan)",
+          "zh": "日本经济产业省",
+          "native": "経済産業省"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.meti.go.jp/english/statistics/index.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-meti.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "kostat",
         "name": {
           "en": "Statistics Korea (KOSTAT)",
@@ -14295,6 +14553,18 @@
         "geographic_scope": "regional"
       },
       {
+        "id": "unesco-uis",
+        "name": {
+          "en": "UNESCO Institute for Statistics",
+          "zh": "联合国教科文组织统计研究所"
+        },
+        "authority_level": "international",
+        "data_url": "https://data.uis.unesco.org/",
+        "has_api": true,
+        "file_path": "international/education/unesco-uis.json",
+        "geographic_scope": "global"
+      },
+      {
         "id": "wipo-ip-statistics",
         "name": {
           "en": "WIPO IP Statistics",
@@ -14776,6 +15046,19 @@
         "data_url": "https://data.mofcom.gov.cn",
         "has_api": false,
         "file_path": "china/economy/trade/mofcom.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "japan-jetro",
+        "name": {
+          "en": "Japan External Trade Organization",
+          "zh": "日本贸易振兴机构",
+          "native": "日本貿易振興機構"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.jetro.go.jp/en/reports/statistics.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-jetro.json",
         "geographic_scope": "national"
       },
       {
@@ -15671,6 +15954,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "japan-meti",
+        "name": {
+          "en": "Ministry of Economy, Trade and Industry (Japan)",
+          "zh": "日本经济产业省",
+          "native": "経済産業省"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.meti.go.jp/english/statistics/index.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-meti.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "germany-destatis",
         "name": {
           "en": "Federal Statistical Office of Germany (Destatis)",
@@ -15890,6 +16186,21 @@
         "data_url": "https://open.canada.ca/data/en/organization/aafc-aac",
         "has_api": true,
         "file_path": "countries/north-america/canada/aafc.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "market research": [
+      {
+        "id": "japan-jetro",
+        "name": {
+          "en": "Japan External Trade Organization",
+          "zh": "日本贸易振兴机构",
+          "native": "日本貿易振興機構"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.jetro.go.jp/en/reports/statistics.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-jetro.json",
         "geographic_scope": "national"
       }
     ],
@@ -16490,6 +16801,19 @@
     ],
     "monetary policy": [
       {
+        "id": "india-rbi",
+        "name": {
+          "en": "Reserve Bank of India",
+          "zh": "印度储备银行",
+          "native": "भारतीय रिज़र्व बैंक"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+        "has_api": true,
+        "file_path": "countries/asia/india/india-rbi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "boj-statistics",
         "name": {
           "en": "Bank of Japan Statistics",
@@ -16536,6 +16860,18 @@
         "data_url": "https://www.ons.gov.uk/economy/inflationandpriceindices",
         "has_api": false,
         "file_path": "countries/europe/uk-ons-cpi-rpi.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-federalreserve",
+        "name": {
+          "en": "Federal Reserve Board",
+          "zh": "美联储理事会"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.federalreserve.gov/data.htm",
+        "has_api": false,
+        "file_path": "countries/north-america/usa/us-federalreserve.json",
         "geographic_scope": "national"
       },
       {
@@ -19184,6 +19520,18 @@
         "has_api": false,
         "file_path": "china/technology/sci_resources/china-most-infrastructure.json",
         "geographic_scope": "national"
+      },
+      {
+        "id": "unesco-uis",
+        "name": {
+          "en": "UNESCO Institute for Statistics",
+          "zh": "联合国教科文组织统计研究所"
+        },
+        "authority_level": "international",
+        "data_url": "https://data.uis.unesco.org/",
+        "has_api": true,
+        "file_path": "international/education/unesco-uis.json",
+        "geographic_scope": "global"
       }
     ],
     "science & research": [
@@ -20856,6 +21204,18 @@
         "geographic_scope": "regional"
       },
       {
+        "id": "unesco-uis",
+        "name": {
+          "en": "UNESCO Institute for Statistics",
+          "zh": "联合国教科文组织统计研究所"
+        },
+        "authority_level": "international",
+        "data_url": "https://data.uis.unesco.org/",
+        "has_api": true,
+        "file_path": "international/education/unesco-uis.json",
+        "geographic_scope": "global"
+      },
+      {
         "id": "wipo-ip-statistics",
         "name": {
           "en": "WIPO IP Statistics",
@@ -21299,6 +21659,32 @@
         "data_url": "https://www.bps.go.id/en/statistics-table",
         "has_api": true,
         "file_path": "countries/asia/indonesia/indonesia-bps.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "japan-jetro",
+        "name": {
+          "en": "Japan External Trade Organization",
+          "zh": "日本贸易振兴机构",
+          "native": "日本貿易振興機構"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.jetro.go.jp/en/reports/statistics.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-jetro.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "japan-meti",
+        "name": {
+          "en": "Ministry of Economy, Trade and Industry (Japan)",
+          "zh": "日本经济产业省",
+          "native": "経済産業省"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.meti.go.jp/english/statistics/index.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-meti.json",
         "geographic_scope": "national"
       },
       {

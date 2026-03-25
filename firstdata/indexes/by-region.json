@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-24T02:07:15.889866+00:00",
+    "generated_at": "2026-03-24T02:10:18.763045+00:00",
     "total_regions": 43,
-    "total_sources": 293,
+    "total_sources": 298,
     "version": "2.0"
   },
   "regions": {
@@ -1390,6 +1390,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "india-rbi",
+        "name": {
+          "en": "Reserve Bank of India",
+          "zh": "印度储备银行",
+          "native": "भारतीय रिज़र्व बैंक"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.rbi.org.in/Scripts/Statistics.aspx",
+        "has_api": true,
+        "file_path": "countries/asia/india/india-rbi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "india-meity",
         "name": {
           "en": "Ministry of Electronics and Information Technology of India",
@@ -1456,6 +1469,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "japan-jetro",
+        "name": {
+          "en": "Japan External Trade Organization",
+          "zh": "日本贸易振兴机构",
+          "native": "日本貿易振興機構"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.jetro.go.jp/en/reports/statistics.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-jetro.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "japan-jma",
         "name": {
           "en": "Japan Meteorological Agency",
@@ -1465,6 +1491,19 @@
         "data_url": "https://www.data.jma.go.jp/risk/obsdl/index.php",
         "has_api": false,
         "file_path": "countries/asia/japan/japan-jma.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "japan-meti",
+        "name": {
+          "en": "Ministry of Economy, Trade and Industry (Japan)",
+          "zh": "日本经济产业省",
+          "native": "経済産業省"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.meti.go.jp/english/statistics/index.html",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-meti.json",
         "geographic_scope": "national"
       },
       {
@@ -1897,6 +1936,18 @@
         "data_url": "https://catalog.data.gov/dataset",
         "has_api": false,
         "file_path": "countries/north-america/usa/us-data-gov.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "us-federalreserve",
+        "name": {
+          "en": "Federal Reserve Board",
+          "zh": "美联储理事会"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.federalreserve.gov/data.htm",
+        "has_api": false,
+        "file_path": "countries/north-america/usa/us-federalreserve.json",
         "geographic_scope": "national"
       },
       {
