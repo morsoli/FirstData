@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-25T02:07:10.276295+00:00",
-    "total_sources": 298,
+    "generated_at": "2026-03-25T02:07:45.434384+00:00",
+    "total_sources": 300,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -8874,6 +8874,89 @@
       "file_path": "countries/europe/germany/germany-destatis.json"
     },
     {
+      "id": "greece-elstat",
+      "name": {
+        "en": "Hellenic Statistical Authority (ELSTAT)",
+        "zh": "希腊统计局",
+        "native": "Ελληνική Στατιστική Αρχή (ΕΛΣΤΑΤ)"
+      },
+      "description": {
+        "en": "The Hellenic Statistical Authority (ELSTAT) is the official national statistical authority of Greece, responsible for the collection, processing, and dissemination of official statistics covering the Greek economy, population, society, and environment. ELSTAT coordinates the national statistical system and produces data compliant with Eurostat and EU standards, providing open access to statistical tables, publications, and databases.",
+        "zh": "希腊统计局（ELSTAT）是希腊官方国家统计机构，负责收集、处理和发布涵盖希腊经济、人口、社会与环境的官方统计数据。ELSTAT协调国家统计体系，生产符合欧盟统计局（Eurostat）标准的数据，并通过统计数据库和出版物提供开放访问。"
+      },
+      "website": "https://www.statistics.gr",
+      "data_url": "https://www.statistics.gr/en/statistics",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "GR",
+      "domains": [
+        "economics",
+        "demographics",
+        "trade",
+        "social",
+        "employment",
+        "prices",
+        "environment"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "quarterly",
+      "tags": [
+        "greece",
+        "elstat",
+        "hellenic statistical authority",
+        "ΕΛΣΤΑΤ",
+        "official statistics",
+        "population",
+        "GDP",
+        "national accounts",
+        "CPI",
+        "inflation",
+        "labor market",
+        "trade",
+        "business",
+        "census",
+        "eurostat",
+        "EU statistics",
+        "希腊",
+        "希腊统计局",
+        "人口统计",
+        "经济统计",
+        "GDP",
+        "国民账户",
+        "贸易",
+        "就业",
+        "欧盟"
+      ],
+      "data_content": {
+        "en": [
+          "Population census and vital statistics",
+          "GDP and national accounts",
+          "Consumer price index and inflation",
+          "Foreign trade and balance of payments",
+          "Labor force and employment survey",
+          "Business and enterprise statistics",
+          "Agricultural and fisheries statistics",
+          "Income and living conditions (EU-SILC)",
+          "Tourism and accommodation statistics",
+          "Environmental and energy statistics"
+        ],
+        "zh": [
+          "人口普查与生命统计",
+          "GDP与国民账户",
+          "消费者价格指数与通货膨胀",
+          "对外贸易与国际收支",
+          "劳动力与就业调查",
+          "企业与工商统计",
+          "农业与渔业统计",
+          "收入与生活条件（EU-SILC）",
+          "旅游与住宿统计",
+          "环境与能源统计"
+        ]
+      },
+      "has_api": false,
+      "file_path": "countries/europe/greece/greece-elstat.json"
+    },
+    {
       "id": "ireland-cso",
       "name": {
         "en": "Central Statistics Office (CSO)",
@@ -12343,6 +12426,90 @@
       },
       "has_api": false,
       "file_path": "countries/south-america/chile/chile-ine.json"
+    },
+    {
+      "id": "colombia-dane",
+      "name": {
+        "en": "National Administrative Department of Statistics (DANE)",
+        "zh": "哥伦比亚国家统计局",
+        "native": "Departamento Administrativo Nacional de Estadística (DANE)"
+      },
+      "description": {
+        "en": "The National Administrative Department of Statistics (DANE) is Colombia's official national statistics agency, responsible for the production and dissemination of official statistics on population, economy, industry, agriculture, and social conditions. DANE conducts national censuses, household surveys, and economic censuses, and provides open data access through its statistics portal and microdata repository.",
+        "zh": "哥伦比亚国家统计局（DANE）是哥伦比亚官方国家统计机构，负责生产和发布有关人口、经济、工业、农业和社会状况的官方统计数据。DANE开展全国人口普查、住户调查和经济普查，并通过其统计门户网站和微观数据库提供开放数据访问。"
+      },
+      "website": "https://www.dane.gov.co",
+      "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+      "api_url": "https://microdatos.dane.gov.co/",
+      "authority_level": "government",
+      "country": "CO",
+      "domains": [
+        "economics",
+        "demographics",
+        "agriculture",
+        "social",
+        "employment",
+        "prices",
+        "trade"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "colombia",
+        "dane",
+        "estadisticas",
+        "national statistics",
+        "official statistics",
+        "population",
+        "census",
+        "GDP",
+        "CPI",
+        "inflation",
+        "labor market",
+        "employment",
+        "household survey",
+        "encuesta",
+        "agriculture",
+        "trade",
+        "microdata",
+        "哥伦比亚",
+        "哥伦比亚统计局",
+        "人口普查",
+        "经济统计",
+        "GDP",
+        "就业",
+        "物价",
+        "农业",
+        "南美洲"
+      ],
+      "data_content": {
+        "en": [
+          "Population census and demographic statistics",
+          "GDP and national accounts",
+          "Consumer price index and inflation",
+          "Labor market and employment (GEIH survey)",
+          "Foreign trade statistics (imports and exports)",
+          "Agricultural production and crop surveys",
+          "Industrial and manufacturing census",
+          "Housing and quality of life surveys",
+          "Income distribution and poverty indicators",
+          "Microdata repository for research access"
+        ],
+        "zh": [
+          "人口普查与人口统计",
+          "GDP与国民账户",
+          "消费者价格指数与通货膨胀",
+          "劳动力市场与就业（GEIH调查）",
+          "对外贸易统计（进出口）",
+          "农业生产与作物调查",
+          "工业与制造业普查",
+          "住房与生活质量调查",
+          "收入分配与贫困指标",
+          "供研究使用的微观数据库"
+        ]
+      },
+      "has_api": true,
+      "file_path": "countries/south-america/colombia/colombia-dane.json"
     },
     {
       "id": "usgs",

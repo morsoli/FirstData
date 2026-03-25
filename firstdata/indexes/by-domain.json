@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-25T02:07:10.276295+00:00",
+    "generated_at": "2026-03-25T02:07:45.434384+00:00",
     "total_domains": 711,
-    "total_sources": 298,
+    "total_sources": 300,
     "version": "2.0"
   },
   "domains": {
@@ -631,6 +631,19 @@
         "data_url": "https://www.ibge.gov.br/en/indicators",
         "has_api": true,
         "file_path": "countries/south-america/brazil-ibge.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "colombia-dane",
+        "name": {
+          "en": "National Administrative Department of Statistics (DANE)",
+          "zh": "哥伦比亚国家统计局",
+          "native": "Departamento Administrativo Nacional de Estadística (DANE)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+        "has_api": true,
+        "file_path": "countries/south-america/colombia/colombia-dane.json",
         "geographic_scope": "national"
       },
       {
@@ -4591,6 +4604,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "greece-elstat",
+        "name": {
+          "en": "Hellenic Statistical Authority (ELSTAT)",
+          "zh": "希腊统计局",
+          "native": "Ελληνική Στατιστική Αρχή (ΕΛΣΤΑΤ)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistics.gr/en/statistics",
+        "has_api": false,
+        "file_path": "countries/europe/greece/greece-elstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "ireland-cso",
         "name": {
           "en": "Central Statistics Office (CSO)",
@@ -4810,6 +4836,19 @@
         "data_url": "https://www.ine.gob.cl/estadisticas",
         "has_api": false,
         "file_path": "countries/south-america/chile/chile-ine.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "colombia-dane",
+        "name": {
+          "en": "National Administrative Department of Statistics (DANE)",
+          "zh": "哥伦比亚国家统计局",
+          "native": "Departamento Administrativo Nacional de Estadística (DANE)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+        "has_api": true,
+        "file_path": "countries/south-america/colombia/colombia-dane.json",
         "geographic_scope": "national"
       },
       {
@@ -6615,6 +6654,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "greece-elstat",
+        "name": {
+          "en": "Hellenic Statistical Authority (ELSTAT)",
+          "zh": "希腊统计局",
+          "native": "Ελληνική Στατιστική Αρχή (ΕΛΣΤΑΤ)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistics.gr/en/statistics",
+        "has_api": false,
+        "file_path": "countries/europe/greece/greece-elstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "ireland-cso",
         "name": {
           "en": "Central Statistics Office (CSO)",
@@ -6907,6 +6959,19 @@
         "data_url": "https://www.ine.gob.cl/estadisticas",
         "has_api": false,
         "file_path": "countries/south-america/chile/chile-ine.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "colombia-dane",
+        "name": {
+          "en": "National Administrative Department of Statistics (DANE)",
+          "zh": "哥伦比亚国家统计局",
+          "native": "Departamento Administrativo Nacional de Estadística (DANE)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+        "has_api": true,
+        "file_path": "countries/south-america/colombia/colombia-dane.json",
         "geographic_scope": "national"
       },
       {
@@ -8310,6 +8375,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "greece-elstat",
+        "name": {
+          "en": "Hellenic Statistical Authority (ELSTAT)",
+          "zh": "希腊统计局",
+          "native": "Ελληνική Στατιστική Αρχή (ΕΛΣΤΑΤ)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistics.gr/en/statistics",
+        "has_api": false,
+        "file_path": "countries/europe/greece/greece-elstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "ireland-cso",
         "name": {
           "en": "Central Statistics Office (CSO)",
@@ -8490,6 +8568,19 @@
         "data_url": "https://www.ine.gob.cl/estadisticas",
         "has_api": false,
         "file_path": "countries/south-america/chile/chile-ine.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "colombia-dane",
+        "name": {
+          "en": "National Administrative Department of Statistics (DANE)",
+          "zh": "哥伦比亚国家统计局",
+          "native": "Departamento Administrativo Nacional de Estadística (DANE)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+        "has_api": true,
+        "file_path": "countries/south-america/colombia/colombia-dane.json",
         "geographic_scope": "national"
       },
       {
@@ -9213,6 +9304,19 @@
         "data_url": "https://www.destatis.de/EN/Themes/_node.html",
         "has_api": true,
         "file_path": "countries/europe/germany/germany-destatis.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "greece-elstat",
+        "name": {
+          "en": "Hellenic Statistical Authority (ELSTAT)",
+          "zh": "希腊统计局",
+          "native": "Ελληνική Στατιστική Αρχή (ΕΛΣΤΑΤ)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistics.gr/en/statistics",
+        "has_api": false,
+        "file_path": "countries/europe/greece/greece-elstat.json",
         "geographic_scope": "national"
       },
       {
@@ -18619,6 +18723,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "greece-elstat",
+        "name": {
+          "en": "Hellenic Statistical Authority (ELSTAT)",
+          "zh": "希腊统计局",
+          "native": "Ελληνική Στατιστική Αρχή (ΕΛΣΤΑΤ)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistics.gr/en/statistics",
+        "has_api": false,
+        "file_path": "countries/europe/greece/greece-elstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "russia-rosstat",
         "name": {
           "en": "Federal State Statistics Service (Rosstat)",
@@ -18666,6 +18783,19 @@
         "data_url": "https://infoshare.stats.govt.nz",
         "has_api": false,
         "file_path": "countries/oceania/new-zealand/nz-stats.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "colombia-dane",
+        "name": {
+          "en": "National Administrative Department of Statistics (DANE)",
+          "zh": "哥伦比亚国家统计局",
+          "native": "Departamento Administrativo Nacional de Estadística (DANE)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+        "has_api": true,
+        "file_path": "countries/south-america/colombia/colombia-dane.json",
         "geographic_scope": "national"
       },
       {
@@ -20084,6 +20214,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "greece-elstat",
+        "name": {
+          "en": "Hellenic Statistical Authority (ELSTAT)",
+          "zh": "希腊统计局",
+          "native": "Ελληνική Στατιστική Αρχή (ΕΛΣΤΑΤ)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistics.gr/en/statistics",
+        "has_api": false,
+        "file_path": "countries/europe/greece/greece-elstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "portugal-ine",
         "name": {
           "en": "Statistics Portugal (INE)",
@@ -20180,6 +20323,19 @@
         "data_url": "https://www.ine.gob.cl/estadisticas",
         "has_api": false,
         "file_path": "countries/south-america/chile/chile-ine.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "colombia-dane",
+        "name": {
+          "en": "National Administrative Department of Statistics (DANE)",
+          "zh": "哥伦比亚国家统计局",
+          "native": "Departamento Administrativo Nacional de Estadística (DANE)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+        "has_api": true,
+        "file_path": "countries/south-america/colombia/colombia-dane.json",
         "geographic_scope": "national"
       },
       {
@@ -21863,6 +22019,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "greece-elstat",
+        "name": {
+          "en": "Hellenic Statistical Authority (ELSTAT)",
+          "zh": "希腊统计局",
+          "native": "Ελληνική Στατιστική Αρχή (ΕΛΣΤΑΤ)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistics.gr/en/statistics",
+        "has_api": false,
+        "file_path": "countries/europe/greece/greece-elstat.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "ireland-cso",
         "name": {
           "en": "Central Statistics Office (CSO)",
@@ -22080,6 +22249,19 @@
         "data_url": "https://www.ibge.gov.br/en/indicators",
         "has_api": true,
         "file_path": "countries/south-america/brazil-ibge.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "colombia-dane",
+        "name": {
+          "en": "National Administrative Department of Statistics (DANE)",
+          "zh": "哥伦比亚国家统计局",
+          "native": "Departamento Administrativo Nacional de Estadística (DANE)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+        "has_api": true,
+        "file_path": "countries/south-america/colombia/colombia-dane.json",
         "geographic_scope": "national"
       },
       {

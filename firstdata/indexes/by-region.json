@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-25T02:07:10.276295+00:00",
-    "total_regions": 43,
-    "total_sources": 298,
+    "generated_at": "2026-03-25T02:07:45.434384+00:00",
+    "total_regions": 45,
+    "total_sources": 300,
     "version": "2.0"
   },
   "regions": {
@@ -1120,6 +1120,21 @@
         "geographic_scope": "national"
       }
     ],
+    "CO": [
+      {
+        "id": "colombia-dane",
+        "name": {
+          "en": "National Administrative Department of Statistics (DANE)",
+          "zh": "哥伦比亚国家统计局",
+          "native": "Departamento Administrativo Nacional de Estadística (DANE)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
+        "has_api": true,
+        "file_path": "countries/south-america/colombia/colombia-dane.json",
+        "geographic_scope": "national"
+      }
+    ],
     "CZ": [
       {
         "id": "czechia-czso",
@@ -1293,6 +1308,21 @@
         "data_url": "https://www.ons.gov.uk/economy/inflationandpriceindices",
         "has_api": false,
         "file_path": "countries/europe/uk-ons-cpi-rpi.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "GR": [
+      {
+        "id": "greece-elstat",
+        "name": {
+          "en": "Hellenic Statistical Authority (ELSTAT)",
+          "zh": "希腊统计局",
+          "native": "Ελληνική Στατιστική Αρχή (ΕΛΣΤΑΤ)"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.statistics.gr/en/statistics",
+        "has_api": false,
+        "file_path": "countries/europe/greece/greece-elstat.json",
         "geographic_scope": "national"
       }
     ],
