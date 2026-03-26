@@ -2,8 +2,7 @@
   "id": "slovenia-surs",
   "name": {
     "en": "Statistical Office of the Republic of Slovenia (SURS)",
-    "zh": "斯洛文尼亚共和国统计局",
-    "native": "Statistični urad Republike Slovenije (SURS)"
+    "zh": "斯洛文尼亚共和国统计局"
   },
   "description": {
     "en": "The Statistical Office of the Republic of Slovenia (SURS) is the official national statistical authority of Slovenia, responsible for the collection, processing, and publication of official statistics covering the Slovenian economy, society, population, and environment. SURS produces data in compliance with Eurostat and European Statistical System standards, providing open access through its SiStat database.",
@@ -27,11 +26,34 @@
   "geographic_scope": "national",
   "update_frequency": "monthly",
   "tags": [
-    "slovenia", "SURS", "statisticni urad", "sistat", "slovenian statistics",
-    "population census", "GDP", "national accounts", "CPI", "inflation", "labour market",
-    "foreign trade", "environment", "industry", "eurostat", "EU statistics", "pxweb",
-    "斯洛文尼亚", "斯洛文尼亚统计局", "国家统计局", "人口普查", "经济统计",
-    "GDP", "消费价格", "就业", "贸易", "环境", "欧盟"
+    "slovenia",
+    "SURS",
+    "statisticni urad",
+    "sistat",
+    "slovenian statistics",
+    "population census",
+    "GDP",
+    "national accounts",
+    "CPI",
+    "inflation",
+    "labour market",
+    "foreign trade",
+    "environment",
+    "industry",
+    "eurostat",
+    "EU statistics",
+    "pxweb",
+    "斯洛文尼亚",
+    "斯洛文尼亚统计局",
+    "国家统计局",
+    "人口普查",
+    "经济统计",
+    "GDP",
+    "消费价格",
+    "就业",
+    "贸易",
+    "环境",
+    "欧盟"
   ],
   "data_content": {
     "en": [
