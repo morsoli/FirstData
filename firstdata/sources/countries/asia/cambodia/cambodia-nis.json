@@ -1,0 +1,63 @@
+{
+  "id": "cambodia-nis",
+  "name": {
+    "en": "National Institute of Statistics of Cambodia (NIS)",
+    "zh": "柬埔寨国家统计局",
+    "native": "វិទ្យាស្ថានជាតិស្ថិតិ"
+  },
+  "description": {
+    "en": "The National Institute of Statistics (NIS) is the principal government agency responsible for official statistics in Cambodia, operating under the Ministry of Planning. It conducts the national population census, socio-economic surveys, and publishes key economic and social indicators including GDP, CPI, trade, and demographic data.",
+    "zh": "柬埔寨国家统计局（NIS）是隶属于计划部的负责官方统计的主要政府机构。开展全国人口普查、社会经济调查，发布GDP、CPI、贸易和人口等关键经济社会指标。"
+  },
+  "website": "https://www.nis.gov.kh/",
+  "data_url": "https://www.nis.gov.kh/index.php/km/2-uncategorised/39-cameroon-dhs-and-other-surveys",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "KH",
+  "domains": [
+    "statistics",
+    "economics",
+    "demographics",
+    "social"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "annual",
+  "tags": [
+    "Cambodia",
+    "柬埔寨",
+    "NIS",
+    "statistics",
+    "统计局",
+    "population census",
+    "人口普查",
+    "GDP",
+    "CPI",
+    "socio-economic survey",
+    "ASEAN",
+    "东盟",
+    "Southeast Asia",
+    "东南亚"
+  ],
+  "data_content": {
+    "en": [
+      "National population census data",
+      "GDP and national accounts statistics",
+      "Consumer Price Index (CPI) and inflation",
+      "Cambodia Socio-Economic Survey (CSES) results",
+      "Foreign trade statistics",
+      "Labor force and employment surveys",
+      "Agricultural census and crop statistics",
+      "Cambodia Demographic and Health Survey (CDHS)"
+    ],
+    "zh": [
+      "全国人口普查数据",
+      "GDP和国民账户统计",
+      "消费者价格指数（CPI）和通胀",
+      "柬埔寨社会经济调查（CSES）结果",
+      "对外贸易统计",
+      "劳动力和就业调查",
+      "农业普查和作物统计",
+      "柬埔寨人口与健康调查（CDHS）"
+    ]
+  }
+}

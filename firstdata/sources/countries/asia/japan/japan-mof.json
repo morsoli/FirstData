@@ -1,0 +1,59 @@
+{
+  "id": "japan-mof",
+  "name": {
+    "en": "Ministry of Finance Japan",
+    "zh": "日本财务省",
+    "native": "財務省"
+  },
+  "description": {
+    "en": "The Ministry of Finance (MOF) of Japan is responsible for fiscal policy, taxation, customs, and government debt management. It publishes detailed trade statistics, government bond data, budget and fiscal reports, and international financial cooperation data. MOF's Trade Statistics of Japan provides monthly and annual import/export data by commodity and country.",
+    "zh": "日本财务省负责财政政策、税收、关税和政府债务管理。发布详细的贸易统计数据、国债数据、预算和财政报告以及国际金融合作数据。财务省的贸易统计提供按商品和国家分类的月度和年度进出口数据。"
+  },
+  "website": "https://www.mof.go.jp/english/",
+  "data_url": "https://www.customs.go.jp/toukei/info/index_e.htm",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "JP",
+  "domains": [
+    "trade",
+    "finance",
+    "fiscal-policy",
+    "taxation"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": [
+    "Japan",
+    "日本",
+    "财务省",
+    "Ministry of Finance",
+    "MOF",
+    "trade statistics",
+    "贸易统计",
+    "government bonds",
+    "国債",
+    "fiscal policy",
+    "税収",
+    "customs",
+    "関税",
+    "import",
+    "export",
+    "輸出入"
+  ],
+  "data_content": {
+    "en": [
+      "Trade Statistics of Japan: monthly/annual import and export data by commodity and country",
+      "Government bond issuance, outstanding amounts, and auction results",
+      "Budget and fiscal investment/loan program data",
+      "Tax revenue statistics and tax system information",
+      "International financial cooperation and exchange rate policy"
+    ],
+    "zh": [
+      "日本贸易统计：按商品和国家分类的月度/年度进出口数据",
+      "国债发行、余额和拍卖结果",
+      "预算和财政投融资计划数据",
+      "税收收入统计和税制信息",
+      "国际金融合作与汇率政策"
+    ]
+  }
+}

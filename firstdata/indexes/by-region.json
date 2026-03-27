@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-26T01:09:53.494718+00:00",
-    "total_regions": 46,
-    "total_sources": 301,
+    "generated_at": "2026-03-27T02:08:04.098375+00:00",
+    "total_regions": 50,
+    "total_sources": 307,
     "version": "2.0"
   },
   "regions": {
@@ -84,6 +84,21 @@
         "data_url": "https://statbel.fgov.be/en/open-data",
         "has_api": false,
         "file_path": "countries/europe/belgium/belgium-statbel.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "BN": [
+      {
+        "id": "brunei-deps",
+        "name": {
+          "en": "Department of Economic Planning and Statistics, Brunei (DEPS)",
+          "zh": "文莱经济规划与统计局",
+          "native": "Jabatan Perancangan dan Kemajuan Ekonomi"
+        },
+        "authority_level": "government",
+        "data_url": "https://deps.mofe.gov.bn/SitePages/Statistics.aspx",
+        "has_api": false,
+        "file_path": "countries/asia/brunei/brunei-deps.json",
         "geographic_scope": "national"
       }
     ],
@@ -1551,6 +1566,19 @@
         "geographic_scope": "national"
       },
       {
+        "id": "japan-mof",
+        "name": {
+          "en": "Ministry of Finance Japan",
+          "zh": "日本财务省",
+          "native": "財務省"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.customs.go.jp/toukei/info/index_e.htm",
+        "has_api": false,
+        "file_path": "countries/asia/japan/japan-mof.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "japan-customs",
         "name": {
           "en": "Japan Customs Trade Statistics",
@@ -1561,6 +1589,21 @@
         "data_url": "https://www.customs.go.jp/toukei/info/index_e.htm",
         "has_api": true,
         "file_path": "japan/trade/japan-customs.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "KH": [
+      {
+        "id": "cambodia-nis",
+        "name": {
+          "en": "National Institute of Statistics of Cambodia (NIS)",
+          "zh": "柬埔寨国家统计局",
+          "native": "វិទ្យាស្ថានជាតិស្ថិតិ"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nis.gov.kh/index.php/km/2-uncategorised/39-cameroon-dhs-and-other-surveys",
+        "has_api": false,
+        "file_path": "countries/asia/cambodia/cambodia-nis.json",
         "geographic_scope": "national"
       }
     ],
@@ -1613,6 +1656,21 @@
         "data_url": "https://kosis.kr/eng/",
         "has_api": true,
         "file_path": "countries/asia/south-korea/korea-kostat.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "LA": [
+      {
+        "id": "laos-lsb",
+        "name": {
+          "en": "Lao Statistics Bureau (LSB)",
+          "zh": "老挝统计局",
+          "native": "ສູນສະຖິຕິແຫ່ງຊາດ"
+        },
+        "authority_level": "government",
+        "data_url": "https://laosis.lsb.gov.la/",
+        "has_api": false,
+        "file_path": "countries/asia/laos/laos-lsb.json",
         "geographic_scope": "national"
       }
     ],
@@ -1780,6 +1838,34 @@
         "data_url": "https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_base_dados",
         "has_api": true,
         "file_path": "countries/europe/portugal/portugal-ine.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "RO": [
+      {
+        "id": "romania-bnr",
+        "name": {
+          "en": "National Bank of Romania (BNR)",
+          "zh": "罗马尼亚国家银行",
+          "native": "Banca Națională a României"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.bnr.ro/Statistics-702.aspx",
+        "has_api": true,
+        "file_path": "countries/europe/romania/romania-bnr.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "romania-insse",
+        "name": {
+          "en": "National Institute of Statistics of Romania (INSSE)",
+          "zh": "罗马尼亚国家统计局",
+          "native": "Institutul Național de Statistică"
+        },
+        "authority_level": "government",
+        "data_url": "http://statistici.insse.ro:8077/tempo-online/",
+        "has_api": false,
+        "file_path": "countries/europe/romania/romania-insse.json",
         "geographic_scope": "national"
       }
     ],

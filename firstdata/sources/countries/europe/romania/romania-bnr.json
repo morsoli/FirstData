@@ -1,0 +1,65 @@
+{
+  "id": "romania-bnr",
+  "name": {
+    "en": "National Bank of Romania (BNR)",
+    "zh": "罗马尼亚国家银行",
+    "native": "Banca Națională a României"
+  },
+  "description": {
+    "en": "The National Bank of Romania (BNR) is the central bank of Romania, responsible for monetary policy, financial stability, and banking supervision. It publishes comprehensive monetary, financial, and balance of payments statistics, including exchange rates, interest rates, money supply data, and financial system indicators through its interactive statistical database.",
+    "zh": "罗马尼亚国家银行（BNR）是罗马尼亚的中央银行，负责货币政策、金融稳定和银行监管。通过交互式统计数据库发布全面的货币、金融和国际收支统计数据，包括汇率、利率、货币供应数据和金融系统指标。"
+  },
+  "website": "https://www.bnr.ro/Home.aspx",
+  "data_url": "https://www.bnr.ro/Statistics-702.aspx",
+  "api_url": "https://www.bnr.ro/Web-services-702.aspx",
+  "authority_level": "government",
+  "country": "RO",
+  "domains": [
+    "finance",
+    "monetary-policy",
+    "banking",
+    "economics"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "monthly",
+  "tags": [
+    "Romania",
+    "罗马尼亚",
+    "BNR",
+    "central bank",
+    "中央银行",
+    "monetary policy",
+    "货币政策",
+    "exchange rate",
+    "汇率",
+    "interest rate",
+    "利率",
+    "banking",
+    "financial stability",
+    "balance of payments",
+    "Eastern Europe",
+    "EU member"
+  ],
+  "data_content": {
+    "en": [
+      "Exchange rates (daily, historical)",
+      "Monetary policy interest rates and decisions",
+      "Money supply and monetary aggregates",
+      "Banking system financial soundness indicators",
+      "Balance of payments and external debt statistics",
+      "Financial accounts and flow of funds",
+      "Credit and deposit statistics",
+      "Inflation reports and forecasts"
+    ],
+    "zh": [
+      "汇率数据（每日、历史）",
+      "货币政策利率和决策",
+      "货币供应量和货币总量",
+      "银行系统金融稳健性指标",
+      "国际收支和外债统计",
+      "金融账户和资金流量",
+      "信贷和存款统计",
+      "通胀报告和预测"
+    ]
+  }
+}
