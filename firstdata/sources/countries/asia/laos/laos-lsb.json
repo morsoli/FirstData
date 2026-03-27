@@ -1,0 +1,63 @@
+{
+  "id": "laos-lsb",
+  "name": {
+    "en": "Lao Statistics Bureau (LSB)",
+    "zh": "老挝统计局"
+  },
+  "description": {
+    "en": "The Lao Statistics Bureau (LSB) is the national statistical office of the Lao People's Democratic Republic, operating under the Ministry of Planning and Investment. It is responsible for collecting, compiling, and disseminating official statistics on the country's economic and social development, including national accounts, population, poverty, trade, and sectoral data.",
+    "zh": "老挝统计局（LSB）是老挝人民民主共和国的国家统计机构，隶属于计划与投资部。负责收集、编制和发布关于国家经济社会发展的官方统计数据，包括国民账户、人口、贫困、贸易和部门数据。"
+  },
+  "website": "https://www.lsb.gov.la/",
+  "data_url": "https://laosis.lsb.gov.la/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "LA",
+  "domains": [
+    "economics",
+    "demographics",
+    "social"
+  ],
+  "geographic_scope": "national",
+  "update_frequency": "annual",
+  "tags": [
+    "Laos",
+    "老挝",
+    "LSB",
+    "statistics",
+    "统计局",
+    "LAOSIS",
+    "GDP",
+    "population",
+    "人口",
+    "poverty",
+    "贫困",
+    "ASEAN",
+    "东盟",
+    "Southeast Asia",
+    "东南亚",
+    "Lao PDR"
+  ],
+  "data_content": {
+    "en": [
+      "National accounts and GDP statistics",
+      "Population and Housing Census data",
+      "Lao Expenditure and Consumption Survey (LECS)",
+      "Consumer Price Index (CPI)",
+      "Foreign trade statistics",
+      "Agriculture and forestry statistics",
+      "Education and health indicators",
+      "Provincial and district-level socio-economic data"
+    ],
+    "zh": [
+      "国民账户和GDP统计",
+      "人口与住房普查数据",
+      "老挝支出和消费调查（LECS）",
+      "消费者价格指数（CPI）",
+      "对外贸易统计",
+      "农业和林业统计",
+      "教育和卫生指标",
+      "省级和县级社会经济数据"
+    ]
+  }
+}

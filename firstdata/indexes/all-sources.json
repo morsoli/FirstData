@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-27T02:18:28.842108+00:00",
-    "total_sources": 305,
+    "generated_at": "2026-03-27T02:22:44.457536+00:00",
+    "total_sources": 310,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -5791,6 +5791,134 @@
       "file_path": "countries/africa/south-africa/stats-sa.json"
     },
     {
+      "id": "brunei-deps",
+      "name": {
+        "en": "Department of Economic Planning and Statistics, Brunei (DEPS)",
+        "zh": "文莱经济规划与统计局"
+      },
+      "description": {
+        "en": "The Department of Economic Planning and Statistics (DEPS) is the national statistical office of Brunei Darussalam, operating under the Prime Minister's Office. It produces and disseminates official statistics on national accounts, population, trade, labor, prices, and other economic and social indicators, supporting government planning and public information needs.",
+        "zh": "文莱经济规划与统计局（DEPS）是文莱达鲁萨兰国的国家统计机构，隶属于首相府。负责编制和发布关于国民账户、人口、贸易、劳动力、物价和其他经济社会指标的官方统计数据。"
+      },
+      "website": "https://deps.mofe.gov.bn/",
+      "data_url": "https://deps.mofe.gov.bn/SitePages/Statistics.aspx",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "BN",
+      "domains": [
+        "economics",
+        "demographics",
+        "trade"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "annual",
+      "tags": [
+        "Brunei",
+        "文莱",
+        "DEPS",
+        "statistics",
+        "统计局",
+        "GDP",
+        "population",
+        "人口",
+        "trade",
+        "贸易",
+        "oil and gas",
+        "石油天然气",
+        "ASEAN",
+        "东盟",
+        "Southeast Asia",
+        "东南亚"
+      ],
+      "data_content": {
+        "en": [
+          "National accounts and GDP statistics",
+          "Population and demographic data",
+          "Consumer Price Index (CPI) and inflation",
+          "International merchandise trade statistics",
+          "Labor force survey results",
+          "Oil and gas production statistics",
+          "Government finance statistics",
+          "Key economic indicators dashboard"
+        ],
+        "zh": [
+          "国民账户和GDP统计",
+          "人口和人口统计数据",
+          "消费者价格指数（CPI）和通胀",
+          "国际商品贸易统计",
+          "劳动力调查结果",
+          "石油和天然气生产统计",
+          "政府财政统计",
+          "关键经济指标看板"
+        ]
+      },
+      "has_api": false,
+      "file_path": "countries/asia/brunei/brunei-deps.json"
+    },
+    {
+      "id": "cambodia-nis",
+      "name": {
+        "en": "National Institute of Statistics of Cambodia (NIS)",
+        "zh": "柬埔寨国家统计局"
+      },
+      "description": {
+        "en": "The National Institute of Statistics (NIS) is the principal government agency responsible for official statistics in Cambodia, operating under the Ministry of Planning. It conducts the national population census, socio-economic surveys, and publishes key economic and social indicators including GDP, CPI, trade, and demographic data.",
+        "zh": "柬埔寨国家统计局（NIS）是隶属于计划部的负责官方统计的主要政府机构。开展全国人口普查、社会经济调查，发布GDP、CPI、贸易和人口等关键经济社会指标。"
+      },
+      "website": "https://www.nis.gov.kh/",
+      "data_url": "https://camstat.nis.gov.kh/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "KH",
+      "domains": [
+        "economics",
+        "demographics",
+        "social"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "annual",
+      "tags": [
+        "Cambodia",
+        "柬埔寨",
+        "NIS",
+        "statistics",
+        "统计局",
+        "population census",
+        "人口普查",
+        "GDP",
+        "CPI",
+        "socio-economic survey",
+        "ASEAN",
+        "东盟",
+        "Southeast Asia",
+        "东南亚"
+      ],
+      "data_content": {
+        "en": [
+          "National population census data",
+          "GDP and national accounts statistics",
+          "Consumer Price Index (CPI) and inflation",
+          "Cambodia Socio-Economic Survey (CSES) results",
+          "Foreign trade statistics",
+          "Labor force and employment surveys",
+          "Agricultural census and crop statistics",
+          "Cambodia Demographic and Health Survey (CDHS)"
+        ],
+        "zh": [
+          "全国人口普查数据",
+          "GDP和国民账户统计",
+          "消费者价格指数（CPI）和通胀",
+          "柬埔寨社会经济调查（CSES）结果",
+          "对外贸易统计",
+          "劳动力和就业调查",
+          "农业普查和作物统计",
+          "柬埔寨人口与健康调查（CDHS）"
+        ]
+      },
+      "has_api": false,
+      "file_path": "countries/asia/cambodia/cambodia-nis.json"
+    },
+    {
       "id": "dosm",
       "name": {
         "en": "Department of Statistics Malaysia",
@@ -6835,6 +6963,66 @@
       "file_path": "countries/asia/japan/japan-meti.json"
     },
     {
+      "id": "japan-mof",
+      "name": {
+        "en": "Ministry of Finance Japan",
+        "zh": "日本财务省"
+      },
+      "description": {
+        "en": "The Ministry of Finance (MOF) of Japan is responsible for fiscal policy, taxation, customs, and government debt management. It publishes detailed trade statistics, government bond data, budget and fiscal reports, and international financial cooperation data. MOF's Trade Statistics of Japan provides monthly and annual import/export data by commodity and country.",
+        "zh": "日本财务省负责财政政策、税收、关税和政府债务管理。发布详细的贸易统计数据、国债数据、预算和财政报告以及国际金融合作数据。财务省的贸易统计提供按商品和国家分类的月度和年度进出口数据。"
+      },
+      "website": "https://www.mof.go.jp/english/",
+      "data_url": "https://www.customs.go.jp/toukei/info/index_e.htm",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "JP",
+      "domains": [
+        "trade",
+        "finance",
+        "fiscal-policy",
+        "taxation"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "Japan",
+        "日本",
+        "财务省",
+        "Ministry of Finance",
+        "MOF",
+        "trade statistics",
+        "贸易统计",
+        "government bonds",
+        "国債",
+        "fiscal policy",
+        "税収",
+        "customs",
+        "関税",
+        "import",
+        "export",
+        "輸出入"
+      ],
+      "data_content": {
+        "en": [
+          "Trade Statistics of Japan: monthly/annual import and export data by commodity and country",
+          "Government bond issuance, outstanding amounts, and auction results",
+          "Budget and fiscal investment/loan program data",
+          "Tax revenue statistics and tax system information",
+          "International financial cooperation and exchange rate policy"
+        ],
+        "zh": [
+          "日本贸易统计：按商品和国家分类的月度/年度进出口数据",
+          "国债发行、余额和拍卖结果",
+          "预算和财政投融资计划数据",
+          "税收收入统计和税制信息",
+          "国际金融合作与汇率政策"
+        ]
+      },
+      "has_api": false,
+      "file_path": "countries/asia/japan/japan-mof.json"
+    },
+    {
       "id": "korea-bok",
       "name": {
         "en": "Bank of Korea",
@@ -7078,6 +7266,71 @@
       ],
       "has_api": true,
       "file_path": "countries/asia/kostat.json"
+    },
+    {
+      "id": "laos-lsb",
+      "name": {
+        "en": "Lao Statistics Bureau (LSB)",
+        "zh": "老挝统计局"
+      },
+      "description": {
+        "en": "The Lao Statistics Bureau (LSB) is the national statistical office of the Lao People's Democratic Republic, operating under the Ministry of Planning and Investment. It is responsible for collecting, compiling, and disseminating official statistics on the country's economic and social development, including national accounts, population, poverty, trade, and sectoral data.",
+        "zh": "老挝统计局（LSB）是老挝人民民主共和国的国家统计机构，隶属于计划与投资部。负责收集、编制和发布关于国家经济社会发展的官方统计数据，包括国民账户、人口、贫困、贸易和部门数据。"
+      },
+      "website": "https://www.lsb.gov.la/",
+      "data_url": "https://laosis.lsb.gov.la/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "LA",
+      "domains": [
+        "economics",
+        "demographics",
+        "social"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "annual",
+      "tags": [
+        "Laos",
+        "老挝",
+        "LSB",
+        "statistics",
+        "统计局",
+        "LAOSIS",
+        "GDP",
+        "population",
+        "人口",
+        "poverty",
+        "贫困",
+        "ASEAN",
+        "东盟",
+        "Southeast Asia",
+        "东南亚",
+        "Lao PDR"
+      ],
+      "data_content": {
+        "en": [
+          "National accounts and GDP statistics",
+          "Population and Housing Census data",
+          "Lao Expenditure and Consumption Survey (LECS)",
+          "Consumer Price Index (CPI)",
+          "Foreign trade statistics",
+          "Agriculture and forestry statistics",
+          "Education and health indicators",
+          "Provincial and district-level socio-economic data"
+        ],
+        "zh": [
+          "国民账户和GDP统计",
+          "人口与住房普查数据",
+          "老挝支出和消费调查（LECS）",
+          "消费者价格指数（CPI）",
+          "对外贸易统计",
+          "农业和林业统计",
+          "教育和卫生指标",
+          "省级和县级社会经济数据"
+        ]
+      },
+      "has_api": false,
+      "file_path": "countries/asia/laos/laos-lsb.json"
     },
     {
       "id": "malaysia-dosm",
@@ -9443,6 +9696,72 @@
       ],
       "has_api": true,
       "file_path": "countries/europe/portugal/portugal-ine.json"
+    },
+    {
+      "id": "romania-bnr",
+      "name": {
+        "en": "National Bank of Romania (BNR)",
+        "zh": "罗马尼亚国家银行"
+      },
+      "description": {
+        "en": "The National Bank of Romania (BNR) is the central bank of Romania, responsible for monetary policy, financial stability, and banking supervision. It publishes comprehensive monetary, financial, and balance of payments statistics, including exchange rates, interest rates, money supply data, and financial system indicators through its interactive statistical database.",
+        "zh": "罗马尼亚国家银行（BNR）是罗马尼亚的中央银行，负责货币政策、金融稳定和银行监管。通过交互式统计数据库发布全面的货币、金融和国际收支统计数据，包括汇率、利率、货币供应数据和金融系统指标。"
+      },
+      "website": "https://www.bnr.ro/Home.aspx",
+      "data_url": "https://www.bnr.ro/Statistics-702.aspx",
+      "api_url": "https://www.bnr.ro/Web-services-702.aspx",
+      "authority_level": "government",
+      "country": "RO",
+      "domains": [
+        "finance",
+        "monetary-policy",
+        "banking",
+        "economics"
+      ],
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "tags": [
+        "Romania",
+        "罗马尼亚",
+        "BNR",
+        "central bank",
+        "中央银行",
+        "monetary policy",
+        "货币政策",
+        "exchange rate",
+        "汇率",
+        "interest rate",
+        "利率",
+        "banking",
+        "financial stability",
+        "balance of payments",
+        "Eastern Europe",
+        "EU member"
+      ],
+      "data_content": {
+        "en": [
+          "Exchange rates (daily, historical)",
+          "Monetary policy interest rates and decisions",
+          "Money supply and monetary aggregates",
+          "Banking system financial soundness indicators",
+          "Balance of payments and external debt statistics",
+          "Financial accounts and flow of funds",
+          "Credit and deposit statistics",
+          "Inflation reports and forecasts"
+        ],
+        "zh": [
+          "汇率数据（每日、历史）",
+          "货币政策利率和决策",
+          "货币供应量和货币总量",
+          "银行系统金融稳健性指标",
+          "国际收支和外债统计",
+          "金融账户和资金流量",
+          "信贷和存款统计",
+          "通胀报告和预测"
+        ]
+      },
+      "has_api": true,
+      "file_path": "countries/europe/romania/romania-bnr.json"
     },
     {
       "id": "romania-ins",
