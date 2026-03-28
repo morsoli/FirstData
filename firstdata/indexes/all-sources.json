@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-27T20:26:01.018895+00:00",
-    "total_sources": 311,
+    "generated_at": "2026-03-28T02:08:01.558300+00:00",
+    "total_sources": 313,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -8811,6 +8811,97 @@
       "file_path": "countries/europe/belgium/belgium-statbel.json"
     },
     {
+      "id": "bulgaria-nsi",
+      "name": {
+        "en": "National Statistical Institute of Bulgaria (NSI)",
+        "zh": "保加利亚国家统计局"
+      },
+      "description": {
+        "en": "The National Statistical Institute (NSI / Национален статистически институт, НСИ) is the official national statistical authority of Bulgaria, responsible for the collection, processing, and publication of official statistics on the Bulgarian economy, population, and society. NSI produces data harmonized with Eurostat and EU standards, covering GDP, population census, consumer prices, employment, trade, and social statistics.",
+        "zh": "保加利亚国家统计局（NSI / Национален статистически институт，НСИ）是保加利亚官方国家统计机构，负责收集、处理和发布有关保加利亚经济、人口和社会的官方统计数据。NSI生产与欧盟统计局（Eurostat）标准协调的数据，涵盖GDP、人口普查、消费价格、就业、贸易和社会统计。"
+      },
+      "website": "https://www.nsi.bg",
+      "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "BG",
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "domains": [
+        "economics",
+        "demographics",
+        "employment",
+        "trade",
+        "prices",
+        "social",
+        "agriculture",
+        "industry",
+        "environment"
+      ],
+      "tags": [
+        "bulgaria",
+        "NSI",
+        "НСИ",
+        "national statistical institute",
+        "balkan",
+        "eastern-europe",
+        "eu-member",
+        "eurostat-harmonized",
+        "population census",
+        "GDP",
+        "national accounts",
+        "CPI",
+        "inflation",
+        "employment",
+        "foreign trade",
+        "official-statistics",
+        "保加利亚",
+        "保加利亚统计局",
+        "国家统计",
+        "人口普查",
+        "经济统计",
+        "GDP",
+        "消费价格",
+        "就业",
+        "贸易",
+        "欧盟"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and national accounts by sector and expenditure",
+          "Population census and demographic projections",
+          "Consumer price index and harmonized inflation (HICP)",
+          "Labour force survey - employment, unemployment, and wages",
+          "Foreign trade statistics by commodity and partner country",
+          "Industrial production index and manufacturing statistics",
+          "Agricultural production, livestock, and land use",
+          "Business and enterprise statistics",
+          "Regional statistics at NUTS 2 and NUTS 3 level",
+          "Tourism and hospitality statistics",
+          "Social protection and poverty statistics",
+          "Education and research & development indicators",
+          "Environment and energy statistics"
+        ],
+        "zh": [
+          "按行业和支出GDP与国民账户",
+          "人口普查与人口预测",
+          "消费者价格指数和欧盟协调通胀率（HICP）",
+          "劳动力调查 - 就业、失业率和工资",
+          "按商品和伙伴国分类的对外贸易统计",
+          "工业生产指数和制造业统计",
+          "农业生产、牲畜和土地利用",
+          "企业与工商统计",
+          "NUTS 2和NUTS 3级别的区域统计",
+          "旅游和酒店业统计",
+          "社会保障和贫困统计",
+          "教育与研发指标",
+          "环境与能源统计"
+        ]
+      },
+      "has_api": false,
+      "file_path": "countries/europe/bulgaria/bulgaria-nsi.json"
+    },
+    {
       "id": "croatia-dzs",
       "name": {
         "en": "Croatian Bureau of Statistics (DZS)",
@@ -13262,6 +13353,93 @@
       },
       "has_api": true,
       "file_path": "countries/south-america/colombia/colombia-dane.json"
+    },
+    {
+      "id": "peru-inei",
+      "name": {
+        "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+        "zh": "秘鲁国家统计和信息学研究所"
+      },
+      "description": {
+        "en": "The National Institute of Statistics and Informatics (Instituto Nacional de Estadística e Informática, INEI) is the official statistical agency of Peru, responsible for producing and disseminating official national statistics covering economic activity, population, employment, prices, trade, and social conditions. INEI conducts national censuses, household surveys, and compiles key macroeconomic indicators for Peru.",
+        "zh": "秘鲁国家统计和信息学研究所（INEI）是秘鲁官方统计机构，负责生产和发布涵盖经济活动、人口、就业、价格、贸易和社会状况的官方国家统计数据。INEI开展全国人口普查、家庭调查，并编制秘鲁主要宏观经济指标。"
+      },
+      "website": "https://www.inei.gob.pe",
+      "data_url": "https://www.inei.gob.pe/estadisticas/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "PE",
+      "geographic_scope": "national",
+      "update_frequency": "monthly",
+      "domains": [
+        "demographics",
+        "economics",
+        "employment",
+        "prices",
+        "trade",
+        "social",
+        "agriculture",
+        "industry"
+      ],
+      "tags": [
+        "peru",
+        "INEI",
+        "peru statistics",
+        "instituto nacional estadistica",
+        "population census",
+        "south-america",
+        "latin-america",
+        "GDP",
+        "national accounts",
+        "CPI",
+        "inflation",
+        "employment",
+        "household survey",
+        "poverty",
+        "秘鲁",
+        "秘鲁统计局",
+        "国家统计",
+        "人口普查",
+        "经济统计",
+        "GDP",
+        "消费价格",
+        "就业",
+        "家庭调查",
+        "贫困",
+        "拉丁美洲"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and national accounts by sector",
+          "Population census and demographic projections",
+          "Consumer price index (IPC) and inflation",
+          "National household survey (ENAHO) - poverty and living conditions",
+          "Employment and labour force survey",
+          "Foreign trade statistics by product and partner country",
+          "Industrial production and manufacturing output",
+          "Agricultural production statistics",
+          "Business and enterprise statistics",
+          "Health and education indicators",
+          "Regional and subnational statistics by department",
+          "Social and welfare statistics"
+        ],
+        "zh": [
+          "按行业GDP与国民账户",
+          "人口普查与人口预测",
+          "消费者价格指数（IPC）与通货膨胀",
+          "全国家庭调查（ENAHO）- 贫困与生活条件",
+          "就业与劳动力调查",
+          "按产品和伙伴国分类的对外贸易统计",
+          "工业生产与制造业产出",
+          "农业生产统计",
+          "企业与工商统计",
+          "卫生和教育指标",
+          "按省份的地区和次国家统计",
+          "社会和福利统计"
+        ]
+      },
+      "has_api": false,
+      "file_path": "countries/south-america/peru/peru-inei.json"
     },
     {
       "id": "usgs",

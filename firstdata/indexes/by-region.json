@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-27T20:26:01.018895+00:00",
-    "total_regions": 54,
-    "total_sources": 311,
+    "generated_at": "2026-03-28T02:08:01.558300+00:00",
+    "total_regions": 56,
+    "total_sources": 313,
     "version": "2.0"
   },
   "regions": {
@@ -84,6 +84,20 @@
         "data_url": "https://statbel.fgov.be/en/open-data",
         "has_api": false,
         "file_path": "countries/europe/belgium/belgium-statbel.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "BG": [
+      {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
         "geographic_scope": "national"
       }
     ],
@@ -1819,6 +1833,20 @@
         "data_url": "https://infoshare.stats.govt.nz",
         "has_api": false,
         "file_path": "countries/oceania/new-zealand/nz-stats.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "PE": [
+      {
+        "id": "peru-inei",
+        "name": {
+          "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+          "zh": "秘鲁国家统计和信息学研究所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.inei.gob.pe/estadisticas/",
+        "has_api": false,
+        "file_path": "countries/south-america/peru/peru-inei.json",
         "geographic_scope": "national"
       }
     ],

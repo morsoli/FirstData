@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-27T20:26:01.018895+00:00",
+    "generated_at": "2026-03-28T02:08:01.558300+00:00",
     "total_domains": 711,
-    "total_sources": 311,
+    "total_sources": 313,
     "version": "2.0"
   },
   "domains": {
@@ -448,6 +448,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "croatia-dzs",
         "name": {
           "en": "Croatian Bureau of Statistics (DZS)",
@@ -692,6 +704,18 @@
         "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
         "has_api": true,
         "file_path": "countries/south-america/colombia/colombia-dane.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "peru-inei",
+        "name": {
+          "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+          "zh": "秘鲁国家统计和信息学研究所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.inei.gob.pe/estadisticas/",
+        "has_api": false,
+        "file_path": "countries/south-america/peru/peru-inei.json",
         "geographic_scope": "national"
       },
       {
@@ -4661,6 +4685,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "croatia-dzs",
         "name": {
           "en": "Croatian Bureau of Statistics (DZS)",
@@ -5017,6 +5053,18 @@
         "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
         "has_api": true,
         "file_path": "countries/south-america/colombia/colombia-dane.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "peru-inei",
+        "name": {
+          "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+          "zh": "秘鲁国家统计和信息学研究所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.inei.gob.pe/estadisticas/",
+        "has_api": false,
+        "file_path": "countries/south-america/peru/peru-inei.json",
         "geographic_scope": "national"
       },
       {
@@ -6806,6 +6854,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "croatia-dzs",
         "name": {
           "en": "Croatian Bureau of Statistics (DZS)",
@@ -7260,6 +7320,18 @@
         "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
         "has_api": true,
         "file_path": "countries/south-america/colombia/colombia-dane.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "peru-inei",
+        "name": {
+          "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+          "zh": "秘鲁国家统计和信息学研究所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.inei.gob.pe/estadisticas/",
+        "has_api": false,
+        "file_path": "countries/south-america/peru/peru-inei.json",
         "geographic_scope": "national"
       },
       {
@@ -8624,6 +8696,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "croatia-dzs",
         "name": {
           "en": "Croatian Bureau of Statistics (DZS)",
@@ -8941,6 +9025,18 @@
         "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
         "has_api": true,
         "file_path": "countries/south-america/colombia/colombia-dane.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "peru-inei",
+        "name": {
+          "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+          "zh": "秘鲁国家统计和信息学研究所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.inei.gob.pe/estadisticas/",
+        "has_api": false,
+        "file_path": "countries/south-america/peru/peru-inei.json",
         "geographic_scope": "national"
       },
       {
@@ -9626,6 +9722,18 @@
         "data_url": "https://www.nso.gov.vn/en/statistical-data/",
         "has_api": false,
         "file_path": "countries/asia/vietnam/gso.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
         "geographic_scope": "national"
       },
       {
@@ -14519,6 +14627,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "france-insee",
         "name": {
           "en": "INSEE - National Institute of Statistics and Economic Studies",
@@ -14602,6 +14722,18 @@
         "data_url": "https://www.ibge.gov.br/en/indicators",
         "has_api": true,
         "file_path": "countries/south-america/brazil-ibge.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "peru-inei",
+        "name": {
+          "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+          "zh": "秘鲁国家统计和信息学研究所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.inei.gob.pe/estadisticas/",
+        "has_api": false,
+        "file_path": "countries/south-america/peru/peru-inei.json",
         "geographic_scope": "national"
       },
       {
@@ -19189,6 +19321,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "denmark-dst",
         "name": {
           "en": "Statistics Denmark",
@@ -19312,6 +19456,18 @@
         "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
         "has_api": true,
         "file_path": "countries/south-america/colombia/colombia-dane.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "peru-inei",
+        "name": {
+          "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+          "zh": "秘鲁国家统计和信息学研究所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.inei.gob.pe/estadisticas/",
+        "has_api": false,
+        "file_path": "countries/south-america/peru/peru-inei.json",
         "geographic_scope": "national"
       },
       {
@@ -20715,6 +20871,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "croatia-dzs",
         "name": {
           "en": "Croatian Bureau of Statistics (DZS)",
@@ -20924,6 +21092,18 @@
         "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
         "has_api": true,
         "file_path": "countries/south-america/colombia/colombia-dane.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "peru-inei",
+        "name": {
+          "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+          "zh": "秘鲁国家统计和信息学研究所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.inei.gob.pe/estadisticas/",
+        "has_api": false,
+        "file_path": "countries/south-america/peru/peru-inei.json",
         "geographic_scope": "national"
       },
       {
@@ -22604,6 +22784,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "bulgaria-nsi",
+        "name": {
+          "en": "National Statistical Institute of Bulgaria (NSI)",
+          "zh": "保加利亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsi.bg/en/content/2666/statisticsdatabases",
+        "has_api": false,
+        "file_path": "countries/europe/bulgaria/bulgaria-nsi.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "croatia-dzs",
         "name": {
           "en": "Croatian Bureau of Statistics (DZS)",
@@ -22958,6 +23150,18 @@
         "data_url": "https://www.dane.gov.co/index.php/estadisticas-por-tema",
         "has_api": true,
         "file_path": "countries/south-america/colombia/colombia-dane.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "peru-inei",
+        "name": {
+          "en": "National Institute of Statistics and Informatics of Peru (INEI)",
+          "zh": "秘鲁国家统计和信息学研究所"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.inei.gob.pe/estadisticas/",
+        "has_api": false,
+        "file_path": "countries/south-america/peru/peru-inei.json",
         "geographic_scope": "national"
       },
       {
