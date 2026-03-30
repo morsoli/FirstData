@@ -1,0 +1,58 @@
+{
+  "id": "kenya-knbs",
+  "name": {
+    "en": "Kenya National Bureau of Statistics",
+    "zh": "肯尼亚国家统计局"
+  },
+  "description": {
+    "en": "Kenya's principal agency for collecting, analyzing, and disseminating statistical data including population census, economic surveys, CPI, GDP, labor force, trade, and household surveys.",
+    "zh": "肯尼亚负责收集、分析和发布统计数据的主要机构，包括人口普查、经济调查、消费者价格指数、GDP、劳动力、贸易和住户调查。"
+  },
+  "website": "https://www.knbs.or.ke",
+  "data_url": "https://www.knbs.or.ke/publications/",
+  "api_url": null,
+  "country": "KE",
+  "geographic_scope": "national",
+  "authority_level": "government",
+  "domains": [
+    "economics",
+    "demographics",
+    "trade",
+    "agriculture",
+    "health"
+  ],
+  "update_frequency": "annual",
+  "data_content": {
+    "en": [
+      "Population and housing census",
+      "Economic survey",
+      "Consumer price index (CPI)",
+      "GDP and national accounts",
+      "Labor force statistics",
+      "Foreign trade statistics",
+      "Agricultural production",
+      "Health and demographic indicators"
+    ],
+    "zh": [
+      "人口与住房普查",
+      "经济调查",
+      "消费者价格指数",
+      "GDP与国民账户",
+      "劳动力统计",
+      "对外贸易统计",
+      "农业生产",
+      "健康与人口指标"
+    ]
+  },
+  "tags": [
+    "kenya",
+    "肯尼亚",
+    "statistics",
+    "统计局",
+    "Africa",
+    "非洲",
+    "GDP",
+    "census",
+    "CPI"
+  ]
+}

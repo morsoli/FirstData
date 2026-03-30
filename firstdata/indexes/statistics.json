@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T17:49:24.175388+00:00",
+    "generated_at": "2026-03-30T01:14:48.451037+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 313,
+    "total_sources": 315,
     "sources_with_api": 150,
-    "last_updated": "2026-03-29"
+    "last_updated": "2026-03-30"
   },
   "by_authority_level": {
     "research": 37,
     "international": 74,
-    "government": 168,
+    "government": 170,
     "other": 3,
     "market": 16,
     "commercial": 15
   },
   "by_geographic_scope": {
     "global": 100,
-    "national": 187,
+    "national": 189,
     "regional": 26
   },
   "by_update_frequency": {
@@ -27,18 +27,18 @@
     "weekly": 9,
     "quarterly": 33,
     "monthly": 99,
-    "annual": 61,
+    "annual": 63,
     "real-time": 11
   },
   "by_domain": {
-    "economics": 125,
-    "trade": 75,
-    "demographics": 72,
+    "economics": 127,
+    "trade": 77,
+    "demographics": 74,
     "environment": 55,
+    "agriculture": 51,
     "finance": 50,
-    "agriculture": 49,
     "social": 47,
-    "health": 42,
+    "health": 43,
     "employment": 42,
     "education": 40,
     "energy": 26,
