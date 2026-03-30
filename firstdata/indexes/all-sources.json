@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T17:49:24.175388+00:00",
-    "total_sources": 313,
+    "generated_at": "2026-03-30T01:14:48.451037+00:00",
+    "total_sources": 315,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -5605,6 +5605,125 @@
       "geographic_scope": "national",
       "has_api": false,
       "file_path": "countries/africa/egypt/egypt-capmas.json"
+    },
+    {
+      "id": "ghana-gss",
+      "name": {
+        "en": "Ghana Statistical Service",
+        "zh": "加纳统计局"
+      },
+      "description": {
+        "en": "Ghana's official statistical agency responsible for producing population census, GDP, CPI, labor force surveys, trade statistics, and other socioeconomic indicators.",
+        "zh": "加纳官方统计机构，负责发布人口普查、GDP、消费者价格指数、劳动力调查、贸易统计和其他社会经济指标。"
+      },
+      "website": "https://statsghana.gov.gh",
+      "data_url": "https://statsghana.gov.gh/dissemination.php",
+      "api_url": null,
+      "country": "GH",
+      "geographic_scope": "national",
+      "authority_level": "government",
+      "domains": [
+        "economics",
+        "demographics",
+        "trade",
+        "agriculture"
+      ],
+      "update_frequency": "annual",
+      "data_content": {
+        "en": [
+          "Population and housing census",
+          "GDP and national accounts",
+          "Consumer price index (CPI)",
+          "Labor force survey",
+          "Foreign trade statistics",
+          "Agricultural census",
+          "Living standards survey",
+          "Industrial statistics"
+        ],
+        "zh": [
+          "人口与住房普查",
+          "GDP与国民账户",
+          "消费者价格指数",
+          "劳动力调查",
+          "对外贸易统计",
+          "农业普查",
+          "生活水平调查",
+          "工业统计"
+        ]
+      },
+      "tags": [
+        "ghana",
+        "加纳",
+        "statistics",
+        "统计局",
+        "Africa",
+        "非洲",
+        "GDP",
+        "census",
+        "CPI"
+      ],
+      "has_api": false,
+      "file_path": "countries/africa/ghana/ghana-gss.json"
+    },
+    {
+      "id": "kenya-knbs",
+      "name": {
+        "en": "Kenya National Bureau of Statistics",
+        "zh": "肯尼亚国家统计局"
+      },
+      "description": {
+        "en": "Kenya's principal agency for collecting, analyzing, and disseminating statistical data including population census, economic surveys, CPI, GDP, labor force, trade, and household surveys.",
+        "zh": "肯尼亚负责收集、分析和发布统计数据的主要机构，包括人口普查、经济调查、消费者价格指数、GDP、劳动力、贸易和住户调查。"
+      },
+      "website": "https://www.knbs.or.ke",
+      "data_url": "https://www.knbs.or.ke/publications/",
+      "api_url": null,
+      "country": "KE",
+      "geographic_scope": "national",
+      "authority_level": "government",
+      "domains": [
+        "economics",
+        "demographics",
+        "trade",
+        "agriculture",
+        "health"
+      ],
+      "update_frequency": "annual",
+      "data_content": {
+        "en": [
+          "Population and housing census",
+          "Economic survey",
+          "Consumer price index (CPI)",
+          "GDP and national accounts",
+          "Labor force statistics",
+          "Foreign trade statistics",
+          "Agricultural production",
+          "Health and demographic indicators"
+        ],
+        "zh": [
+          "人口与住房普查",
+          "经济调查",
+          "消费者价格指数",
+          "GDP与国民账户",
+          "劳动力统计",
+          "对外贸易统计",
+          "农业生产",
+          "健康与人口指标"
+        ]
+      },
+      "tags": [
+        "kenya",
+        "肯尼亚",
+        "statistics",
+        "统计局",
+        "Africa",
+        "非洲",
+        "GDP",
+        "census",
+        "CPI"
+      ],
+      "has_api": false,
+      "file_path": "countries/africa/kenya/kenya-knbs.json"
     },
     {
       "id": "nigeria-nbs",

@@ -1,0 +1,57 @@
+{
+  "id": "ghana-gss",
+  "name": {
+    "en": "Ghana Statistical Service",
+    "zh": "加纳统计局"
+  },
+  "description": {
+    "en": "Ghana's official statistical agency responsible for producing population census, GDP, CPI, labor force surveys, trade statistics, and other socioeconomic indicators.",
+    "zh": "加纳官方统计机构，负责发布人口普查、GDP、消费者价格指数、劳动力调查、贸易统计和其他社会经济指标。"
+  },
+  "website": "https://statsghana.gov.gh",
+  "data_url": "https://statsghana.gov.gh/dissemination.php",
+  "api_url": null,
+  "country": "GH",
+  "geographic_scope": "national",
+  "authority_level": "government",
+  "domains": [
+    "economics",
+    "demographics",
+    "trade",
+    "agriculture"
+  ],
+  "update_frequency": "annual",
+  "data_content": {
+    "en": [
+      "Population and housing census",
+      "GDP and national accounts",
+      "Consumer price index (CPI)",
+      "Labor force survey",
+      "Foreign trade statistics",
+      "Agricultural census",
+      "Living standards survey",
+      "Industrial statistics"
+    ],
+    "zh": [
+      "人口与住房普查",
+      "GDP与国民账户",
+      "消费者价格指数",
+      "劳动力调查",
+      "对外贸易统计",
+      "农业普查",
+      "生活水平调查",
+      "工业统计"
+    ]
+  },
+  "tags": [
+    "ghana",
+    "加纳",
+    "statistics",
+    "统计局",
+    "Africa",
+    "非洲",
+    "GDP",
+    "census",
+    "CPI"
+  ]
+}

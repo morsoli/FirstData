@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-29T17:49:24.175388+00:00",
-    "total_regions": 56,
-    "total_sources": 313,
+    "generated_at": "2026-03-30T01:14:48.451037+00:00",
+    "total_regions": 58,
+    "total_sources": 315,
     "version": "2.0"
   },
   "regions": {
@@ -1339,6 +1339,20 @@
         "geographic_scope": "national"
       }
     ],
+    "GH": [
+      {
+        "id": "ghana-gss",
+        "name": {
+          "en": "Ghana Statistical Service",
+          "zh": "加纳统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://statsghana.gov.gh/dissemination.php",
+        "has_api": false,
+        "file_path": "countries/africa/ghana/ghana-gss.json",
+        "geographic_scope": "national"
+      }
+    ],
     "GR": [
       {
         "id": "greece-elstat",
@@ -1615,6 +1629,20 @@
         "data_url": "https://www.customs.go.jp/toukei/info/index_e.htm",
         "has_api": true,
         "file_path": "japan/trade/japan-customs.json",
+        "geographic_scope": "national"
+      }
+    ],
+    "KE": [
+      {
+        "id": "kenya-knbs",
+        "name": {
+          "en": "Kenya National Bureau of Statistics",
+          "zh": "肯尼亚国家统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.knbs.or.ke/publications/",
+        "has_api": false,
+        "file_path": "countries/africa/kenya/kenya-knbs.json",
         "geographic_scope": "national"
       }
     ],
