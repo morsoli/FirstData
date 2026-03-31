@@ -9,7 +9,7 @@
     "zh": "广东省统计局是广东省官方统计机构，广东是中国经济总量最大的省份，珠三角制造业中心所在地。统计局发布广东省GDP、工业产值、对外贸易、人口、就业、居民消费价格指数和社会消费品零售总额等全面的社会经济统计数据，并出版《广东统计年鉴》及月度/季度经济运行情况报告，是了解中国最大省级经济体的重要数据来源。"
   },
   "website": "https://stats.gd.gov.cn/",
-  "data_url": "https://stats.gd.gov.cn/tjsj/index.html",
+  "data_url": "https://stats.gd.gov.cn/tjsj186/index.html",
   "api_url": null,
   "authority_level": "government",
   "country": "CN",

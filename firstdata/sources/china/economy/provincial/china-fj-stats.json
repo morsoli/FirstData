@@ -9,7 +9,7 @@
     "zh": "福建省统计局是福建省官方统计机构，福建是中国东南沿海省份，以发达的民营经济、对台贸易和与海外华人的紧密联系而著称。统计局发布福建省经济社会发展的官方数据，涵盖GDP、工业产值、两岸贸易、外商投资、旅游业、人口和居民收入等。统计局出版《福建统计年鉴》和定期经济分析报告，反映该省独特的经济特征和政策环境。"
   },
   "website": "https://tjj.fujian.gov.cn/",
-  "data_url": "https://tjj.fujian.gov.cn/xxgk/tjsj/",
+  "data_url": "https://tjj.fujian.gov.cn/xxgk/tjxx/",
   "api_url": null,
   "authority_level": "government",
   "country": "CN",
