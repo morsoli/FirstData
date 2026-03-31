@@ -1,0 +1,66 @@
+{
+  "id": "china-gd-stats",
+  "name": {
+    "en": "Guangdong Bureau of Statistics",
+    "zh": "广东省统计局"
+  },
+  "description": {
+    "en": "The Guangdong Bureau of Statistics is the official statistical authority for Guangdong Province, China's most economically productive province and home to the Pearl River Delta manufacturing hub. It publishes comprehensive socioeconomic statistics including GDP, industrial output, trade, population, employment, consumer prices, and retail sales for Guangdong. The bureau also releases the Guangdong Statistical Yearbook and monthly/quarterly economic bulletins, making it a critical source for understanding China's leading provincial economy.",
+    "zh": "广东省统计局是广东省官方统计机构，广东是中国经济总量最大的省份，珠三角制造业中心所在地。统计局发布广东省GDP、工业产值、对外贸易、人口、就业、居民消费价格指数和社会消费品零售总额等全面的社会经济统计数据，并出版《广东统计年鉴》及月度/季度经济运行情况报告，是了解中国最大省级经济体的重要数据来源。"
+  },
+  "website": "https://stats.gd.gov.cn/",
+  "data_url": "https://stats.gd.gov.cn/tjsj186/index.html",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "social",
+    "trade"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "广东统计",
+    "Guangdong statistics",
+    "广东GDP",
+    "Guangdong GDP",
+    "珠三角",
+    "Pearl River Delta",
+    "省级统计",
+    "provincial statistics",
+    "工业产值",
+    "industrial output",
+    "对外贸易",
+    "foreign trade",
+    "人口普查",
+    "population census",
+    "居民收入",
+    "household income",
+    "统计年鉴",
+    "statistical yearbook"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: quarterly and annual GDP data by industry sector for Guangdong Province",
+      "Industrial production: output value by industry, major products output, industrial enterprise performance",
+      "Foreign trade: import and export value by commodity, trading partner, and prefecture-level city",
+      "Population statistics: census data, household registration, birth and death rates, urbanization",
+      "Employment and wages: employed persons, unemployment rate, average wages by sector and region",
+      "Consumer prices: CPI, PPI, housing price indices for Guangdong and its major cities",
+      "Social development: education enrollment, healthcare resources, social security coverage",
+      "Guangdong Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+    ],
+    "zh": [
+      "GDP与经济增长：广东省季度和年度GDP数据，按产业分类",
+      "工业生产：各行业工业产值、主要产品产量、工业企业经营情况",
+      "对外贸易：按商品类别、贸易伙伴和地级市分类的进出口数据",
+      "人口统计：人口普查数据、户籍人口、出生率和死亡率、城镇化率",
+      "就业与工资：从业人员数、失业率、各行业和地区平均工资",
+      "消费价格：广东省及主要城市的居民消费价格指数、工业品出厂价格、房价指数",
+      "社会发展：教育招生情况、医疗卫生资源、社会保障覆盖率",
+      "广东统计年鉴：全省各类统计数据的综合年度汇编"
+    ]
+  }
+}
