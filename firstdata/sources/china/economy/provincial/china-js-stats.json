@@ -1,0 +1,66 @@
+{
+  "id": "china-js-stats",
+  "name": {
+    "en": "Jiangsu Bureau of Statistics",
+    "zh": "江苏省统计局"
+  },
+  "description": {
+    "en": "The Jiangsu Bureau of Statistics is the official statistical agency for Jiangsu Province, China's second-largest provincial economy by GDP and a key manufacturing, technology, and export hub in the Yangtze River Delta region. It publishes authoritative statistics on Jiangsu's economic performance, including GDP, industrial output, fixed asset investment, retail consumption, foreign direct investment, rural and urban household income, and demographic indicators. The Jiangsu Statistical Yearbook and regular economic bulletins provide comprehensive coverage of one of China's wealthiest and most dynamic provinces.",
+    "zh": "江苏省统计局是江苏省官方统计机构，江苏是中国GDP总量第二大省份，是长三角地区重要的制造业、科技和出口基地。统计局发布江苏经济运行权威数据，涵盖GDP、工业产值、固定资产投资、社会消费品零售总额、外商直接投资、城乡居民收入及人口指标。《江苏统计年鉴》和定期经济运行公报全面展示了中国最富裕、最具活力省份之一的发展情况。"
+  },
+  "website": "https://tj.jiangsu.gov.cn/",
+  "data_url": "https://tj.jiangsu.gov.cn/col/col82792/index.html",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "social",
+    "industry"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "江苏统计",
+    "Jiangsu statistics",
+    "江苏GDP",
+    "Jiangsu GDP",
+    "长三角",
+    "Yangtze River Delta",
+    "省级统计",
+    "provincial statistics",
+    "制造业",
+    "manufacturing",
+    "固定资产投资",
+    "fixed asset investment",
+    "外商投资",
+    "FDI",
+    "居民收入",
+    "household income",
+    "统计年鉴",
+    "statistical yearbook"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and value-added output: quarterly and annual gross domestic product by industry and expenditure approach for Jiangsu",
+      "Industrial enterprises: output value, profits, assets, and liabilities of industrial enterprises above designated size",
+      "Fixed asset investment: total investment, by sector, source of funding, and construction type",
+      "Foreign trade and investment: import/export statistics, FDI inflows by industry and country of origin",
+      "Retail and services: total retail sales of consumer goods, e-commerce, and services sector growth",
+      "Population and labor: census data, labor force participation, registered unemployment, migrant workers",
+      "Urban-rural income: per capita disposable income, consumption expenditure by urban and rural households",
+      "Jiangsu Statistical Yearbook: annual comprehensive statistical publication covering all provincial data"
+    ],
+    "zh": [
+      "GDP与增加值：江苏省按产业和支出法核算的季度和年度地区生产总值",
+      "工业企业：规模以上工业企业的产值、利润、资产及负债情况",
+      "固定资产投资：按行业、资金来源和建设类型分类的总投资情况",
+      "对外贸易与投资：进出口统计、按行业和来源国分类的外商直接投资",
+      "消费与服务：社会消费品零售总额、电子商务及服务业增长",
+      "人口与劳动力：普查数据、劳动力参与率、登记失业率、外来务工人员",
+      "城乡收入：城乡居民人均可支配收入、消费支出情况",
+      "江苏统计年鉴：涵盖全省各类数据的综合年度统计出版物"
+    ]
+  }
+}

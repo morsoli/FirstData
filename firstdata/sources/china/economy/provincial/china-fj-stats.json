@@ -1,0 +1,68 @@
+{
+  "id": "china-fj-stats",
+  "name": {
+    "en": "Fujian Bureau of Statistics",
+    "zh": "福建省统计局"
+  },
+  "description": {
+    "en": "The Fujian Bureau of Statistics is the official statistical authority for Fujian Province, a coastal province in southeastern China known for its strong private economy, cross-strait trade with Taiwan, and significant overseas Chinese diaspora connections. It publishes official statistics on Fujian's economic and social development, including GDP, industrial output, cross-strait trade, foreign investment, tourism, population, and household income. The bureau issues the Fujian Statistical Yearbook and regular economic analyses that reflect the province's unique economic characteristics and policy context.",
+    "zh": "福建省统计局是福建省官方统计机构，福建是中国东南沿海省份，以发达的民营经济、对台贸易和与海外华人的紧密联系而著称。统计局发布福建省经济社会发展的官方数据，涵盖GDP、工业产值、两岸贸易、外商投资、旅游业、人口和居民收入等。统计局出版《福建统计年鉴》和定期经济分析报告，反映该省独特的经济特征和政策环境。"
+  },
+  "website": "https://tjj.fujian.gov.cn/",
+  "data_url": "https://tjj.fujian.gov.cn/xxgk/tjsj/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "trade",
+    "social"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "福建统计",
+    "Fujian statistics",
+    "福建GDP",
+    "Fujian GDP",
+    "省级统计",
+    "provincial statistics",
+    "对台贸易",
+    "cross-strait trade",
+    "民营经济",
+    "private economy",
+    "外商投资",
+    "foreign investment",
+    "旅游统计",
+    "tourism statistics",
+    "人口",
+    "population",
+    "统计年鉴",
+    "statistical yearbook",
+    "海峡西岸",
+    "West Taiwan Strait Economic Zone"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: annual and quarterly gross domestic product by industry sector for Fujian Province",
+      "Industrial output: production data for major industries including electronics, petrochemicals, machinery, and textiles",
+      "Cross-strait trade: import and export data with Taiwan, cross-strait investment statistics",
+      "Foreign trade and investment: total imports and exports by commodity and trading partner, FDI by industry",
+      "Tourism statistics: visitor arrivals (domestic and overseas Chinese), tourism revenue, hotel occupancy",
+      "Population and migration: census results, household registration data, overseas Chinese population connection data",
+      "Private sector economy: statistics on private enterprises, individual businesses, and non-state-owned economy",
+      "Fujian Statistical Yearbook: annual comprehensive compilation of provincial economic and social statistics"
+    ],
+    "zh": [
+      "GDP与经济增长：福建省按产业分类的年度及季度地区生产总值",
+      "工业产值：电子、石化、机械、纺织等主要行业生产数据",
+      "两岸贸易：对台进出口数据及两岸投资统计",
+      "对外贸易与投资：按商品类别和贸易伙伴分类的进出口总额、按行业分外商直接投资",
+      "旅游统计：国内游客及海外华人入境情况、旅游收入、酒店入住率",
+      "人口与迁移：普查结果、户籍数据、海外华人关联数据",
+      "民营经济：私营企业、个体工商户及非公有制经济统计",
+      "福建统计年鉴：省级经济社会统计数据的综合年度汇编"
+    ]
+  }
+}

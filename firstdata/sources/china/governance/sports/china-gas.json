@@ -1,0 +1,62 @@
+{
+  "id": "china-gas",
+  "name": {
+    "en": "General Administration of Sport of China",
+    "zh": "国家体育总局"
+  },
+  "description": {
+    "en": "The General Administration of Sport of China (GAS) is the national government agency responsible for sports administration, sports industry regulation, and sports statistics. It publishes official data on national fitness participation, competitive sports performance, sports industry output, lottery revenues, and the development of sports infrastructure across China. Key publications include the National Fitness Development Statistics Bulletin and China Sports Industry Statistics.",
+    "zh": "国家体育总局是负责体育行政管理、体育产业监管和体育统计的国家政府机构，发布全民健身参与情况、竞技体育成绩、体育产业产出、体育彩票收入及全国体育设施建设等官方数据。主要出版物包括全民健身活动状况调查公报和中国体育产业统计年鉴。"
+  },
+  "website": "https://www.sport.gov.cn/",
+  "data_url": "https://www.sport.gov.cn/n315/n330/index.html",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "national",
+  "domains": [
+    "sports",
+    "social",
+    "economics",
+    "statistics"
+  ],
+  "update_frequency": "annual",
+  "tags": [
+    "体育总局",
+    "GAS",
+    "sports statistics",
+    "体育统计",
+    "national fitness",
+    "全民健身",
+    "sports industry",
+    "体育产业",
+    "competitive sports",
+    "竞技体育",
+    "sports lottery",
+    "体育彩票",
+    "sports infrastructure",
+    "体育设施",
+    "China sports",
+    "中国体育"
+  ],
+  "data_content": {
+    "en": [
+      "National Fitness Activity Status Survey: participation rates, exercise frequency, preferred sports types by age and region",
+      "Sports industry statistics: total output value, added value, employment, and sub-sector breakdown of China's sports industry",
+      "Sports lottery sales data: annual and monthly revenue by lottery type (Zhucai and Ticai), regional distribution",
+      "Competitive sports achievement data: national games results, international competition medals, athlete registration statistics",
+      "Sports facility census: number and distribution of sports venues, per capita sports area by province",
+      "Mass sports development: sports clubs, sports associations, community fitness centers nationwide",
+      "China Sports Yearbook: comprehensive annual statistical compilation of all sports-related data"
+    ],
+    "zh": [
+      "全民健身活动状况调查：各年龄段及地区的参与率、锻炼频率、偏好运动项目",
+      "体育产业统计：中国体育产业总产出、增加值、就业人数及各细分行业数据",
+      "体育彩票销售数据：竞彩和体彩各类彩票年度及月度收入、地区分布",
+      "竞技体育成绩数据：全国运动会成绩、国际赛事奖牌、运动员注册统计",
+      "体育场地普查：各省体育场馆数量与分布、人均体育用地面积",
+      "群众体育发展：全国体育俱乐部、体育协会、社区健身中心情况",
+      "中国体育年鉴：各类体育数据的综合年度统计汇编"
+    ]
+  }
+}
