@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-01T02:08:55.655643+00:00",
-    "total_sources": 329,
+    "generated_at": "2026-04-01T02:13:47.628978+00:00",
+    "total_sources": 330,
     "authority_counts": {
       "research": 37,
       "international": 74,
-      "government": 183,
+      "government": 184,
       "other": 3,
       "market": 16,
       "commercial": 16
@@ -1805,6 +1805,18 @@
         "data_url": "https://www.mof.gov.cn/gkml/",
         "has_api": false,
         "file_path": "china/finance/fiscal/china-mof.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-cfets",
+        "name": {
+          "en": "China Foreign Exchange Trade System",
+          "zh": "中国外汇交易中心"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.chinamoney.com.cn/chinese/bkccpr/",
+        "has_api": false,
+        "file_path": "china/finance/forex/china-cfets.json",
         "geographic_scope": "national"
       },
       {
