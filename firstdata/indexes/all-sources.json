@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-03-31T06:16:41.803944+00:00",
-    "total_sources": 327,
+    "generated_at": "2026-04-01T02:08:55.655643+00:00",
+    "total_sources": 329,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -2729,6 +2729,80 @@
       "file_path": "china/economy/market/china-samr.json"
     },
     {
+      "id": "china-beijing-stats",
+      "name": {
+        "en": "Beijing Bureau of Statistics",
+        "zh": "北京市统计局"
+      },
+      "description": {
+        "en": "The Beijing Bureau of Statistics is the official statistical authority for Beijing Municipality, China's capital and one of the world's largest metropolitan economies. It collects, processes, and publishes comprehensive socioeconomic statistics for Beijing, including GDP, industrial output, fixed asset investment, retail sales, consumer prices, population, employment, and household income. The bureau releases the Beijing Statistical Yearbook and regular monthly and quarterly economic bulletins, serving as the authoritative source for tracking the performance of China's political and cultural center.",
+        "zh": "北京市统计局是北京市官方统计机构，北京是中国首都，也是全球最大都市经济体之一。统计局负责收集、处理和发布北京市全面的社会经济统计数据，涵盖GDP、工业产值、固定资产投资、社会消费品零售总额、居民消费价格指数、人口、就业和居民收入等。统计局定期发布《北京统计年鉴》及月度、季度经济运行情况报告，是追踪中国政治文化中心经济社会发展的权威数据来源。"
+      },
+      "website": "https://tjj.beijing.gov.cn/",
+      "data_url": "https://tjj.beijing.gov.cn/tjsj_31433/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "social",
+        "demographics"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "北京统计",
+        "Beijing statistics",
+        "北京GDP",
+        "Beijing GDP",
+        "首都经济",
+        "capital economy",
+        "市级统计",
+        "municipal statistics",
+        "固定资产投资",
+        "fixed asset investment",
+        "居民消费",
+        "consumer spending",
+        "人口普查",
+        "population census",
+        "居民收入",
+        "household income",
+        "统计年鉴",
+        "statistical yearbook",
+        "城市化",
+        "urbanization",
+        "就业",
+        "employment"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: annual and quarterly gross domestic product by industry sector for Beijing Municipality",
+          "Industrial output: production data for major industries including high-tech, manufacturing, and services",
+          "Fixed asset investment: total investment by sector, region, and ownership type",
+          "Retail sales and consumption: total retail sales, e-commerce data, household consumption expenditure",
+          "Consumer prices: CPI, PPI, and housing price indices for Beijing and its districts",
+          "Population statistics: census results, household registration data, migrant population, birth and death rates",
+          "Employment and wages: employed persons by sector, unemployment rate, average wages across industries",
+          "Social development: education enrollment, healthcare resources, social security coverage, cultural services",
+          "Beijing Statistical Yearbook: annual comprehensive compilation of all municipal statistical data"
+        ],
+        "zh": [
+          "GDP与经济增长：北京市按产业分类的年度及季度地区生产总值",
+          "工业产值：高新技术、制造业和服务业等主要行业生产数据",
+          "固定资产投资：按行业、地区和所有制类型分类的投资总额",
+          "零售与消费：社会消费品零售总额、电商数据、居民消费支出",
+          "消费价格：北京市及各区的居民消费价格指数、工业品出厂价格和房价指数",
+          "人口统计：普查结果、户籍人口、流动人口、出生率和死亡率",
+          "就业与工资：各行业从业人员数、失业率、各行业平均工资",
+          "社会发展：教育招生情况、医疗卫生资源、社会保障覆盖率、文化服务",
+          "北京统计年鉴：北京市各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-beijing-stats.json"
+    },
+    {
       "id": "china-fj-stats",
       "name": {
         "en": "Fujian Bureau of Statistics",
@@ -2933,6 +3007,83 @@
       },
       "has_api": false,
       "file_path": "china/economy/provincial/china-js-stats.json"
+    },
+    {
+      "id": "china-shanghai-stats",
+      "name": {
+        "en": "Shanghai Municipal Bureau of Statistics",
+        "zh": "上海市统计局"
+      },
+      "description": {
+        "en": "The Shanghai Municipal Bureau of Statistics is the official statistical authority for Shanghai, China's largest city and premier financial and commercial hub. It publishes authoritative statistics covering Shanghai's economic performance, including GDP, industrial output, trade, financial markets, foreign investment, population, employment, and household income. As home to China's major stock exchange and a key international financial center, Shanghai's statistical data reflects global trade flows and China's economic integration with the world. The bureau releases the Shanghai Statistical Yearbook and monthly economic bulletins widely cited in research and investment analysis.",
+        "zh": "上海市统计局是上海市官方统计机构，上海是中国最大城市，也是中国重要的金融和商业中心。统计局发布涵盖上海经济运行的权威统计数据，包括GDP、工业产值、对外贸易、金融市场、外商投资、人口、就业和居民收入。上海是中国主要证券交易所所在地和重要的国际金融中心，其统计数据反映全球贸易动态和中国经济的对外开放程度。统计局出版《上海统计年鉴》及月度经济运行报告，广泛被学术研究和投资分析机构引用。"
+      },
+      "website": "https://tjj.sh.gov.cn/",
+      "data_url": "https://tjj.sh.gov.cn/sjxx/index.html",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "finance",
+        "trade",
+        "social"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "上海统计",
+        "Shanghai statistics",
+        "上海GDP",
+        "Shanghai GDP",
+        "金融中心",
+        "financial center",
+        "市级统计",
+        "municipal statistics",
+        "对外贸易",
+        "foreign trade",
+        "外商投资",
+        "foreign direct investment",
+        "工业产值",
+        "industrial output",
+        "人口",
+        "population",
+        "统计年鉴",
+        "statistical yearbook",
+        "自贸区",
+        "free trade zone",
+        "进出口",
+        "imports exports",
+        "消费价格",
+        "consumer prices"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: annual and quarterly gross domestic product by industry sector for Shanghai Municipality",
+          "Industrial output: production data for key sectors including high-tech, automotive, semiconductor, and petrochemical industries",
+          "Foreign trade: import and export value by commodity category, trading partner, and Shanghai free trade zone data",
+          "Financial sector: banking assets, insurance premiums, securities trading volumes in Shanghai financial markets",
+          "Foreign investment: FDI inflows by sector and source country, foreign-funded enterprise data",
+          "Population and migration: census data, household registration, migrant population, birth and death rates",
+          "Employment and wages: employed persons by sector, registered unemployment, average wages by industry",
+          "Consumer prices: CPI, PPI, housing prices for Shanghai and its districts",
+          "Shanghai Statistical Yearbook: comprehensive annual compilation of all municipal statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：上海市按产业分类的年度及季度地区生产总值",
+          "工业产值：高新技术、汽车、半导体、石化等重点行业生产数据",
+          "对外贸易：按商品类别和贸易伙伴分类的进出口数据及上海自贸区贸易数据",
+          "金融业：银行资产、保险保费及上海金融市场证券交易量",
+          "外商投资：按行业和来源国分类的外商直接投资数据及外资企业数据",
+          "人口与迁移：普查数据、户籍人口、流动人口、出生率和死亡率",
+          "就业与工资：各行业从业人员数、登记失业人数、各行业平均工资",
+          "消费价格：上海市及各区的居民消费价格指数、工业品出厂价格、房价指数",
+          "上海统计年鉴：上海市各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-shanghai-stats.json"
     },
     {
       "id": "china-gacc",

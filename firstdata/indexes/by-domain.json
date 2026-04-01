@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-03-31T06:16:41.803944+00:00",
+    "generated_at": "2026-04-01T02:08:55.655643+00:00",
     "total_domains": 704,
-    "total_sources": 327,
+    "total_sources": 329,
     "version": "2.0"
   },
   "domains": {
@@ -4396,6 +4396,18 @@
         "geographic_scope": "global"
       },
       {
+        "id": "china-beijing-stats",
+        "name": {
+          "en": "Beijing Bureau of Statistics",
+          "zh": "北京市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.beijing.gov.cn/tjsj_31433/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-beijing-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-nhc",
         "name": {
           "en": "National Health Commission of China",
@@ -6447,6 +6459,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-beijing-stats",
+        "name": {
+          "en": "Beijing Bureau of Statistics",
+          "zh": "北京市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.beijing.gov.cn/tjsj_31433/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-beijing-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-fj-stats",
         "name": {
           "en": "Fujian Bureau of Statistics",
@@ -6480,6 +6504,18 @@
         "data_url": "https://tj.jiangsu.gov.cn/col/col85273/index.html",
         "has_api": false,
         "file_path": "china/economy/provincial/china-js-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-shanghai-stats",
+        "name": {
+          "en": "Shanghai Municipal Bureau of Statistics",
+          "zh": "上海市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.sh.gov.cn/sjxx/index.html",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-shanghai-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -11039,6 +11075,18 @@
         "has_api": true,
         "file_path": "china/cninfo.json",
         "geographic_scope": "national"
+      },
+      {
+        "id": "china-shanghai-stats",
+        "name": {
+          "en": "Shanghai Municipal Bureau of Statistics",
+          "zh": "上海市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.sh.gov.cn/sjxx/index.html",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-shanghai-stats.json",
+        "geographic_scope": "subnational"
       },
       {
         "id": "china-nfra",
@@ -21040,6 +21088,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-beijing-stats",
+        "name": {
+          "en": "Beijing Bureau of Statistics",
+          "zh": "北京市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.beijing.gov.cn/tjsj_31433/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-beijing-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-fj-stats",
         "name": {
           "en": "Fujian Bureau of Statistics",
@@ -21073,6 +21133,18 @@
         "data_url": "https://tj.jiangsu.gov.cn/col/col85273/index.html",
         "has_api": false,
         "file_path": "china/economy/provincial/china-js-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-shanghai-stats",
+        "name": {
+          "en": "Shanghai Municipal Bureau of Statistics",
+          "zh": "上海市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.sh.gov.cn/sjxx/index.html",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-shanghai-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -22139,6 +22211,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-beijing-stats",
+        "name": {
+          "en": "Beijing Bureau of Statistics",
+          "zh": "北京市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.beijing.gov.cn/tjsj_31433/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-beijing-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-fj-stats",
         "name": {
           "en": "Fujian Bureau of Statistics",
@@ -22172,6 +22256,18 @@
         "data_url": "https://tj.jiangsu.gov.cn/col/col85273/index.html",
         "has_api": false,
         "file_path": "china/economy/provincial/china-js-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-shanghai-stats",
+        "name": {
+          "en": "Shanghai Municipal Bureau of Statistics",
+          "zh": "上海市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.sh.gov.cn/sjxx/index.html",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-shanghai-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -23080,6 +23176,18 @@
         "data_url": "https://stats.gd.gov.cn/tjsj186/index.html",
         "has_api": false,
         "file_path": "china/economy/provincial/china-gd-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-shanghai-stats",
+        "name": {
+          "en": "Shanghai Municipal Bureau of Statistics",
+          "zh": "上海市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.sh.gov.cn/sjxx/index.html",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-shanghai-stats.json",
         "geographic_scope": "subnational"
       },
       {

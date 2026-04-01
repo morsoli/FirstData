@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-03-31T06:16:41.803944+00:00",
+    "generated_at": "2026-04-01T02:08:55.655643+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 327,
+    "total_sources": 329,
     "sources_with_api": 150,
-    "last_updated": "2026-03-31"
+    "last_updated": "2026-04-01"
   },
   "by_authority_level": {
     "research": 37,
     "international": 74,
-    "government": 181,
+    "government": 183,
     "other": 3,
     "market": 16,
     "commercial": 16
@@ -20,25 +20,25 @@
     "global": 100,
     "national": 198,
     "regional": 26,
-    "subnational": 3
+    "subnational": 5
   },
   "by_update_frequency": {
     "irregular": 50,
     "daily": 53,
     "weekly": 9,
     "quarterly": 33,
-    "monthly": 105,
+    "monthly": 107,
     "annual": 66,
     "real-time": 11
   },
   "by_domain": {
-    "economics": 133,
-    "trade": 79,
-    "demographics": 74,
+    "economics": 135,
+    "trade": 80,
+    "demographics": 75,
     "environment": 57,
-    "social": 53,
+    "social": 55,
+    "finance": 52,
     "agriculture": 52,
-    "finance": 51,
     "health": 43,
     "employment": 42,
     "education": 41,
@@ -50,7 +50,7 @@
     "technology": 18,
     "development": 16,
     "infrastructure": 16,
-    "statistics": 13,
+    "statistics": 15,
     "manufacturing": 13,
     "labor": 12,
     "banking": 12,
