@@ -1,0 +1,72 @@
+{
+  "id": "china-beijing-stats",
+  "name": {
+    "en": "Beijing Bureau of Statistics",
+    "zh": "北京市统计局"
+  },
+  "description": {
+    "en": "The Beijing Bureau of Statistics is the official statistical authority for Beijing Municipality, China's capital and one of the world's largest metropolitan economies. It collects, processes, and publishes comprehensive socioeconomic statistics for Beijing, including GDP, industrial output, fixed asset investment, retail sales, consumer prices, population, employment, and household income. The bureau releases the Beijing Statistical Yearbook and regular monthly and quarterly economic bulletins, serving as the authoritative source for tracking the performance of China's political and cultural center.",
+    "zh": "北京市统计局是北京市官方统计机构，北京是中国首都，也是全球最大都市经济体之一。统计局负责收集、处理和发布北京市全面的社会经济统计数据，涵盖GDP、工业产值、固定资产投资、社会消费品零售总额、居民消费价格指数、人口、就业和居民收入等。统计局定期发布《北京统计年鉴》及月度、季度经济运行情况报告，是追踪中国政治文化中心经济社会发展的权威数据来源。"
+  },
+  "website": "https://tjj.beijing.gov.cn/",
+  "data_url": "https://tjj.beijing.gov.cn/tjsj_31433/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "social",
+    "demographics"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "北京统计",
+    "Beijing statistics",
+    "北京GDP",
+    "Beijing GDP",
+    "首都经济",
+    "capital economy",
+    "市级统计",
+    "municipal statistics",
+    "固定资产投资",
+    "fixed asset investment",
+    "居民消费",
+    "consumer spending",
+    "人口普查",
+    "population census",
+    "居民收入",
+    "household income",
+    "统计年鉴",
+    "statistical yearbook",
+    "城市化",
+    "urbanization",
+    "就业",
+    "employment"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: annual and quarterly gross domestic product by industry sector for Beijing Municipality",
+      "Industrial output: production data for major industries including high-tech, manufacturing, and services",
+      "Fixed asset investment: total investment by sector, region, and ownership type",
+      "Retail sales and consumption: total retail sales, e-commerce data, household consumption expenditure",
+      "Consumer prices: CPI, PPI, and housing price indices for Beijing and its districts",
+      "Population statistics: census results, household registration data, migrant population, birth and death rates",
+      "Employment and wages: employed persons by sector, unemployment rate, average wages across industries",
+      "Social development: education enrollment, healthcare resources, social security coverage, cultural services",
+      "Beijing Statistical Yearbook: annual comprehensive compilation of all municipal statistical data"
+    ],
+    "zh": [
+      "GDP与经济增长：北京市按产业分类的年度及季度地区生产总值",
+      "工业产值：高新技术、制造业和服务业等主要行业生产数据",
+      "固定资产投资：按行业、地区和所有制类型分类的投资总额",
+      "零售与消费：社会消费品零售总额、电商数据、居民消费支出",
+      "消费价格：北京市及各区的居民消费价格指数、工业品出厂价格和房价指数",
+      "人口统计：普查结果、户籍人口、流动人口、出生率和死亡率",
+      "就业与工资：各行业从业人员数、失业率、各行业平均工资",
+      "社会发展：教育招生情况、医疗卫生资源、社会保障覆盖率、文化服务",
+      "北京统计年鉴：北京市各类统计数据的综合年度汇编"
+    ]
+  }
+}

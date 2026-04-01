@@ -1,0 +1,75 @@
+{
+  "id": "china-shanghai-stats",
+  "name": {
+    "en": "Shanghai Municipal Bureau of Statistics",
+    "zh": "上海市统计局"
+  },
+  "description": {
+    "en": "The Shanghai Municipal Bureau of Statistics is the official statistical authority for Shanghai, China's largest city and premier financial and commercial hub. It publishes authoritative statistics covering Shanghai's economic performance, including GDP, industrial output, trade, financial markets, foreign investment, population, employment, and household income. As home to China's major stock exchange and a key international financial center, Shanghai's statistical data reflects global trade flows and China's economic integration with the world. The bureau releases the Shanghai Statistical Yearbook and monthly economic bulletins widely cited in research and investment analysis.",
+    "zh": "上海市统计局是上海市官方统计机构，上海是中国最大城市，也是中国重要的金融和商业中心。统计局发布涵盖上海经济运行的权威统计数据，包括GDP、工业产值、对外贸易、金融市场、外商投资、人口、就业和居民收入。上海是中国主要证券交易所所在地和重要的国际金融中心，其统计数据反映全球贸易动态和中国经济的对外开放程度。统计局出版《上海统计年鉴》及月度经济运行报告，广泛被学术研究和投资分析机构引用。"
+  },
+  "website": "https://tjj.sh.gov.cn/",
+  "data_url": "https://tjj.sh.gov.cn/sjxx/index.html",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "finance",
+    "trade",
+    "social"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "上海统计",
+    "Shanghai statistics",
+    "上海GDP",
+    "Shanghai GDP",
+    "金融中心",
+    "financial center",
+    "市级统计",
+    "municipal statistics",
+    "对外贸易",
+    "foreign trade",
+    "外商投资",
+    "foreign direct investment",
+    "工业产值",
+    "industrial output",
+    "人口",
+    "population",
+    "统计年鉴",
+    "statistical yearbook",
+    "自贸区",
+    "free trade zone",
+    "进出口",
+    "imports exports",
+    "消费价格",
+    "consumer prices"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: annual and quarterly gross domestic product by industry sector for Shanghai Municipality",
+      "Industrial output: production data for key sectors including high-tech, automotive, semiconductor, and petrochemical industries",
+      "Foreign trade: import and export value by commodity category, trading partner, and Shanghai free trade zone data",
+      "Financial sector: banking assets, insurance premiums, securities trading volumes in Shanghai financial markets",
+      "Foreign investment: FDI inflows by sector and source country, foreign-funded enterprise data",
+      "Population and migration: census data, household registration, migrant population, birth and death rates",
+      "Employment and wages: employed persons by sector, registered unemployment, average wages by industry",
+      "Consumer prices: CPI, PPI, housing prices for Shanghai and its districts",
+      "Shanghai Statistical Yearbook: comprehensive annual compilation of all municipal statistics"
+    ],
+    "zh": [
+      "GDP与经济增长：上海市按产业分类的年度及季度地区生产总值",
+      "工业产值：高新技术、汽车、半导体、石化等重点行业生产数据",
+      "对外贸易：按商品类别和贸易伙伴分类的进出口数据及上海自贸区贸易数据",
+      "金融业：银行资产、保险保费及上海金融市场证券交易量",
+      "外商投资：按行业和来源国分类的外商直接投资数据及外资企业数据",
+      "人口与迁移：普查数据、户籍人口、流动人口、出生率和死亡率",
+      "就业与工资：各行业从业人员数、登记失业人数、各行业平均工资",
+      "消费价格：上海市及各区的居民消费价格指数、工业品出厂价格、房价指数",
+      "上海统计年鉴：上海市各类统计数据的综合年度汇编"
+    ]
+  }
+}
