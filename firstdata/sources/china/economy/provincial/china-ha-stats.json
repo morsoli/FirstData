@@ -9,7 +9,7 @@
     "zh": "河南省统计局是河南省官方统计机构，河南是中国人口最多的省份，也是中国中部重要的农业和工业重镇。统计局发布河南省GDP、工业产值、农业生产、人口、就业和居民消费价格指数等全面的社会经济统计数据，并出版《河南统计年鉴》及定期经济运行情况报告，是了解中国最大省级经济体之一的重要数据来源。"
   },
   "website": "https://tjj.henan.gov.cn/",
-  "data_url": "https://tjj.henan.gov.cn/tjsj/",
+  "data_url": "https://tjj.henan.gov.cn/tjfw/tjsj/",
   "api_url": null,
   "authority_level": "government",
   "country": "CN",
