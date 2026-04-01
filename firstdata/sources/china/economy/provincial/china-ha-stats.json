@@ -1,0 +1,70 @@
+{
+  "id": "china-ha-stats",
+  "name": {
+    "en": "Henan Bureau of Statistics",
+    "zh": "河南省统计局"
+  },
+  "description": {
+    "en": "The Henan Bureau of Statistics is the official statistical authority for Henan Province, China's most populous province and a major agricultural and industrial hub in central China. It publishes comprehensive socioeconomic statistics including GDP, industrial output, agricultural production, population, employment, and consumer prices for Henan. The bureau releases the Henan Statistical Yearbook and regular economic bulletins, making it an essential data source for understanding one of China's largest provincial economies.",
+    "zh": "河南省统计局是河南省官方统计机构，河南是中国人口最多的省份，也是中国中部重要的农业和工业重镇。统计局发布河南省GDP、工业产值、农业生产、人口、就业和居民消费价格指数等全面的社会经济统计数据，并出版《河南统计年鉴》及定期经济运行情况报告，是了解中国最大省级经济体之一的重要数据来源。"
+  },
+  "website": "https://tjj.henan.gov.cn/",
+  "data_url": "https://tjj.henan.gov.cn/tjfw/tjsj/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "social",
+    "agriculture"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "河南统计",
+    "Henan statistics",
+    "河南GDP",
+    "Henan GDP",
+    "中原经济区",
+    "Central Plains Economic Zone",
+    "省级统计",
+    "provincial statistics",
+    "人口大省",
+    "most populous province",
+    "农业大省",
+    "agricultural province",
+    "工业产值",
+    "industrial output",
+    "人口统计",
+    "population statistics",
+    "统计年鉴",
+    "statistical yearbook",
+    "粮食产量",
+    "grain output"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: quarterly and annual GDP data by industry sector for Henan Province",
+      "Industrial production: output value by industry, major products output, industrial enterprise performance",
+      "Agricultural statistics: crop output (grain, cotton, oil), livestock, agricultural income",
+      "Population statistics: census data, household registration, birth and death rates, urbanization — Henan is China's most populous province",
+      "Employment and wages: employed persons, labor export statistics, average wages by sector",
+      "Consumer prices: CPI, PPI for Henan Province and its prefecture-level cities",
+      "Fixed asset investment: total investment, real estate development, infrastructure construction",
+      "Retail and commerce: social consumer goods retail total, market data",
+      "Henan Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+    ],
+    "zh": [
+      "GDP与经济增长：河南省季度和年度GDP数据，按产业分类",
+      "工业生产：各行业工业产值、主要产品产量、工业企业经营情况",
+      "农业统计：粮食（粮棉油）产量、畜牧业、农民收入",
+      "人口统计：人口普查数据、户籍人口、出生率和死亡率、城镇化率——河南是全国人口最多的省份",
+      "就业与工资：从业人员数、劳动力转移输出统计、各行业平均工资",
+      "消费价格：河南省及各地级市居民消费价格指数、工业品出厂价格",
+      "固定资产投资：全省投资总额、房地产开发、基础设施建设",
+      "商贸消费：社会消费品零售总额、市场数据",
+      "河南统计年鉴：全省各类统计数据的综合年度汇编"
+    ]
+  }
+}
