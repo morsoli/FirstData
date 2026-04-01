@@ -1,0 +1,70 @@
+{
+  "id": "china-hn-stats",
+  "name": {
+    "en": "Hunan Bureau of Statistics",
+    "zh": "湖南省统计局"
+  },
+  "description": {
+    "en": "The Hunan Bureau of Statistics is the official statistical authority for Hunan Province, a major agricultural and increasingly industrial province in south-central China. It publishes comprehensive socioeconomic statistics including GDP, industrial output, agricultural production, population, employment, and consumer prices for Hunan. The bureau also releases the Hunan Statistical Yearbook and monthly economic bulletins, serving as the primary data source for understanding Hunan's economic transformation and development.",
+    "zh": "湖南省统计局是湖南省官方统计机构，湖南是中国中南部重要的农业省份，工业化进程持续推进。统计局发布湖南省GDP、工业产值、农业生产、人口、就业和居民消费价格指数等全面的社会经济统计数据，并出版《湖南统计年鉴》及月度经济运行情况报告，是了解湖南经济转型与发展的重要数据来源。"
+  },
+  "website": "https://tjj.hunan.gov.cn/",
+  "data_url": "https://tjj.hunan.gov.cn/tjsj/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "social",
+    "agriculture"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "湖南统计",
+    "Hunan statistics",
+    "湖南GDP",
+    "Hunan GDP",
+    "中南地区",
+    "south-central China",
+    "省级统计",
+    "provincial statistics",
+    "农业统计",
+    "agricultural statistics",
+    "工业产值",
+    "industrial output",
+    "人口统计",
+    "population statistics",
+    "就业数据",
+    "employment data",
+    "统计年鉴",
+    "statistical yearbook",
+    "消费价格指数",
+    "CPI"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: quarterly and annual GDP data by industry sector for Hunan Province",
+      "Industrial production: output value by industry, major products output, industrial enterprise performance",
+      "Agricultural statistics: crop output, farmland usage, livestock, agricultural household income",
+      "Population statistics: census data, household registration, birth and death rates, urbanization",
+      "Employment and wages: employed persons, urban unemployment rate, average wages by sector",
+      "Consumer prices: CPI, PPI for Hunan Province and its prefecture-level cities",
+      "Fixed asset investment: total investment, real estate development, infrastructure construction",
+      "Retail sales: social consumer goods retail total, e-commerce data",
+      "Hunan Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+    ],
+    "zh": [
+      "GDP与经济增长：湖南省季度和年度GDP数据，按产业分类",
+      "工业生产：各行业工业产值、主要产品产量、工业企业经营情况",
+      "农业统计：粮食产量、耕地使用、畜牧业、农村居民收入",
+      "人口统计：人口普查数据、户籍人口、出生率和死亡率、城镇化率",
+      "就业与工资：从业人员数、城镇失业率、各行业平均工资",
+      "消费价格：湖南省及各地级市居民消费价格指数、工业品出厂价格",
+      "固定资产投资：全省投资总额、房地产开发、基础设施建设",
+      "社会消费：社会消费品零售总额、电子商务数据",
+      "湖南统计年鉴：全省各类统计数据的综合年度汇编"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "china-isc",
+  "name": {
+    "en": "Internet Society of China",
+    "zh": "中国互联网协会"
+  },
+  "description": {
+    "en": "The Internet Society of China (ISC) is a national industry association supervised by the Ministry of Industry and Information Technology, representing China's internet industry ecosystem. It publishes authoritative research reports on internet industry development, cybersecurity, digital economy, and internet governance. ISC's annual China Internet Industry Report and thematic research reports on topics such as mobile internet, cloud computing, artificial intelligence, and e-commerce are widely cited by industry practitioners, regulators, and researchers.",
+    "zh": "中国互联网协会（ISC）是工业和信息化部主管的全国性行业协会，代表中国互联网产业生态。协会发布互联网产业发展、网络安全、数字经济和互联网治理等权威研究报告。协会年度《中国互联网行业发展报告》及移动互联网、云计算、人工智能、电子商务等专题研究报告，被业界从业者、监管机构和研究人员广泛引用。"
+  },
+  "website": "https://www.isc.org.cn/",
+  "data_url": "https://www.isc.org.cn/yanjiu/index.html",
+  "api_url": null,
+  "authority_level": "other",
+  "country": "CN",
+  "geographic_scope": "national",
+  "domains": [
+    "technology",
+    "economics",
+    "statistics"
+  ],
+  "update_frequency": "irregular",
+  "tags": [
+    "中国互联网协会",
+    "Internet Society of China",
+    "ISC",
+    "互联网行业",
+    "internet industry",
+    "数字经济",
+    "digital economy",
+    "网络安全",
+    "cybersecurity",
+    "云计算",
+    "cloud computing",
+    "人工智能",
+    "artificial intelligence",
+    "电子商务",
+    "e-commerce",
+    "互联网治理",
+    "internet governance",
+    "行业报告",
+    "industry report",
+    "移动互联网",
+    "mobile internet"
+  ],
+  "data_content": {
+    "en": [
+      "China Internet Industry Report: annual overview of China's internet industry development, key metrics, and trends",
+      "Digital Economy: data on China's digital economy scale, contribution to GDP, and sector breakdown",
+      "Cybersecurity: reports on China's cybersecurity landscape, threats, policy developments",
+      "Mobile Internet: mobile app ecosystem, user behavior, smartphone penetration statistics",
+      "Cloud Computing: cloud adoption rates, market size, major service provider analysis",
+      "Artificial Intelligence: AI industry development, application scenarios, investment data in China",
+      "E-Commerce: online retail data, cross-border e-commerce statistics, platform economy",
+      "Internet Governance: regulatory environment, policy developments, compliance data",
+      "Thematic Research Reports: in-depth analyses of specific internet subsectors and emerging technologies"
+    ],
+    "zh": [
+      "中国互联网行业发展报告：年度互联网行业发展综览、关键指标与发展趋势",
+      "数字经济：中国数字经济规模、对GDP贡献及行业结构数据",
+      "网络安全：中国网络安全态势、威胁情报及政策发展报告",
+      "移动互联网：移动应用生态、用户行为、智能手机普及率统计",
+      "云计算：云服务采用率、市场规模、主要服务商分析",
+      "人工智能：AI产业发展、应用场景、国内投资数据",
+      "电子商务：网络零售数据、跨境电商统计、平台经济情况",
+      "互联网治理：监管环境、政策动态、合规数据",
+      "专题研究报告：互联网细分领域及新兴技术的深度分析报告"
+    ]
+  }
+}

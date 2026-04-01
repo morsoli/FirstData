@@ -1,0 +1,70 @@
+{
+  "id": "china-sd-stats",
+  "name": {
+    "en": "Shandong Bureau of Statistics",
+    "zh": "山东省统计局"
+  },
+  "description": {
+    "en": "The Shandong Bureau of Statistics is the official statistical authority for Shandong Province, one of China's most economically significant provinces and a leading hub for manufacturing, agriculture, and coastal trade. It publishes comprehensive socioeconomic statistics including GDP, industrial output, agricultural production, trade, and population data for Shandong. The bureau also releases the Shandong Statistical Yearbook and regular economic bulletins, serving as a critical data source for understanding one of China's top-three provincial economies.",
+    "zh": "山东省统计局是山东省官方统计机构，山东是中国经济总量前三的重要省份，制造业、农业和沿海贸易的重要枢纽。统计局发布山东省GDP、工业产值、农业生产、对外贸易和人口统计等全面数据，并出版《山东统计年鉴》及定期经济运行情况报告，是了解中国最重要省级经济体之一的权威数据来源。"
+  },
+  "website": "https://tjj.shandong.gov.cn/",
+  "data_url": "https://tjj.shandong.gov.cn/col/col8456/index.html",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "social",
+    "trade"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "山东统计",
+    "Shandong statistics",
+    "山东GDP",
+    "Shandong GDP",
+    "黄河流域",
+    "Yellow River Basin",
+    "省级统计",
+    "provincial statistics",
+    "制造业",
+    "manufacturing",
+    "农业统计",
+    "agricultural statistics",
+    "对外贸易",
+    "foreign trade",
+    "人口统计",
+    "population statistics",
+    "统计年鉴",
+    "statistical yearbook",
+    "工业产值",
+    "industrial output"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: quarterly and annual GDP data by industry sector for Shandong Province",
+      "Industrial production: output value by industry, major products output, industrial enterprise performance",
+      "Agricultural statistics: crop output, aquaculture, livestock, agricultural household income",
+      "Foreign trade: import and export value by commodity and trading partner",
+      "Population statistics: census data, household registration, birth and death rates, urbanization",
+      "Employment and wages: employed persons, urban unemployment rate, average wages by sector",
+      "Consumer prices: CPI, PPI for Shandong Province and its prefecture-level cities",
+      "Fixed asset investment: total investment, real estate development, infrastructure construction",
+      "Shandong Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+    ],
+    "zh": [
+      "GDP与经济增长：山东省季度和年度GDP数据，按产业分类",
+      "工业生产：各行业工业产值、主要产品产量、工业企业经营情况",
+      "农业统计：粮食产量、水产养殖、畜牧业、农民收入",
+      "对外贸易：按商品类别和贸易伙伴分类的进出口数据",
+      "人口统计：人口普查数据、户籍人口、出生率和死亡率、城镇化率",
+      "就业与工资：从业人员数、城镇失业率、各行业平均工资",
+      "消费价格：山东省及各地级市居民消费价格指数、工业品出厂价格",
+      "固定资产投资：全省投资总额、房地产开发、基础设施建设",
+      "山东统计年鉴：全省各类统计数据的综合年度汇编"
+    ]
+  }
+}
