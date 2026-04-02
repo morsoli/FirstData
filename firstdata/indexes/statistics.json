@@ -1,55 +1,55 @@
 {
   "metadata": {
-    "generated_at": "2026-04-02T02:11:03.069368+00:00",
+    "generated_at": "2026-04-02T06:11:30.840048+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 340,
+    "total_sources": 345,
     "sources_with_api": 150,
     "last_updated": "2026-04-02"
   },
   "by_authority_level": {
     "research": 37,
     "international": 74,
-    "government": 193,
-    "other": 4,
+    "government": 196,
+    "other": 6,
     "market": 16,
     "commercial": 16
   },
   "by_geographic_scope": {
     "global": 100,
-    "national": 202,
+    "national": 204,
     "regional": 26,
-    "subnational": 12
+    "subnational": 15
   },
   "by_update_frequency": {
     "irregular": 51,
     "daily": 54,
     "weekly": 9,
     "quarterly": 33,
-    "monthly": 115,
+    "monthly": 120,
     "annual": 67,
     "real-time": 11
   },
   "by_domain": {
-    "economics": 146,
-    "trade": 81,
+    "economics": 151,
+    "trade": 84,
     "demographics": 75,
-    "social": 62,
-    "environment": 57,
+    "social": 65,
+    "environment": 58,
+    "agriculture": 55,
     "finance": 54,
-    "agriculture": 54,
     "health": 43,
     "employment": 42,
     "education": 41,
-    "industry": 29,
+    "industry": 31,
     "energy": 26,
-    "statistics": 23,
+    "statistics": 26,
     "prices": 22,
-    "technology": 19,
+    "technology": 20,
     "climate": 18,
+    "infrastructure": 18,
     "housing": 18,
-    "infrastructure": 17,
     "development": 16,
     "manufacturing": 13,
     "labor": 12,

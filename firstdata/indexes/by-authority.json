@@ -1,12 +1,12 @@
 {
   "metadata": {
-    "generated_at": "2026-04-02T02:11:03.069368+00:00",
-    "total_sources": 340,
+    "generated_at": "2026-04-02T06:11:30.840048+00:00",
+    "total_sources": 345,
     "authority_counts": {
       "research": 37,
       "international": 74,
-      "government": 193,
-      "other": 4,
+      "government": 196,
+      "other": 6,
       "market": 16,
       "commercial": 16
     },
@@ -1599,6 +1599,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-cq-stats",
+        "name": {
+          "en": "Chongqing Bureau of Statistics",
+          "zh": "重庆市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.cq.gov.cn/zwgk_233040/zfxxgkml/tjxx/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-cq-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-fj-stats",
         "name": {
           "en": "Fujian Bureau of Statistics",
@@ -1704,6 +1716,30 @@
         "data_url": "https://tjj.sh.gov.cn/sjxx/index.html",
         "has_api": false,
         "file_path": "china/economy/provincial/china-shanghai-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-tj-stats",
+        "name": {
+          "en": "Tianjin Bureau of Statistics",
+          "zh": "天津市统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://stats.tj.gov.cn/tjsj_52032/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-tj-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-yn-stats",
+        "name": {
+          "en": "Yunnan Bureau of Statistics",
+          "zh": "云南省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.yn.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-yn-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -3759,6 +3795,30 @@
         "data_url": "https://www.sac.net.cn/hysj/",
         "has_api": false,
         "file_path": "china/china-sac.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-caam",
+        "name": {
+          "en": "China Association of Automobile Manufacturers",
+          "zh": "中国汽车工业协会"
+        },
+        "authority_level": "other",
+        "data_url": "http://www.caam.org.cn/chn/4/cate_39/index.html",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-caam.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-cisa",
+        "name": {
+          "en": "China Iron and Steel Association",
+          "zh": "中国钢铁工业协会"
+        },
+        "authority_level": "other",
+        "data_url": "https://www.chinaisa.org.cn/gxportal/xfgl/portal/index.html",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-cisa.json",
         "geographic_scope": "national"
       },
       {

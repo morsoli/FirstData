@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-02T02:11:03.069368+00:00",
-    "total_sources": 340,
+    "generated_at": "2026-04-02T06:11:30.840048+00:00",
+    "total_sources": 345,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -2877,6 +2877,76 @@
       "file_path": "china/economy/provincial/china-beijing-stats.json"
     },
     {
+      "id": "china-cq-stats",
+      "name": {
+        "en": "Chongqing Bureau of Statistics",
+        "zh": "重庆市统计局"
+      },
+      "description": {
+        "en": "The Chongqing Bureau of Statistics is the official statistical authority for Chongqing, China's largest municipality by area and a major economic hub in the upper Yangtze River region. It publishes comprehensive socioeconomic data covering GDP, industrial output, fixed asset investment, retail sales, population, and employment for Chongqing Municipality. As one of China's four direct-controlled municipalities and a key node in the Chengdu-Chongqing Economic Circle, Chongqing's statistical data is critical for understanding western China's economic development and urbanization trends. The bureau releases monthly economic bulletins, quarterly reports, and the annual Chongqing Statistical Yearbook.",
+        "zh": "重庆市统计局是重庆市官方统计机构。重庆是中国面积最大的直辖市，也是长江上游地区重要的经济中心。统计局发布涵盖重庆市GDP、工业产值、固定资产投资、社会消费品零售总额、人口及就业等全面社会经济数据。作为中国四个直辖市之一及成渝地区双城经济圈的重要节点，重庆统计数据对于了解西部地区经济发展与城镇化进程具有重要价值。统计局定期发布月度经济运行情况、季度统计公报及年度《重庆统计年鉴》。"
+      },
+      "website": "https://tjj.cq.gov.cn/",
+      "data_url": "https://tjj.cq.gov.cn/zwgk_233040/zfxxgkml/tjxx/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "social",
+        "infrastructure"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "重庆统计",
+        "Chongqing statistics",
+        "重庆GDP",
+        "Chongqing GDP",
+        "成渝经济圈",
+        "Chengdu-Chongqing Economic Circle",
+        "省级统计",
+        "provincial statistics",
+        "工业产值",
+        "industrial output",
+        "固定资产投资",
+        "fixed asset investment",
+        "西部开发",
+        "western development",
+        "城镇化",
+        "urbanization",
+        "统计年鉴",
+        "statistical yearbook",
+        "直辖市",
+        "municipality"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Chongqing Municipality",
+          "Industrial production: output value by sector, major products, automobile manufacturing output (Chongqing is a major auto hub)",
+          "Fixed asset investment: total investment by sector, real estate development, infrastructure projects",
+          "Consumer prices: CPI and PPI data for Chongqing and major districts",
+          "Population statistics: permanent resident population, urbanization rate, migration data",
+          "Employment and wages: employed persons by sector, unemployment rate, average wages",
+          "Retail and services: total retail sales, e-commerce data, service industry growth",
+          "Chongqing Statistical Yearbook: comprehensive annual compilation covering all socioeconomic statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：重庆市季度和年度GDP数据，按产业分类",
+          "工业生产：各行业工业产值、主要产品产量（重庆是重要汽车制造基地）",
+          "固定资产投资：按行业分类的投资总额、房地产开发、基础设施项目",
+          "消费价格：重庆市及主要区县的居民消费价格指数和工业品出厂价格",
+          "人口统计：常住人口、城镇化率、人口流动数据",
+          "就业与工资：各行业从业人员数、失业率、平均工资水平",
+          "零售与服务：社会消费品零售总额、电子商务数据、服务业增长情况",
+          "重庆统计年鉴：涵盖所有社会经济统计的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-cq-stats.json"
+    },
+    {
       "id": "china-fj-stats",
       "name": {
         "en": "Fujian Bureau of Statistics",
@@ -3518,6 +3588,150 @@
       },
       "has_api": false,
       "file_path": "china/economy/provincial/china-shanghai-stats.json"
+    },
+    {
+      "id": "china-tj-stats",
+      "name": {
+        "en": "Tianjin Bureau of Statistics",
+        "zh": "天津市统计局"
+      },
+      "description": {
+        "en": "The Tianjin Bureau of Statistics is the official statistical authority for Tianjin, one of China's four direct-controlled municipalities and a major port city in the Bohai Economic Rim. It publishes comprehensive socioeconomic data covering GDP, industrial output, foreign trade, port logistics, population, and fixed asset investment. Tianjin serves as the gateway port for Beijing and a key logistics hub in northern China, making its trade and industrial statistics especially valuable. The bureau releases monthly economic bulletins, statistical communiqués, and the annual Tianjin Statistical Yearbook, providing essential data for the Beijing-Tianjin-Hebei (Jing-Jin-Ji) regional integration analysis.",
+        "zh": "天津市统计局是天津市官方统计机构。天津是中国四个直辖市之一，环渤海经济圈的重要港口城市。统计局发布涵盖天津市GDP、工业产值、对外贸易、港口物流、人口及固定资产投资等全面社会经济数据。天津作为北京的出海口和华北重要物流枢纽，其贸易与工业统计数据尤具价值。统计局定期发布月度经济运行情况、统计公报及年度《天津统计年鉴》，为京津冀协同发展研究提供重要数据支撑。"
+      },
+      "website": "https://stats.tj.gov.cn/",
+      "data_url": "https://stats.tj.gov.cn/tjsj_52032/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "trade",
+        "social"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "天津统计",
+        "Tianjin statistics",
+        "天津GDP",
+        "Tianjin GDP",
+        "京津冀",
+        "Beijing-Tianjin-Hebei",
+        "环渤海",
+        "Bohai Economic Rim",
+        "省级统计",
+        "provincial statistics",
+        "港口物流",
+        "port logistics",
+        "对外贸易",
+        "foreign trade",
+        "工业产值",
+        "industrial output",
+        "统计年鉴",
+        "statistical yearbook",
+        "直辖市",
+        "municipality"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Tianjin Municipality",
+          "Industrial production: output value by sector, petrochemicals, aerospace, advanced manufacturing statistics",
+          "Foreign trade: import and export data via Tianjin Port, trading partner breakdown",
+          "Port logistics: Tianjin Port cargo throughput, container volume, shipping routes",
+          "Fixed asset investment: total investment, industrial projects, infrastructure expenditure",
+          "Population statistics: permanent resident population, urbanization rate, demographic structure",
+          "Employment and wages: employed persons by sector, unemployment rate, average wages",
+          "Tianjin Statistical Yearbook: comprehensive annual compilation covering all socioeconomic statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：天津市季度和年度GDP数据，按产业分类",
+          "工业生产：各行业工业产值，石油化工、航空航天、先进制造业统计",
+          "对外贸易：通过天津港的进出口数据，贸易伙伴分类",
+          "港口物流：天津港货物吞吐量、集装箱量、航运线路数据",
+          "固定资产投资：投资总额、工业项目、基础设施投入",
+          "人口统计：常住人口、城镇化率、人口结构",
+          "就业与工资：各行业从业人员数、失业率、平均工资水平",
+          "天津统计年鉴：涵盖所有社会经济统计的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-tj-stats.json"
+    },
+    {
+      "id": "china-yn-stats",
+      "name": {
+        "en": "Yunnan Bureau of Statistics",
+        "zh": "云南省统计局"
+      },
+      "description": {
+        "en": "The Yunnan Bureau of Statistics is the official statistical authority for Yunnan Province, a biodiversity hotspot and frontier province bordering Myanmar, Laos, and Vietnam. It publishes comprehensive socioeconomic data covering GDP, agricultural production, tourism, mineral resources, cross-border trade, and ethnic minority demographics. Yunnan is strategically important as a gateway to Southeast Asia under China's Belt and Road Initiative and as a major producer of non-ferrous metals, tobacco, and flowers. The bureau releases monthly economic bulletins, the Yunnan Statistical Yearbook, and thematic reports on tourism and ecological development.",
+        "zh": "云南省统计局是云南省官方统计机构。云南是生物多样性热点地区，与缅甸、老挝、越南接壤。统计局发布涵盖云南省GDP、农业生产、旅游业、矿产资源、跨境贸易及少数民族人口等全面社会经济数据。云南在「一带一路」框架下战略地位重要，是连接东南亚的重要门户，也是中国有色金属、烟草和鲜花的重要产区。统计局定期发布月度经济运行情况、《云南统计年鉴》及旅游与生态发展专题报告。"
+      },
+      "website": "https://tjj.yn.gov.cn/",
+      "data_url": "https://tjj.yn.gov.cn/tjsj/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "agriculture",
+        "social"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "云南统计",
+        "Yunnan statistics",
+        "云南GDP",
+        "Yunnan GDP",
+        "西南边境",
+        "southwestern border",
+        "省级统计",
+        "provincial statistics",
+        "旅游业",
+        "tourism",
+        "有色金属",
+        "non-ferrous metals",
+        "烟草",
+        "tobacco",
+        "跨境贸易",
+        "cross-border trade",
+        "一带一路",
+        "Belt and Road",
+        "少数民族",
+        "ethnic minorities",
+        "生物多样性",
+        "biodiversity",
+        "统计年鉴",
+        "statistical yearbook"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Yunnan Province",
+          "Agricultural production: crop output, tea, flowers, tropical fruits; Yunnan is China's top flower producer",
+          "Tourism: domestic and international visitor arrivals, tourism revenue, key scenic area data",
+          "Mineral resources: non-ferrous metals output (copper, tin, zinc, lead), phosphate production",
+          "Cross-border trade: import and export data through Yunnan's border crossings with ASEAN countries",
+          "Population and ethnicity: demographic data for Yunnan's 26 ethnic minority groups",
+          "Energy: hydropower generation data, clean energy development statistics",
+          "Yunnan Statistical Yearbook: comprehensive annual compilation covering all socioeconomic statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：云南省季度和年度GDP数据，按产业分类",
+          "农业生产：粮食产量、茶叶、鲜花、热带水果（云南是中国最大鲜花产区）",
+          "旅游业：国内外游客接待量、旅游收入、重要景区数据",
+          "矿产资源：有色金属产量（铜、锡、锌、铅）、磷化工生产情况",
+          "跨境贸易：通过云南口岸与东盟国家的进出口数据",
+          "人口与民族：云南省26个少数民族人口统计数据",
+          "能源：水电发电量数据、清洁能源发展统计",
+          "云南统计年鉴：涵盖所有社会经济统计的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-yn-stats.json"
     },
     {
       "id": "china-zj-stats",
@@ -6751,6 +6965,162 @@
       },
       "has_api": false,
       "file_path": "china/technology/digital_economy/china-national-data-bureau.json"
+    },
+    {
+      "id": "china-caam",
+      "name": {
+        "en": "China Association of Automobile Manufacturers",
+        "zh": "中国汽车工业协会"
+      },
+      "description": {
+        "en": "The China Association of Automobile Manufacturers (CAAM) is the national industry association representing China's automotive sector, overseen by the Ministry of Industry and Information Technology. As the authoritative voice of the world's largest automobile market, CAAM publishes monthly and annual production and sales statistics for passenger cars, commercial vehicles, new energy vehicles (NEVs), and motorcycles. Its data covers output by manufacturer, vehicle category, fuel type, and region, making it the primary reference for tracking China's automotive industry trends. CAAM also releases NEV adoption statistics, export data, and policy research reports.",
+        "zh": "中国汽车工业协会（中汽协）是工业和信息化部主管的全国性汽车行业组织，代表全球最大汽车市场的利益。协会发布乘用车、商用车、新能源汽车及摩托车的月度和年度产销统计数据，按厂商、车型类别、动力类型和地区分类，是追踪中国汽车行业发展趋势的主要数据来源。协会同时发布新能源汽车渗透率、出口数据及行业政策研究报告。"
+      },
+      "website": "http://www.caam.org.cn/",
+      "data_url": "http://www.caam.org.cn/chn/4/cate_39/index.html",
+      "api_url": null,
+      "authority_level": "other",
+      "country": "CN",
+      "geographic_scope": "national",
+      "domains": [
+        "economics",
+        "industry",
+        "technology",
+        "trade"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "中国汽车工业协会",
+        "CAAM",
+        "中国汽车产销",
+        "China auto production sales",
+        "新能源汽车",
+        "new energy vehicles",
+        "NEV",
+        "乘用车",
+        "passenger cars",
+        "商用车",
+        "commercial vehicles",
+        "汽车出口",
+        "auto exports",
+        "汽车行业",
+        "automobile industry",
+        "电动车",
+        "electric vehicles",
+        "EV",
+        "汽车产量",
+        "vehicle production",
+        "汽车市场",
+        "auto market",
+        "比亚迪",
+        "BYD",
+        "新能源渗透率",
+        "NEV penetration rate"
+      ],
+      "data_content": {
+        "en": [
+          "Monthly production and sales: total vehicle output and sales by manufacturer, including all major domestic and joint venture brands",
+          "New energy vehicles (NEV): monthly NEV production, sales, and market penetration rate by vehicle type (BEV, PHEV, FCEV)",
+          "Passenger car segment data: sedan, SUV, MPV, crossover production and sales statistics",
+          "Commercial vehicle data: trucks, buses, and special purpose vehicles output and sales",
+          "Automobile exports: monthly vehicle export volume and value by destination country",
+          "Market share rankings: top-selling models and manufacturer market share by category",
+          "Industry annual report: comprehensive overview of China's automotive sector performance, trends, and outlook",
+          "Policy research: analysis of automotive industry policies, emission standards, and electrification targets"
+        ],
+        "zh": [
+          "月度产销数据：按厂商分类的汽车总产量和销量，涵盖所有主要自主品牌和合资品牌",
+          "新能源汽车：月度新能源汽车产量、销量及市场渗透率（按纯电动、插混、燃料电池分类）",
+          "乘用车分类数据：轿车、SUV、MPV、越野车产销统计",
+          "商用车数据：货车、客车及专用车产销情况",
+          "汽车出口：月度汽车出口量及出口额，按目标国家分类",
+          "市场排名：热销车型及各细分市场厂商份额",
+          "行业年度报告：中国汽车产业全年运行综述、发展趋势与展望",
+          "政策研究：汽车产业政策、排放标准及电动化目标分析"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/technology/industry_associations/china-caam.json"
+    },
+    {
+      "id": "china-cisa",
+      "name": {
+        "en": "China Iron and Steel Association",
+        "zh": "中国钢铁工业协会"
+      },
+      "description": {
+        "en": "The China Iron and Steel Association (CISA) is the national industry association representing China's iron and steel sector, the world's largest steel producer accounting for over 50% of global output. CISA publishes authoritative monthly and annual statistics on crude steel production, pig iron output, steel product consumption, iron ore imports, coking coal usage, and steel prices. Its data is essential for global commodity markets, supply chain analysis, and industrial policy research. CISA also tracks enterprise-level performance indicators, capacity utilization rates, and environmental compliance metrics for major steel mills across China.",
+        "zh": "中国钢铁工业协会（中钢协）是代表中国钢铁行业的全国性行业组织。中国是全球最大钢铁生产国，产量占全球总量的50%以上。协会发布粗钢产量、生铁产量、钢材消费、铁矿石进口、炼焦煤使用及钢材价格等权威月度和年度统计数据，是全球大宗商品市场、供应链分析和产业政策研究的重要数据来源。协会还追踪全国主要钢铁企业的运营绩效指标、产能利用率及环保合规情况。"
+      },
+      "website": "https://www.chinaisa.org.cn/",
+      "data_url": "https://www.chinaisa.org.cn/gxportal/xfgl/portal/index.html",
+      "api_url": null,
+      "authority_level": "other",
+      "country": "CN",
+      "geographic_scope": "national",
+      "domains": [
+        "economics",
+        "industry",
+        "trade",
+        "environment"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "中国钢铁工业协会",
+        "CISA",
+        "中国钢铁产量",
+        "China steel production",
+        "粗钢",
+        "crude steel",
+        "生铁",
+        "pig iron",
+        "铁矿石",
+        "iron ore",
+        "钢材价格",
+        "steel prices",
+        "炼焦煤",
+        "coking coal",
+        "钢铁行业",
+        "steel industry",
+        "产能利用率",
+        "capacity utilization",
+        "钢铁出口",
+        "steel exports",
+        "冶金",
+        "metallurgy",
+        "大宗商品",
+        "commodities",
+        "宝钢",
+        "Baosteel",
+        "碳排放",
+        "carbon emissions"
+      ],
+      "data_content": {
+        "en": [
+          "Crude steel production: monthly and annual output by province, enterprise type, and major mill",
+          "Pig iron and iron ore: monthly pig iron production and iron ore import volumes by origin country (Australia, Brazil, etc.)",
+          "Steel product consumption: downstream demand by sector (construction, machinery, automotive, shipbuilding)",
+          "Steel prices: composite price indices for major steel products (rebar, hot-rolled coil, plate, wire rod)",
+          "Enterprise performance: profitability, revenue, and loss data for key steel enterprises",
+          "Capacity and utilization: installed steelmaking capacity and utilization rates",
+          "Coking coal and coke: monthly consumption and price data for raw material inputs",
+          "Environmental metrics: energy consumption per ton of steel, emission reduction progress",
+          "Steel export and import: monthly trade volumes and values by product category and destination"
+        ],
+        "zh": [
+          "粗钢产量：按省份、企业性质和主要钢厂分类的月度和年度产量",
+          "生铁与铁矿石：月度生铁产量及按来源国（澳大利亚、巴西等）分类的铁矿石进口量",
+          "钢材消费：按下游行业（建筑、机械、汽车、造船）分类的消费需求",
+          "钢材价格：主要钢铁产品（螺纹钢、热轧卷板、中厚板、线材）的综合价格指数",
+          "企业绩效：重点钢铁企业盈利情况、营收及亏损数据",
+          "产能与利用率：炼钢产能及产能利用率",
+          "炼焦煤与焦炭：原料月度消耗量及价格数据",
+          "环保指标：吨钢能耗、减排进展数据",
+          "钢铁进出口：按产品类别和目的地分类的月度贸易量及贸易额"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/technology/industry_associations/china-cisa.json"
     },
     {
       "id": "china-isc",
