@@ -1,59 +1,59 @@
 {
   "metadata": {
-    "generated_at": "2026-04-02T06:11:30.840048+00:00",
+    "generated_at": "2026-04-03T02:19:47.345794+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 345,
+    "total_sources": 350,
     "sources_with_api": 150,
-    "last_updated": "2026-04-02"
+    "last_updated": "2026-04-03"
   },
   "by_authority_level": {
     "research": 37,
     "international": 74,
-    "government": 196,
+    "government": 201,
     "other": 6,
     "market": 16,
     "commercial": 16
   },
   "by_geographic_scope": {
     "global": 100,
-    "national": 204,
+    "national": 205,
     "regional": 26,
-    "subnational": 15
+    "subnational": 19
   },
   "by_update_frequency": {
     "irregular": 51,
     "daily": 54,
     "weekly": 9,
     "quarterly": 33,
-    "monthly": 120,
-    "annual": 67,
+    "monthly": 124,
+    "annual": 68,
     "real-time": 11
   },
   "by_domain": {
-    "economics": 151,
+    "economics": 155,
     "trade": 84,
     "demographics": 75,
-    "social": 65,
+    "social": 69,
     "environment": 58,
-    "agriculture": 55,
+    "agriculture": 57,
     "finance": 54,
     "health": 43,
     "employment": 42,
     "education": 41,
-    "industry": 31,
+    "industry": 32,
+    "statistics": 31,
     "energy": 26,
-    "statistics": 26,
     "prices": 22,
-    "technology": 20,
+    "technology": 21,
     "climate": 18,
     "infrastructure": 18,
     "housing": 18,
     "development": 16,
+    "governance": 13,
     "manufacturing": 13,
     "labor": 12,
-    "governance": 12,
     "banking": 12,
     "transportation": 10,
     "monetary-policy": 10,
@@ -320,6 +320,7 @@
     "bond-market": 1,
     "debt-financing": 1,
     "government-budget": 1,
+    "history": 1,
     "migration": 1,
     "cloud-computing": 1,
     "artificial-intelligence": 1,

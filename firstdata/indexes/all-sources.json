@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-02T06:11:30.840048+00:00",
-    "total_sources": 345,
+    "generated_at": "2026-04-03T02:19:47.345794+00:00",
+    "total_sources": 350,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -3085,6 +3085,88 @@
       "file_path": "china/economy/provincial/china-gd-stats.json"
     },
     {
+      "id": "china-gz-stats",
+      "name": {
+        "en": "Guizhou Bureau of Statistics",
+        "zh": "贵州省统计局"
+      },
+      "description": {
+        "en": "The Guizhou Bureau of Statistics is the official statistical authority for Guizhou Province, a mountainous province in southwestern China that has experienced remarkable transformation from one of China's poorest regions to a leading hub for big data, cloud computing, and digital economy. Guizhou is also renowned for Maotai liquor production and tourism. The bureau publishes comprehensive socioeconomic statistics covering GDP, digital economy indicators, poverty alleviation outcomes, tourism revenue, industrial output, population, and agricultural data. It also releases the Guizhou Statistical Yearbook and thematic reports on big data industry development.",
+        "zh": "贵州省统计局是贵州省官方统计机构，贵州是中国西南部山区省份，从中国最贫困地区之一成功转型为大数据、云计算和数字经济的重要枢纽，同时以茅台酒生产和旅游业著称。统计局发布贵州省GDP、数字经济指标、脱贫攻坚成效、旅游收入、工业产值、人口和农业数据等全面社会经济统计，并出版《贵州统计年鉴》及大数据产业发展专题报告。"
+      },
+      "website": "https://tjj.gz.gov.cn/",
+      "data_url": "https://stjj.guizhou.gov.cn/tjsj/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "social",
+        "technology"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "贵州统计",
+        "Guizhou statistics",
+        "贵州GDP",
+        "Guizhou GDP",
+        "西部大开发",
+        "western China development",
+        "省级统计",
+        "provincial statistics",
+        "大数据",
+        "big data",
+        "数字经济",
+        "digital economy",
+        "云计算",
+        "cloud computing",
+        "茅台",
+        "Maotai",
+        "白酒",
+        "baijiu",
+        "旅游",
+        "tourism",
+        "脱贫攻坚",
+        "poverty alleviation",
+        "统计年鉴",
+        "statistical yearbook",
+        "人口统计",
+        "population statistics",
+        "贵阳",
+        "Guiyang"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Guizhou Province",
+          "Digital economy indicators: big data industry revenue, cloud computing capacity, data center statistics",
+          "Poverty alleviation outcomes: rural income growth, poverty reduction metrics, village revitalization data",
+          "Tourism statistics: visitor arrivals, tourism revenue, scenic area performance by region",
+          "Industrial production: liquor output (Maotai), phosphate chemicals, energy production statistics",
+          "Agricultural statistics: crop output, tobacco production, agricultural income",
+          "Fixed asset investment: infrastructure investment, industrial parks, tech hub development",
+          "Population statistics: census data, household registration, birth and death rates, urbanization",
+          "Employment and wages: employed persons, unemployment rate, average wages by sector",
+          "Guizhou Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：贵州省季度和年度GDP数据，按产业分类",
+          "数字经济指标：大数据产业收入、云计算容量、数据中心统计",
+          "脱贫攻坚成效：农村居民收入增长、减贫指标、乡村振兴数据",
+          "旅游统计：游客人次、旅游收入、各地景区经营情况",
+          "工业生产：白酒（茅台）产量、磷化工、能源生产统计",
+          "农业统计：粮食产量、烟草生产、农民收入",
+          "固定资产投资：基础设施投资、工业园区、科技园区发展",
+          "人口统计：人口普查数据、户籍人口、出生率和死亡率、城镇化率",
+          "就业与工资：从业人员数、失业率、各行业平均工资",
+          "贵州统计年鉴：全省各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-gz-stats.json"
+    },
+    {
       "id": "china-ha-stats",
       "name": {
         "en": "Henan Bureau of Statistics",
@@ -3229,6 +3311,86 @@
       "file_path": "china/economy/provincial/china-hb-stats.json"
     },
     {
+      "id": "china-hlj-stats",
+      "name": {
+        "en": "Heilongjiang Bureau of Statistics",
+        "zh": "黑龙江省统计局"
+      },
+      "description": {
+        "en": "The Heilongjiang Bureau of Statistics is the official statistical authority for Heilongjiang Province, China's northernmost province bordering Russia. Heilongjiang is known for its rich black soil farmland (China's key grain reserve base), the Daqing oilfield (one of China's largest petroleum bases), extensive forestry resources, and growing cross-border trade with Russia. The bureau publishes comprehensive socioeconomic statistics covering GDP, grain production, petroleum output, forestry, foreign trade, population, and employment. It also releases the Heilongjiang Statistical Yearbook and periodic economic bulletins.",
+        "zh": "黑龙江省统计局是黑龙江省官方统计机构，黑龙江是中国最北省份，与俄罗斯接壤，以肥沃黑土地（中国重要粮食储备基地）、大庆油田（中国最大石油基地之一）、丰富的森林资源及日益增长的对俄边境贸易著称。统计局发布黑龙江省GDP、粮食产量、石油产量、林业、进出口贸易、人口和就业等全面社会经济统计数据，并出版《黑龙江统计年鉴》和定期经济运行报告。"
+      },
+      "website": "https://tjj.hlj.gov.cn/",
+      "data_url": "https://tjj.hlj.gov.cn/tjj/c106777/common_zfxxgk.shtml?tab=tjxx",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "social",
+        "agriculture"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "黑龙江统计",
+        "Heilongjiang statistics",
+        "黑龙江GDP",
+        "Heilongjiang GDP",
+        "东北振兴",
+        "northeast China revitalization",
+        "省级统计",
+        "provincial statistics",
+        "粮食生产",
+        "grain production",
+        "黑土地",
+        "black soil",
+        "大庆油田",
+        "Daqing oilfield",
+        "石油",
+        "petroleum",
+        "林业",
+        "forestry",
+        "对俄贸易",
+        "Russia trade",
+        "统计年鉴",
+        "statistical yearbook",
+        "人口统计",
+        "population statistics",
+        "哈尔滨",
+        "Harbin"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Heilongjiang Province",
+          "Agricultural production: grain output, soybean and rice production, black soil farmland utilization",
+          "Energy production: Daqing oilfield output, natural gas production, coal mining statistics",
+          "Forestry statistics: timber output, forest area, forest industry performance",
+          "Industrial production: output value by industry, enterprise performance, major product output",
+          "Foreign trade: cross-border trade with Russia via Harbin and border ports",
+          "Population statistics: census data, household registration, birth and death rates, urbanization",
+          "Employment and wages: employed persons, unemployment rate, average wages by sector",
+          "Consumer prices: CPI and PPI for Heilongjiang Province and major cities",
+          "Heilongjiang Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：黑龙江省季度和年度GDP数据，按产业分类",
+          "农业生产：粮食产量、大豆和水稻产量、黑土地利用数据",
+          "能源生产：大庆油田产量、天然气产量、煤炭开采统计",
+          "林业统计：木材产量、森林面积、林业企业经营情况",
+          "工业生产：各行业工业产值、企业经营情况、主要产品产量",
+          "对外贸易：哈尔滨及各边境口岸对俄边境贸易数据",
+          "人口统计：人口普查数据、户籍人口、出生率和死亡率、城镇化率",
+          "就业与工资：从业人员数、失业率、各行业平均工资",
+          "消费价格：黑龙江省及主要城市居民消费价格指数、工业品出厂价格",
+          "黑龙江统计年鉴：全省各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-hlj-stats.json"
+    },
+    {
       "id": "china-hn-stats",
       "name": {
         "en": "Hunan Bureau of Statistics",
@@ -3301,6 +3463,84 @@
       "file_path": "china/economy/provincial/china-hn-stats.json"
     },
     {
+      "id": "china-jl-stats",
+      "name": {
+        "en": "Jilin Bureau of Statistics",
+        "zh": "吉林省统计局"
+      },
+      "description": {
+        "en": "The Jilin Bureau of Statistics is the official statistical authority for Jilin Province, located in northeastern China. Jilin is a critical grain-producing province (China's corn belt), home to China's leading automotive manufacturer FAW Group in Changchun, and a hub for the petrochemical industry. The bureau publishes comprehensive socioeconomic statistics including GDP, grain production, automotive output, industrial performance, population, employment, and trade data. It also releases the Jilin Statistical Yearbook and periodic economic bulletins covering the province's agricultural, industrial, and service sectors.",
+        "zh": "吉林省统计局是吉林省官方统计机构，吉林位于中国东北，是中国重要的粮食主产区（玉米带），拥有中国最大的汽车制造商一汽集团（长春）和重要的石化工业基地。统计局发布吉林省GDP、粮食产量、汽车产量、工业运行、人口、就业和贸易等全面的社会经济统计数据，并出版《吉林统计年鉴》和定期经济运行报告，涵盖全省农业、工业和服务业发展情况。"
+      },
+      "website": "https://tjj.jl.gov.cn/",
+      "data_url": "https://tjj.jl.gov.cn/tjsj/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "social",
+        "agriculture"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "吉林统计",
+        "Jilin statistics",
+        "吉林GDP",
+        "Jilin GDP",
+        "东北振兴",
+        "northeast China revitalization",
+        "省级统计",
+        "provincial statistics",
+        "粮食生产",
+        "grain production",
+        "玉米",
+        "corn",
+        "汽车制造",
+        "automotive manufacturing",
+        "一汽",
+        "FAW Group",
+        "长春",
+        "Changchun",
+        "统计年鉴",
+        "statistical yearbook",
+        "人口统计",
+        "population statistics",
+        "经济运行",
+        "economic performance"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Jilin Province",
+          "Agricultural production: grain output, corn production, livestock, and agricultural income data",
+          "Industrial production: automotive output, petrochemical industry, output value by sector",
+          "Fixed asset investment: total investment, real estate development, infrastructure",
+          "Population statistics: census data, household registration, birth and death rates, urbanization",
+          "Employment and wages: employed persons, unemployment rate, average wages by sector",
+          "Consumer prices: CPI and PPI for Jilin Province and major cities",
+          "Foreign trade: exports, imports, and economic cooperation with Russia and Northeast Asia",
+          "Social development: education, healthcare resources, social security coverage",
+          "Jilin Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：吉林省季度和年度GDP数据，按产业分类",
+          "农业生产：粮食产量、玉米产量、畜牧业及农民收入数据",
+          "工业生产：汽车产量、石化工业、各行业工业产值",
+          "固定资产投资：全省投资总额、房地产开发、基础设施投资",
+          "人口统计：人口普查数据、户籍人口、出生率和死亡率、城镇化率",
+          "就业与工资：从业人员数、失业率、各行业平均工资",
+          "消费价格：吉林省及主要城市居民消费价格指数、工业品出厂价格",
+          "对外贸易：进出口数据及与俄罗斯、东北亚经济合作情况",
+          "社会发展：教育、医疗卫生资源、社会保障覆盖率",
+          "吉林统计年鉴：全省各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-jl-stats.json"
+    },
+    {
       "id": "china-js-stats",
       "name": {
         "en": "Jiangsu Bureau of Statistics",
@@ -3367,6 +3607,86 @@
       },
       "has_api": false,
       "file_path": "china/economy/provincial/china-js-stats.json"
+    },
+    {
+      "id": "china-ln-stats",
+      "name": {
+        "en": "Liaoning Bureau of Statistics",
+        "zh": "辽宁省统计局"
+      },
+      "description": {
+        "en": "The Liaoning Bureau of Statistics is the official statistical authority for Liaoning Province, a major northeastern industrial base in China known for heavy industry, steel production, petrochemicals, and defense manufacturing. Key cities include Shenyang and Dalian. The bureau publishes comprehensive socioeconomic statistics covering GDP, industrial output, fixed asset investment, trade, employment, and population data for Liaoning. It also releases the Liaoning Statistical Yearbook, monthly economic bulletins, and special thematic reports on industrial and urban development.",
+        "zh": "辽宁省统计局是辽宁省官方统计机构，辽宁是中国重要的东北老工业基地，以重工业、钢铁、石化和国防工业著称，主要城市包括沈阳和大连。统计局发布辽宁省GDP、工业产值、固定资产投资、进出口贸易、就业和人口等全面的社会经济统计数据，并出版《辽宁统计年鉴》、每月经济运行报告及专项统计报告。"
+      },
+      "website": "https://tjj.ln.gov.cn/",
+      "data_url": "https://tjj.ln.gov.cn/tjsj/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "social",
+        "industry"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "辽宁统计",
+        "Liaoning statistics",
+        "辽宁GDP",
+        "Liaoning GDP",
+        "东北振兴",
+        "northeast China revitalization",
+        "省级统计",
+        "provincial statistics",
+        "重工业",
+        "heavy industry",
+        "钢铁生产",
+        "steel production",
+        "石化工业",
+        "petrochemical industry",
+        "固定资产投资",
+        "fixed asset investment",
+        "人口统计",
+        "population statistics",
+        "统计年鉴",
+        "statistical yearbook",
+        "经济运行",
+        "economic performance",
+        "沈阳",
+        "Shenyang",
+        "大连",
+        "Dalian"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Liaoning Province",
+          "Industrial production: output value by industry, major products output, industrial enterprise performance",
+          "Fixed asset investment: total investment, real estate development, infrastructure investment",
+          "Foreign trade: exports and imports data for Liaoning's open ports and special economic zones",
+          "Population statistics: census data, household registration, birth and death rates, urbanization",
+          "Employment and wages: employed persons, unemployment rate, average wages by sector",
+          "Consumer prices: CPI, PPI for Liaoning Province and major cities",
+          "Agricultural statistics: crop output, livestock, fishery production",
+          "Social development: education, healthcare resources, social security coverage",
+          "Liaoning Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：辽宁省季度和年度GDP数据，按产业分类",
+          "工业生产：各行业工业产值、主要产品产量、工业企业经营情况",
+          "固定资产投资：全省投资总额、房地产开发、基础设施投资",
+          "对外贸易：辽宁省各开放口岸和特殊经济区进出口数据",
+          "人口统计：人口普查数据、户籍人口、出生率和死亡率、城镇化率",
+          "就业与工资：从业人员数、失业率、各行业平均工资",
+          "消费价格：辽宁省及主要城市居民消费价格指数、工业品出厂价格",
+          "农业统计：粮食产量、畜牧业、渔业生产",
+          "社会发展：教育、医疗卫生资源、社会保障覆盖率",
+          "辽宁统计年鉴：全省各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-ln-stats.json"
     },
     {
       "id": "china-sc-stats",
@@ -5484,6 +5804,76 @@
       },
       "has_api": false,
       "file_path": "china/governance/china-moj.json"
+    },
+    {
+      "id": "china-saac",
+      "name": {
+        "en": "National Archives Administration of China",
+        "zh": "中华人民共和国国家档案局"
+      },
+      "description": {
+        "en": "The National Archives Administration of China (SAAC) is the central government authority responsible for managing China's national archives system, overseeing archival work across all levels of government, and setting standards for records management. SAAC administers the Central Archives, which holds important historical records of the Communist Party of China and the People's Republic of China including declassified documents, historical treaties, and rare manuscripts. The agency publishes national archives statistics, archival legislation, standards for electronic records management, and thematic document releases on significant historical events.",
+        "zh": "中华人民共和国国家档案局（国家档案局）是负责管理中国国家档案体系、监督各级政府档案工作、制定档案管理标准的中央政府主管部门。国家档案局管辖中央档案馆，保存有中国共产党和中华人民共和国的重要历史档案，包括解密文件、历史条约和珍贵手稿。该机构发布全国档案统计数据、档案法规标准、电子档案管理规范，以及重大历史事件的专题档案文献。"
+      },
+      "website": "https://www.saac.gov.cn/",
+      "data_url": "https://www.saac.gov.cn/daj/fzgz/lmlist.shtml",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "national",
+      "domains": [
+        "governance",
+        "history",
+        "statistics"
+      ],
+      "update_frequency": "annual",
+      "tags": [
+        "国家档案局",
+        "National Archives Administration",
+        "SAAC",
+        "中央档案馆",
+        "Central Archives",
+        "档案统计",
+        "archives statistics",
+        "历史文献",
+        "historical documents",
+        "档案法规",
+        "archival legislation",
+        "电子档案",
+        "electronic records",
+        "档案管理",
+        "records management",
+        "解密档案",
+        "declassified documents",
+        "政府信息公开",
+        "government information disclosure",
+        "档案年鉴",
+        "archives yearbook",
+        "标准规范",
+        "standards and specifications"
+      ],
+      "data_content": {
+        "en": [
+          "National archives statistics: annual reports on archives institutions, archival holdings volume, and staff nationwide",
+          "Archival legislation: laws, regulations, and administrative rules governing archives management in China",
+          "Electronic records management: standards and specifications for digital archives and e-government records",
+          "Historical document releases: declassified files on significant historical events, including wartime records and diplomatic archives",
+          "Archives yearbook: comprehensive annual compilation of national archival sector statistics",
+          "Planning and development: strategic plans for archives modernization, informatization progress indicators",
+          "Standards library: technical standards for archives preservation, digitization, and metadata management"
+        ],
+        "zh": [
+          "全国档案统计数据：全国档案机构、馆藏数量和从业人员年度统计报告",
+          "档案法规：中国档案管理的法律、法规和行政规章",
+          "电子档案管理：数字档案馆和电子政务档案的标准与规范",
+          "历史档案发布：重大历史事件的解密档案，包括战时档案和外交档案",
+          "档案年鉴：全国档案事业统计数据综合年度汇编",
+          "规划与发展：档案现代化战略规划、信息化进展指标",
+          "标准规范库：档案保护、数字化和元数据管理的技术标准"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/governance/china-saac.json"
     },
     {
       "id": "china-gas",

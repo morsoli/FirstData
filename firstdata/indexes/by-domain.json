@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-04-02T06:11:30.840048+00:00",
-    "total_domains": 704,
-    "total_sources": 345,
+    "generated_at": "2026-04-03T02:19:47.345794+00:00",
+    "total_domains": 705,
+    "total_sources": 350,
     "version": "2.0"
   },
   "domains": {
@@ -300,6 +300,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-hlj-stats",
+        "name": {
+          "en": "Heilongjiang Bureau of Statistics",
+          "zh": "黑龙江省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.hlj.gov.cn/tjj/c106777/common_zfxxgk.shtml?tab=tjxx",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-hlj-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-hn-stats",
         "name": {
           "en": "Hunan Bureau of Statistics",
@@ -309,6 +321,18 @@
         "data_url": "https://tjj.hunan.gov.cn/tjsj/",
         "has_api": false,
         "file_path": "china/economy/provincial/china-hn-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-jl-stats",
+        "name": {
+          "en": "Jilin Bureau of Statistics",
+          "zh": "吉林省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.jl.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-jl-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -6555,6 +6579,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-gz-stats",
+        "name": {
+          "en": "Guizhou Bureau of Statistics",
+          "zh": "贵州省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://stjj.guizhou.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-gz-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-ha-stats",
         "name": {
           "en": "Henan Bureau of Statistics",
@@ -6579,6 +6615,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-hlj-stats",
+        "name": {
+          "en": "Heilongjiang Bureau of Statistics",
+          "zh": "黑龙江省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.hlj.gov.cn/tjj/c106777/common_zfxxgk.shtml?tab=tjxx",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-hlj-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-hn-stats",
         "name": {
           "en": "Hunan Bureau of Statistics",
@@ -6591,6 +6639,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-jl-stats",
+        "name": {
+          "en": "Jilin Bureau of Statistics",
+          "zh": "吉林省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.jl.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-jl-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-js-stats",
         "name": {
           "en": "Jiangsu Bureau of Statistics",
@@ -6600,6 +6660,18 @@
         "data_url": "https://tj.jiangsu.gov.cn/col/col85273/index.html",
         "has_api": false,
         "file_path": "china/economy/provincial/china-js-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-ln-stats",
+        "name": {
+          "en": "Liaoning Bureau of Statistics",
+          "zh": "辽宁省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.ln.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-ln-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -13408,6 +13480,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-saac",
+        "name": {
+          "en": "National Archives Administration of China",
+          "zh": "中华人民共和国国家档案局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.saac.gov.cn/daj/fzgz/lmlist.shtml",
+        "has_api": false,
+        "file_path": "china/governance/china-saac.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "china-nmpa",
         "name": {
           "en": "National Medical Products Administration of China",
@@ -14461,6 +14545,20 @@
         "geographic_scope": "national"
       }
     ],
+    "history": [
+      {
+        "id": "china-saac",
+        "name": {
+          "en": "National Archives Administration of China",
+          "zh": "中华人民共和国国家档案局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.saac.gov.cn/daj/fzgz/lmlist.shtml",
+        "has_api": false,
+        "file_path": "china/governance/china-saac.json",
+        "geographic_scope": "national"
+      }
+    ],
     "homelessness": [
       {
         "id": "aus-aihw",
@@ -15160,6 +15258,18 @@
         "data_url": "https://tj.jiangsu.gov.cn/col/col85273/index.html",
         "has_api": false,
         "file_path": "china/economy/provincial/china-js-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-ln-stats",
+        "name": {
+          "en": "Liaoning Bureau of Statistics",
+          "zh": "辽宁省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.ln.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-ln-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -21532,6 +21642,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-gz-stats",
+        "name": {
+          "en": "Guizhou Bureau of Statistics",
+          "zh": "贵州省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://stjj.guizhou.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-gz-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-ha-stats",
         "name": {
           "en": "Henan Bureau of Statistics",
@@ -21556,6 +21678,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-hlj-stats",
+        "name": {
+          "en": "Heilongjiang Bureau of Statistics",
+          "zh": "黑龙江省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.hlj.gov.cn/tjj/c106777/common_zfxxgk.shtml?tab=tjxx",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-hlj-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-hn-stats",
         "name": {
           "en": "Hunan Bureau of Statistics",
@@ -21568,6 +21702,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-jl-stats",
+        "name": {
+          "en": "Jilin Bureau of Statistics",
+          "zh": "吉林省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.jl.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-jl-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-js-stats",
         "name": {
           "en": "Jiangsu Bureau of Statistics",
@@ -21577,6 +21723,18 @@
         "data_url": "https://tj.jiangsu.gov.cn/col/col85273/index.html",
         "has_api": false,
         "file_path": "china/economy/provincial/china-js-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-ln-stats",
+        "name": {
+          "en": "Liaoning Bureau of Statistics",
+          "zh": "辽宁省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.ln.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-ln-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -22775,6 +22933,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-gz-stats",
+        "name": {
+          "en": "Guizhou Bureau of Statistics",
+          "zh": "贵州省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://stjj.guizhou.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-gz-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-ha-stats",
         "name": {
           "en": "Henan Bureau of Statistics",
@@ -22799,6 +22969,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-hlj-stats",
+        "name": {
+          "en": "Heilongjiang Bureau of Statistics",
+          "zh": "黑龙江省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.hlj.gov.cn/tjj/c106777/common_zfxxgk.shtml?tab=tjxx",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-hlj-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-hn-stats",
         "name": {
           "en": "Hunan Bureau of Statistics",
@@ -22811,6 +22993,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-jl-stats",
+        "name": {
+          "en": "Jilin Bureau of Statistics",
+          "zh": "吉林省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.jl.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-jl-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-js-stats",
         "name": {
           "en": "Jiangsu Bureau of Statistics",
@@ -22820,6 +23014,18 @@
         "data_url": "https://tj.jiangsu.gov.cn/col/col85273/index.html",
         "has_api": false,
         "file_path": "china/economy/provincial/china-js-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-ln-stats",
+        "name": {
+          "en": "Liaoning Bureau of Statistics",
+          "zh": "辽宁省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.ln.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-ln-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -22904,6 +23110,18 @@
         "data_url": "https://www.moe.gov.cn/jyb_sjzl/sjzl_fztjgb/",
         "has_api": false,
         "file_path": "china/education/higher_education/china-moe-higher-education.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-saac",
+        "name": {
+          "en": "National Archives Administration of China",
+          "zh": "中华人民共和国国家档案局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.saac.gov.cn/daj/fzgz/lmlist.shtml",
+        "has_api": false,
+        "file_path": "china/governance/china-saac.json",
         "geographic_scope": "national"
       },
       {
@@ -23288,6 +23506,18 @@
         "has_api": false,
         "file_path": "china/economy/macro/china-ndrc-computing.json",
         "geographic_scope": "national"
+      },
+      {
+        "id": "china-gz-stats",
+        "name": {
+          "en": "Guizhou Bureau of Statistics",
+          "zh": "贵州省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://stjj.guizhou.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-gz-stats.json",
+        "geographic_scope": "subnational"
       },
       {
         "id": "china-caict",
