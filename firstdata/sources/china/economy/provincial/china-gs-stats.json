@@ -1,0 +1,82 @@
+{
+  "id": "china-gs-stats",
+  "name": {
+    "en": "Gansu Bureau of Statistics",
+    "zh": "甘肃省统计局"
+  },
+  "description": {
+    "en": "The Gansu Bureau of Statistics is the official statistical authority for Gansu Province, a long, narrow province in northwestern China traversing the historical Hexi Corridor — the ancient Silk Road artery connecting China to Central Asia. Gansu is rich in mineral resources including nickel, platinum group metals, and rare earths, and is a significant producer of petrochemicals, non-ferrous metals, and wind energy. The bureau publishes comprehensive socioeconomic statistics covering GDP, mineral extraction, energy production (particularly wind and solar power), agricultural output in the Loess Plateau region, population, and poverty alleviation outcomes. It also releases the Gansu Statistical Yearbook.",
+    "zh": "甘肃省统计局是甘肃省官方统计机构，甘肃是中国西北部一个狭长省份，横跨历史上的河西走廊——连接中国与中亚的古丝绸之路要道。甘肃矿产资源丰富，包括镍、铂族金属和稀土，是重要的石化、有色金属和风能生产基地。统计局发布甘肃省GDP、矿产开采、能源生产（尤其是风能和太阳能）、黄土高原农业产值、人口及脱贫攻坚成效等全面社会经济统计，并出版《甘肃统计年鉴》。"
+  },
+  "website": "https://tjj.gansu.gov.cn/",
+  "data_url": "https://tjj.gansu.gov.cn/tjj/tjsj/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "energy",
+    "social"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "甘肃统计",
+    "Gansu statistics",
+    "甘肃GDP",
+    "Gansu GDP",
+    "西部大开发",
+    "western China development",
+    "省级统计",
+    "provincial statistics",
+    "河西走廊",
+    "Hexi Corridor",
+    "丝绸之路",
+    "Silk Road",
+    "矿产资源",
+    "mineral resources",
+    "镍",
+    "nickel",
+    "风能",
+    "wind energy",
+    "太阳能",
+    "solar energy",
+    "新能源",
+    "new energy",
+    "稀土",
+    "rare earth",
+    "脱贫攻坚",
+    "poverty alleviation",
+    "统计年鉴",
+    "statistical yearbook",
+    "兰州",
+    "Lanzhou"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: quarterly and annual GDP data by industry sector for Gansu Province",
+      "Mineral extraction: nickel, platinum group metals, rare earth elements, coal, and other strategic minerals",
+      "Energy production: wind power generation, solar photovoltaic output, hydropower, oil and gas",
+      "Industrial output: petrochemicals, non-ferrous metals smelting, equipment manufacturing",
+      "Agricultural statistics: grain output, Chinese herbal medicine (traditional medicinal herbs), cash crops",
+      "Fixed asset investment: Silk Road infrastructure projects, new energy base construction",
+      "Population statistics: census data, household registration, birth and death rates, rural-urban migration",
+      "Employment and wages: employed persons, unemployment rate, average wages by sector",
+      "Poverty alleviation outcomes: rural income growth, poverty reduction metrics for former key poverty areas",
+      "Gansu Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+    ],
+    "zh": [
+      "GDP与经济增长：甘肃省季度和年度GDP数据，按产业分类",
+      "矿产开采：镍、铂族金属、稀土、煤炭及其他战略矿产资源",
+      "能源生产：风力发电量、光伏发电量、水电、石油和天然气",
+      "工业产值：石化、有色金属冶炼、装备制造业",
+      "农业统计：粮食产量、中药材（传统中草药）、经济作物",
+      "固定资产投资：丝绸之路基础设施项目、新能源基地建设",
+      "人口统计：人口普查数据、户籍人口、出生率和死亡率、农村人口城镇化",
+      "就业与工资：从业人员数、失业率、各行业平均工资",
+      "脱贫攻坚成效：农村居民收入增长、原深度贫困区减贫指标",
+      "甘肃统计年鉴：全省各类统计数据的综合年度汇编"
+    ]
+  }
+}
