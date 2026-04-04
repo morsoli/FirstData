@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-03T06:11:57.138292+00:00",
-    "total_sources": 355,
+    "generated_at": "2026-04-04T02:11:49.782675+00:00",
+    "total_sources": 360,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -3085,6 +3085,90 @@
       "file_path": "china/economy/provincial/china-gd-stats.json"
     },
     {
+      "id": "china-gs-stats",
+      "name": {
+        "en": "Gansu Bureau of Statistics",
+        "zh": "甘肃省统计局"
+      },
+      "description": {
+        "en": "The Gansu Bureau of Statistics is the official statistical authority for Gansu Province, a long, narrow province in northwestern China traversing the historical Hexi Corridor — the ancient Silk Road artery connecting China to Central Asia. Gansu is rich in mineral resources including nickel, platinum group metals, and rare earths, and is a significant producer of petrochemicals, non-ferrous metals, and wind energy. The bureau publishes comprehensive socioeconomic statistics covering GDP, mineral extraction, energy production (particularly wind and solar power), agricultural output in the Loess Plateau region, population, and poverty alleviation outcomes. It also releases the Gansu Statistical Yearbook.",
+        "zh": "甘肃省统计局是甘肃省官方统计机构，甘肃是中国西北部一个狭长省份，横跨历史上的河西走廊——连接中国与中亚的古丝绸之路要道。甘肃矿产资源丰富，包括镍、铂族金属和稀土，是重要的石化、有色金属和风能生产基地。统计局发布甘肃省GDP、矿产开采、能源生产（尤其是风能和太阳能）、黄土高原农业产值、人口及脱贫攻坚成效等全面社会经济统计，并出版《甘肃统计年鉴》。"
+      },
+      "website": "https://tjj.gansu.gov.cn/",
+      "data_url": "https://tjj.gansu.gov.cn/tjj/tjsj/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "energy",
+        "social"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "甘肃统计",
+        "Gansu statistics",
+        "甘肃GDP",
+        "Gansu GDP",
+        "西部大开发",
+        "western China development",
+        "省级统计",
+        "provincial statistics",
+        "河西走廊",
+        "Hexi Corridor",
+        "丝绸之路",
+        "Silk Road",
+        "矿产资源",
+        "mineral resources",
+        "镍",
+        "nickel",
+        "风能",
+        "wind energy",
+        "太阳能",
+        "solar energy",
+        "新能源",
+        "new energy",
+        "稀土",
+        "rare earth",
+        "脱贫攻坚",
+        "poverty alleviation",
+        "统计年鉴",
+        "statistical yearbook",
+        "兰州",
+        "Lanzhou"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Gansu Province",
+          "Mineral extraction: nickel, platinum group metals, rare earth elements, coal, and other strategic minerals",
+          "Energy production: wind power generation, solar photovoltaic output, hydropower, oil and gas",
+          "Industrial output: petrochemicals, non-ferrous metals smelting, equipment manufacturing",
+          "Agricultural statistics: grain output, Chinese herbal medicine (traditional medicinal herbs), cash crops",
+          "Fixed asset investment: Silk Road infrastructure projects, new energy base construction",
+          "Population statistics: census data, household registration, birth and death rates, rural-urban migration",
+          "Employment and wages: employed persons, unemployment rate, average wages by sector",
+          "Poverty alleviation outcomes: rural income growth, poverty reduction metrics for former key poverty areas",
+          "Gansu Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：甘肃省季度和年度GDP数据，按产业分类",
+          "矿产开采：镍、铂族金属、稀土、煤炭及其他战略矿产资源",
+          "能源生产：风力发电量、光伏发电量、水电、石油和天然气",
+          "工业产值：石化、有色金属冶炼、装备制造业",
+          "农业统计：粮食产量、中药材（传统中草药）、经济作物",
+          "固定资产投资：丝绸之路基础设施项目、新能源基地建设",
+          "人口统计：人口普查数据、户籍人口、出生率和死亡率、农村人口城镇化",
+          "就业与工资：从业人员数、失业率、各行业平均工资",
+          "脱贫攻坚成效：农村居民收入增长、原深度贫困区减贫指标",
+          "甘肃统计年鉴：全省各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-gs-stats.json"
+    },
+    {
       "id": "china-gx-stats",
       "name": {
         "en": "Guangxi Bureau of Statistics",
@@ -3918,6 +4002,174 @@
       "file_path": "china/economy/provincial/china-ln-stats.json"
     },
     {
+      "id": "china-nm-stats",
+      "name": {
+        "en": "Inner Mongolia Bureau of Statistics",
+        "zh": "内蒙古自治区统计局"
+      },
+      "description": {
+        "en": "The Inner Mongolia Bureau of Statistics is the official statistical authority for the Inner Mongolia Autonomous Region, China's third largest administrative division and a vast steppe-dominated autonomous region in northern China bordering Russia and Mongolia. Inner Mongolia is China's largest producer of coal, rare earth elements, and cashmere, and a leading region for wind and solar power generation. The bureau publishes comprehensive socioeconomic statistics covering GDP, energy and mineral production, animal husbandry, new energy capacity, population (including Mongolian ethnic minority data), and ecological conservation outcomes. It also releases the Inner Mongolia Statistical Yearbook.",
+        "zh": "内蒙古自治区统计局是内蒙古自治区官方统计机构，内蒙古是中国第三大行政区划，是北接俄罗斯和蒙古国的广袤草原自治区。内蒙古是全国最大的煤炭、稀土和羊绒产地，也是风能和太阳能发电的领先地区。统计局发布内蒙古GDP、能源和矿产产量、畜牧业、新能源装机容量、人口（含蒙古族少数民族数据）及生态保护成效等全面社会经济统计，并出版《内蒙古统计年鉴》。"
+      },
+      "website": "https://tjj.nmg.gov.cn/",
+      "data_url": "https://tjj.nmg.gov.cn/tjsj/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "energy",
+        "agriculture"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "内蒙古统计",
+        "Inner Mongolia statistics",
+        "内蒙古GDP",
+        "Inner Mongolia GDP",
+        "省级统计",
+        "provincial statistics",
+        "煤炭",
+        "coal",
+        "稀土",
+        "rare earth",
+        "风能",
+        "wind energy",
+        "太阳能",
+        "solar energy",
+        "新能源",
+        "new energy",
+        "羊绒",
+        "cashmere",
+        "畜牧业",
+        "animal husbandry",
+        "草原",
+        "steppe",
+        "蒙古族",
+        "Mongolian ethnic",
+        "统计年鉴",
+        "statistical yearbook",
+        "呼和浩特",
+        "Hohhot"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Inner Mongolia",
+          "Coal production: annual and monthly coal output, making Inner Mongolia China's top coal-producing region",
+          "Rare earth industry: extraction volume, smelting output, and processing statistics for rare earth elements",
+          "New energy statistics: wind power installed capacity and generation, solar photovoltaic capacity and output",
+          "Animal husbandry: livestock population (sheep, cattle, horses), wool and cashmere production, dairy output",
+          "Industrial output: energy and chemical industries, metallurgy, equipment manufacturing statistics",
+          "Agricultural statistics: grain output, grassland area, desertification control outcomes",
+          "Population statistics: total population, Mongolian and other ethnic minority population data, urbanization",
+          "Employment and wages: employed persons, unemployment rate, average wages by sector",
+          "Inner Mongolia Statistical Yearbook: comprehensive annual compilation of all regional statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：内蒙古季度和年度GDP数据，按产业分类",
+          "煤炭生产：年度及月度煤炭产量，内蒙古是全国最大煤炭产区",
+          "稀土产业：稀土开采量、冶炼产量及加工统计",
+          "新能源统计：风电装机容量和发电量、光伏装机容量和发电量",
+          "畜牧业：牲畜存栏量（羊、牛、马）、羊毛和羊绒产量、乳品产量",
+          "工业产值：能源和化工、冶金、装备制造业统计",
+          "农业统计：粮食产量、草原面积、荒漠化治理成效",
+          "人口统计：全区人口、蒙古族及其他少数民族人口数据、城镇化率",
+          "就业与工资：从业人员数、失业率、各行业平均工资",
+          "内蒙古统计年鉴：全区各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-nm-stats.json"
+    },
+    {
+      "id": "china-qh-stats",
+      "name": {
+        "en": "Qinghai Bureau of Statistics",
+        "zh": "青海省统计局"
+      },
+      "description": {
+        "en": "The Qinghai Bureau of Statistics is the official statistical authority for Qinghai Province, China's fourth largest province by area, located on the northeastern Tibetan Plateau at an average elevation exceeding 3,000 meters. Qinghai is the source of the Yangtze, Yellow, and Mekong rivers — earning it the title of 'China's Water Tower' — and is a critical ecological conservation zone. The province is rich in lithium, potassium, and other strategic minerals, and is emerging as a leader in clean energy production. The bureau publishes comprehensive socioeconomic statistics covering GDP, lithium and potash mining, clean energy generation (solar, wind, hydro), ecological indicators, animal husbandry, and population data for this ethnically diverse plateau region. It also releases the Qinghai Statistical Yearbook.",
+        "zh": "青海省统计局是青海省官方统计机构，青海是中国第四大省份，位于青藏高原东北部，平均海拔超过3000米。青海是长江、黄河和澜沧江的发源地，被誉为\"中华水塔\"，是重要的生态保护区。青海富含锂、钾盐等战略矿产，同时正成为清洁能源生产的领先地区。统计局发布青海省GDP、锂矿和钾盐开采、清洁能源发电（太阳能、风能、水电）、生态指标、畜牧业及这一多民族高原地区人口数据等全面社会经济统计，并出版《青海统计年鉴》。"
+      },
+      "website": "https://tjj.qinghai.gov.cn/",
+      "data_url": "https://tjj.qinghai.gov.cn/tjsj/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "energy",
+        "environment"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "青海统计",
+        "Qinghai statistics",
+        "青海GDP",
+        "Qinghai GDP",
+        "省级统计",
+        "provincial statistics",
+        "中华水塔",
+        "China water tower",
+        "青藏高原",
+        "Tibetan Plateau",
+        "锂矿",
+        "lithium",
+        "钾盐",
+        "potash",
+        "清洁能源",
+        "clean energy",
+        "太阳能",
+        "solar energy",
+        "水电",
+        "hydropower",
+        "生态保护",
+        "ecological conservation",
+        "畜牧业",
+        "animal husbandry",
+        "长江源",
+        "Yangtze River source",
+        "黄河源",
+        "Yellow River source",
+        "统计年鉴",
+        "statistical yearbook",
+        "西宁",
+        "Xining"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Qinghai Province",
+          "Lithium and strategic minerals: lithium carbonate output, potash (potassium chloride) mining and export volumes",
+          "Clean energy generation: solar power installed capacity and output, wind power, hydropower generation statistics",
+          "Ecological indicators: water quality of Yangtze/Yellow/Mekong river sources, grassland coverage, wetland area",
+          "Animal husbandry: yak, sheep, and Tibetan antelope population data, wool and dairy production",
+          "Industrial output: salt lake chemical industry, non-ferrous metals processing, new materials manufacturing",
+          "Agricultural statistics: barley (highland barley/qingke), cold-climate vegetables, medicinal herbs",
+          "Population statistics: census data, Tibetan, Hui, and other ethnic minority population composition",
+          "Employment and wages: employed persons, unemployment rate, average wages by sector",
+          "Qinghai Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：青海省季度和年度GDP数据，按产业分类",
+          "锂矿及战略矿产：碳酸锂产量、钾盐（氯化钾）开采和出口量",
+          "清洁能源发电：光伏装机容量和发电量、风电、水力发电统计",
+          "生态指标：长江/黄河/澜沧江源头水质、草地覆盖率、湿地面积",
+          "畜牧业：牦牛、绵羊和藏羚羊种群数据、羊毛和乳品产量",
+          "工业产值：盐湖化工产业、有色金属加工、新材料制造",
+          "农业统计：青稞（高原大麦）、高原蔬菜、中药材",
+          "人口统计：人口普查数据、藏族、回族及其他少数民族人口构成",
+          "就业与工资：从业人员数、失业率、各行业平均工资",
+          "青海统计年鉴：全省各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-qh-stats.json"
+    },
+    {
       "id": "china-sc-stats",
       "name": {
         "en": "Sichuan Bureau of Statistics",
@@ -4139,6 +4391,86 @@
       "file_path": "china/economy/provincial/china-shanghai-stats.json"
     },
     {
+      "id": "china-sn-stats",
+      "name": {
+        "en": "Shaanxi Bureau of Statistics",
+        "zh": "陕西省统计局"
+      },
+      "description": {
+        "en": "The Shaanxi Bureau of Statistics is the official statistical authority for Shaanxi Province, a historically significant province in northwestern China and the home of ancient capitals Xi'an, the terracotta army, and the starting point of the Silk Road. Shaanxi is a major center for energy production, aerospace, military industry, and high-tech manufacturing. The bureau publishes comprehensive socioeconomic statistics covering GDP, energy output (coal, natural gas, oil), aerospace and defense industry data, tourism, population, and agricultural figures. It also releases the Shaanxi Statistical Yearbook and regular economic analysis reports.",
+        "zh": "陕西省统计局是陕西省官方统计机构，陕西是中国西北部历史名省，古都西安、兵马俑及丝绸之路起点所在地。陕西是重要的能源生产、航空航天、军工和高新技术制造业中心。统计局发布陕西省GDP、能源产量（煤炭、天然气、石油）、航空航天与国防工业数据、旅游、人口及农业生产等全面社会经济统计，并出版《陕西统计年鉴》及定期经济运行分析报告。"
+      },
+      "website": "https://tjj.shaanxi.gov.cn/",
+      "data_url": "https://tjj.shaanxi.gov.cn/tjsj/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "energy",
+        "social"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "陕西统计",
+        "Shaanxi statistics",
+        "陕西GDP",
+        "Shaanxi GDP",
+        "西部大开发",
+        "western China development",
+        "省级统计",
+        "provincial statistics",
+        "能源生产",
+        "energy production",
+        "煤炭",
+        "coal",
+        "天然气",
+        "natural gas",
+        "航空航天",
+        "aerospace",
+        "西安",
+        "Xi'an",
+        "丝绸之路",
+        "Silk Road",
+        "统计年鉴",
+        "statistical yearbook",
+        "人口统计",
+        "population statistics",
+        "工业产值",
+        "industrial output"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Shaanxi Province",
+          "Energy production: coal output, natural gas extraction, crude oil production, electricity generation statistics",
+          "Industrial output: aerospace and defense manufacturing, electronics, equipment manufacturing, chemical industry",
+          "Fixed asset investment: total investment, infrastructure projects, industrial park development",
+          "Population statistics: census data, household registration, birth and death rates, urbanization",
+          "Employment and wages: employed persons, unemployment rate, average wages by sector",
+          "Consumer prices: CPI, PPI for Shaanxi Province and major cities including Xi'an",
+          "Agricultural statistics: grain output, apple production (Shaanxi is China's top apple producer), livestock",
+          "Tourism statistics: visitor arrivals to Xi'an and cultural heritage sites, tourism revenue",
+          "Shaanxi Statistical Yearbook: comprehensive annual compilation of all provincial statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：陕西省季度和年度GDP数据，按产业分类",
+          "能源生产：煤炭产量、天然气开采量、原油产量、发电量统计",
+          "工业产值：航空航天与国防制造、电子、装备制造、化工产业",
+          "固定资产投资：全省投资总额、基础设施项目、工业园区发展",
+          "人口统计：人口普查数据、户籍人口、出生率和死亡率、城镇化率",
+          "就业与工资：从业人员数、失业率、各行业平均工资",
+          "消费价格：陕西省及西安等主要城市居民消费价格指数、工业品出厂价格",
+          "农业统计：粮食产量、苹果产量（陕西是全国最大苹果产区）、畜牧业",
+          "旅游统计：西安及文化遗址游客人次、旅游收入",
+          "陕西统计年鉴：全省各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-sn-stats.json"
+    },
+    {
       "id": "china-tj-stats",
       "name": {
         "en": "Tianjin Bureau of Statistics",
@@ -4207,6 +4539,86 @@
       },
       "has_api": false,
       "file_path": "china/economy/provincial/china-tj-stats.json"
+    },
+    {
+      "id": "china-xj-stats",
+      "name": {
+        "en": "Xinjiang Bureau of Statistics",
+        "zh": "新疆维吾尔自治区统计局"
+      },
+      "description": {
+        "en": "The Xinjiang Bureau of Statistics is the official statistical authority for the Xinjiang Uyghur Autonomous Region, China's largest administrative division by area, located in the far northwest and bordering eight countries. Xinjiang is a critical energy hub, holding significant reserves of coal, oil, and natural gas, and is also a major producer of cotton, tomatoes, and fruits. The bureau publishes comprehensive socioeconomic statistics covering GDP, energy extraction and reserves, cotton production (Xinjiang accounts for over 85% of China's cotton output), agricultural output, fixed asset investment in infrastructure, population, and trade data related to China's Belt and Road Initiative. It also releases the Xinjiang Statistical Yearbook.",
+        "zh": "新疆维吾尔自治区统计局是新疆官方统计机构，新疆是中国面积最大的行政区划，位于中国最西北，与八个国家接壤。新疆是重要的能源基地，拥有丰富的煤炭、石油和天然气储量，同时也是棉花、番茄和水果的重要产区。统计局发布新疆GDP、能源开采与储量、棉花产量（新疆棉花产量占全国85%以上）、农业产值、基础设施固定资产投资、人口及\"一带一路\"相关贸易数据等全面社会经济统计，并出版《新疆统计年鉴》。"
+      },
+      "website": "https://tjj.xinjiang.gov.cn/",
+      "data_url": "https://tjj.xinjiang.gov.cn/tjj/tjsj/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "subnational",
+      "domains": [
+        "economics",
+        "statistics",
+        "energy",
+        "agriculture"
+      ],
+      "update_frequency": "monthly",
+      "tags": [
+        "新疆统计",
+        "Xinjiang statistics",
+        "新疆GDP",
+        "Xinjiang GDP",
+        "省级统计",
+        "provincial statistics",
+        "棉花",
+        "cotton",
+        "石油",
+        "oil",
+        "天然气",
+        "natural gas",
+        "煤炭",
+        "coal",
+        "能源",
+        "energy",
+        "一带一路",
+        "Belt and Road",
+        "农业统计",
+        "agricultural statistics",
+        "新疆维吾尔",
+        "Uyghur autonomous region",
+        "统计年鉴",
+        "statistical yearbook",
+        "乌鲁木齐",
+        "Urumqi"
+      ],
+      "data_content": {
+        "en": [
+          "GDP and economic growth: quarterly and annual GDP data by industry sector for Xinjiang",
+          "Energy resources: oil and natural gas extraction volumes, coal production, proven reserves data",
+          "Cotton production: annual cotton output (Xinjiang produces over 85% of China's total cotton supply)",
+          "Agricultural statistics: grain output, fruit production (grapes, Hami melon, dates), livestock data",
+          "Industrial output: petrochemicals, coal chemicals, non-ferrous metals, energy processing industries",
+          "Fixed asset investment: Belt and Road infrastructure projects, energy facility construction, connectivity projects",
+          "Trade statistics: border trade data with Central Asia, Russia, and neighboring countries",
+          "Population statistics: total population, ethnic composition, urbanization rate",
+          "Employment and wages: employed persons, unemployment rate, average wages by sector",
+          "Xinjiang Statistical Yearbook: comprehensive annual compilation of all regional statistics"
+        ],
+        "zh": [
+          "GDP与经济增长：新疆季度和年度GDP数据，按产业分类",
+          "能源资源：石油和天然气开采量、煤炭产量、探明储量数据",
+          "棉花生产：年度棉花产量（新疆提供全国85%以上的棉花供应量）",
+          "农业统计：粮食产量、水果产量（葡萄、哈密瓜、红枣）、畜牧业数据",
+          "工业产值：石油化工、煤化工、有色金属、能源加工产业",
+          "固定资产投资：\"一带一路\"基础设施项目、能源设施建设、互联互通项目",
+          "贸易统计：与中亚、俄罗斯及周边国家的边境贸易数据",
+          "人口统计：全区人口、民族构成、城镇化率",
+          "就业与工资：从业人员数、失业率、各行业平均工资",
+          "新疆统计年鉴：全区各类统计数据的综合年度汇编"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/economy/provincial/china-xj-stats.json"
     },
     {
       "id": "china-yn-stats",

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-04-03T06:11:57.138292+00:00",
+    "generated_at": "2026-04-04T02:11:49.782675+00:00",
     "total_regions": 58,
-    "total_sources": 355,
+    "total_sources": 360,
     "version": "2.0"
   },
   "regions": {
@@ -510,6 +510,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-gs-stats",
+        "name": {
+          "en": "Gansu Bureau of Statistics",
+          "zh": "甘肃省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.gansu.gov.cn/tjj/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-gs-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-gx-stats",
         "name": {
           "en": "Guangxi Bureau of Statistics",
@@ -642,6 +654,30 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-nm-stats",
+        "name": {
+          "en": "Inner Mongolia Bureau of Statistics",
+          "zh": "内蒙古自治区统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.nmg.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-nm-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-qh-stats",
+        "name": {
+          "en": "Qinghai Bureau of Statistics",
+          "zh": "青海省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.qinghai.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-qh-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-sc-stats",
         "name": {
           "en": "Sichuan Bureau of Statistics",
@@ -678,6 +714,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-sn-stats",
+        "name": {
+          "en": "Shaanxi Bureau of Statistics",
+          "zh": "陕西省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.shaanxi.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-sn-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-tj-stats",
         "name": {
           "en": "Tianjin Bureau of Statistics",
@@ -687,6 +735,18 @@
         "data_url": "https://stats.tj.gov.cn/tjsj_52032/",
         "has_api": false,
         "file_path": "china/economy/provincial/china-tj-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-xj-stats",
+        "name": {
+          "en": "Xinjiang Bureau of Statistics",
+          "zh": "新疆维吾尔自治区统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.xinjiang.gov.cn/tjj/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-xj-stats.json",
         "geographic_scope": "subnational"
       },
       {

@@ -1,17 +1,17 @@
 {
   "metadata": {
-    "generated_at": "2026-04-03T06:11:57.138292+00:00",
+    "generated_at": "2026-04-04T02:11:49.782675+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 355,
+    "total_sources": 360,
     "sources_with_api": 150,
-    "last_updated": "2026-04-03"
+    "last_updated": "2026-04-04"
   },
   "by_authority_level": {
     "research": 37,
     "international": 74,
-    "government": 205,
+    "government": 210,
     "other": 7,
     "market": 16,
     "commercial": 16
@@ -20,31 +20,31 @@
     "global": 100,
     "national": 207,
     "regional": 26,
-    "subnational": 22
+    "subnational": 27
   },
   "by_update_frequency": {
     "irregular": 51,
     "daily": 54,
     "weekly": 9,
     "quarterly": 33,
-    "monthly": 128,
+    "monthly": 133,
     "annual": 69,
     "real-time": 11
   },
   "by_domain": {
-    "economics": 160,
+    "economics": 165,
     "trade": 86,
     "demographics": 75,
-    "social": 72,
-    "environment": 58,
-    "agriculture": 58,
+    "social": 74,
+    "agriculture": 60,
+    "environment": 59,
     "finance": 54,
     "health": 43,
     "employment": 42,
     "education": 41,
+    "statistics": 39,
     "industry": 35,
-    "statistics": 34,
-    "energy": 26,
+    "energy": 31,
     "prices": 22,
     "technology": 21,
     "infrastructure": 19,
