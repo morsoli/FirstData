@@ -1,0 +1,78 @@
+{
+  "id": "china-xj-stats",
+  "name": {
+    "en": "Xinjiang Bureau of Statistics",
+    "zh": "新疆维吾尔自治区统计局"
+  },
+  "description": {
+    "en": "The Xinjiang Bureau of Statistics is the official statistical authority for the Xinjiang Uyghur Autonomous Region, China's largest administrative division by area, located in the far northwest and bordering eight countries. Xinjiang is a critical energy hub, holding significant reserves of coal, oil, and natural gas, and is also a major producer of cotton, tomatoes, and fruits. The bureau publishes comprehensive socioeconomic statistics covering GDP, energy extraction and reserves, cotton production (Xinjiang accounts for over 85% of China's cotton output), agricultural output, fixed asset investment in infrastructure, population, and trade data related to China's Belt and Road Initiative. It also releases the Xinjiang Statistical Yearbook.",
+    "zh": "新疆维吾尔自治区统计局是新疆官方统计机构，新疆是中国面积最大的行政区划，位于中国最西北，与八个国家接壤。新疆是重要的能源基地，拥有丰富的煤炭、石油和天然气储量，同时也是棉花、番茄和水果的重要产区。统计局发布新疆GDP、能源开采与储量、棉花产量（新疆棉花产量占全国85%以上）、农业产值、基础设施固定资产投资、人口及\"一带一路\"相关贸易数据等全面社会经济统计，并出版《新疆统计年鉴》。"
+  },
+  "website": "https://tjj.xinjiang.gov.cn/",
+  "data_url": "https://tjj.xinjiang.gov.cn/tjj/tjsj/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "energy",
+    "agriculture"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "新疆统计",
+    "Xinjiang statistics",
+    "新疆GDP",
+    "Xinjiang GDP",
+    "省级统计",
+    "provincial statistics",
+    "棉花",
+    "cotton",
+    "石油",
+    "oil",
+    "天然气",
+    "natural gas",
+    "煤炭",
+    "coal",
+    "能源",
+    "energy",
+    "一带一路",
+    "Belt and Road",
+    "农业统计",
+    "agricultural statistics",
+    "新疆维吾尔",
+    "Uyghur autonomous region",
+    "统计年鉴",
+    "statistical yearbook",
+    "乌鲁木齐",
+    "Urumqi"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: quarterly and annual GDP data by industry sector for Xinjiang",
+      "Energy resources: oil and natural gas extraction volumes, coal production, proven reserves data",
+      "Cotton production: annual cotton output (Xinjiang produces over 85% of China's total cotton supply)",
+      "Agricultural statistics: grain output, fruit production (grapes, Hami melon, dates), livestock data",
+      "Industrial output: petrochemicals, coal chemicals, non-ferrous metals, energy processing industries",
+      "Fixed asset investment: Belt and Road infrastructure projects, energy facility construction, connectivity projects",
+      "Trade statistics: border trade data with Central Asia, Russia, and neighboring countries",
+      "Population statistics: total population, ethnic composition, urbanization rate",
+      "Employment and wages: employed persons, unemployment rate, average wages by sector",
+      "Xinjiang Statistical Yearbook: comprehensive annual compilation of all regional statistics"
+    ],
+    "zh": [
+      "GDP与经济增长：新疆季度和年度GDP数据，按产业分类",
+      "能源资源：石油和天然气开采量、煤炭产量、探明储量数据",
+      "棉花生产：年度棉花产量（新疆提供全国85%以上的棉花供应量）",
+      "农业统计：粮食产量、水果产量（葡萄、哈密瓜、红枣）、畜牧业数据",
+      "工业产值：石油化工、煤化工、有色金属、能源加工产业",
+      "固定资产投资：\"一带一路\"基础设施项目、能源设施建设、互联互通项目",
+      "贸易统计：与中亚、俄罗斯及周边国家的边境贸易数据",
+      "人口统计：全区人口、民族构成、城镇化率",
+      "就业与工资：从业人员数、失业率、各行业平均工资",
+      "新疆统计年鉴：全区各类统计数据的综合年度汇编"
+    ]
+  }
+}

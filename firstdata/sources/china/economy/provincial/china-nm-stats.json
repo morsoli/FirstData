@@ -1,0 +1,80 @@
+{
+  "id": "china-nm-stats",
+  "name": {
+    "en": "Inner Mongolia Bureau of Statistics",
+    "zh": "内蒙古自治区统计局"
+  },
+  "description": {
+    "en": "The Inner Mongolia Bureau of Statistics is the official statistical authority for the Inner Mongolia Autonomous Region, China's third largest administrative division and a vast steppe-dominated autonomous region in northern China bordering Russia and Mongolia. Inner Mongolia is China's largest producer of coal, rare earth elements, and cashmere, and a leading region for wind and solar power generation. The bureau publishes comprehensive socioeconomic statistics covering GDP, energy and mineral production, animal husbandry, new energy capacity, population (including Mongolian ethnic minority data), and ecological conservation outcomes. It also releases the Inner Mongolia Statistical Yearbook.",
+    "zh": "内蒙古自治区统计局是内蒙古自治区官方统计机构，内蒙古是中国第三大行政区划，是北接俄罗斯和蒙古国的广袤草原自治区。内蒙古是全国最大的煤炭、稀土和羊绒产地，也是风能和太阳能发电的领先地区。统计局发布内蒙古GDP、能源和矿产产量、畜牧业、新能源装机容量、人口（含蒙古族少数民族数据）及生态保护成效等全面社会经济统计，并出版《内蒙古统计年鉴》。"
+  },
+  "website": "https://tjj.nmg.gov.cn/",
+  "data_url": "https://tjj.nmg.gov.cn/tjsj/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "subnational",
+  "domains": [
+    "economics",
+    "statistics",
+    "energy",
+    "agriculture"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "内蒙古统计",
+    "Inner Mongolia statistics",
+    "内蒙古GDP",
+    "Inner Mongolia GDP",
+    "省级统计",
+    "provincial statistics",
+    "煤炭",
+    "coal",
+    "稀土",
+    "rare earth",
+    "风能",
+    "wind energy",
+    "太阳能",
+    "solar energy",
+    "新能源",
+    "new energy",
+    "羊绒",
+    "cashmere",
+    "畜牧业",
+    "animal husbandry",
+    "草原",
+    "steppe",
+    "蒙古族",
+    "Mongolian ethnic",
+    "统计年鉴",
+    "statistical yearbook",
+    "呼和浩特",
+    "Hohhot"
+  ],
+  "data_content": {
+    "en": [
+      "GDP and economic growth: quarterly and annual GDP data by industry sector for Inner Mongolia",
+      "Coal production: annual and monthly coal output, making Inner Mongolia China's top coal-producing region",
+      "Rare earth industry: extraction volume, smelting output, and processing statistics for rare earth elements",
+      "New energy statistics: wind power installed capacity and generation, solar photovoltaic capacity and output",
+      "Animal husbandry: livestock population (sheep, cattle, horses), wool and cashmere production, dairy output",
+      "Industrial output: energy and chemical industries, metallurgy, equipment manufacturing statistics",
+      "Agricultural statistics: grain output, grassland area, desertification control outcomes",
+      "Population statistics: total population, Mongolian and other ethnic minority population data, urbanization",
+      "Employment and wages: employed persons, unemployment rate, average wages by sector",
+      "Inner Mongolia Statistical Yearbook: comprehensive annual compilation of all regional statistics"
+    ],
+    "zh": [
+      "GDP与经济增长：内蒙古季度和年度GDP数据，按产业分类",
+      "煤炭生产：年度及月度煤炭产量，内蒙古是全国最大煤炭产区",
+      "稀土产业：稀土开采量、冶炼产量及加工统计",
+      "新能源统计：风电装机容量和发电量、光伏装机容量和发电量",
+      "畜牧业：牲畜存栏量（羊、牛、马）、羊毛和羊绒产量、乳品产量",
+      "工业产值：能源和化工、冶金、装备制造业统计",
+      "农业统计：粮食产量、草原面积、荒漠化治理成效",
+      "人口统计：全区人口、蒙古族及其他少数民族人口数据、城镇化率",
+      "就业与工资：从业人员数、失业率、各行业平均工资",
+      "内蒙古统计年鉴：全区各类统计数据的综合年度汇编"
+    ]
+  }
+}
