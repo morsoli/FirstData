@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-04-04T06:17:31.585206+00:00",
+    "generated_at": "2026-04-05T02:39:40.271198+00:00",
     "total_regions": 58,
-    "total_sources": 365,
+    "total_sources": 369,
     "version": "2.0"
   },
   "regions": {
@@ -582,6 +582,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-hi-stats",
+        "name": {
+          "en": "Hainan Bureau of Statistics",
+          "zh": "海南省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://stats.hainan.gov.cn/hntjj/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-hi-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-hlj-stats",
         "name": {
           "en": "Heilongjiang Bureau of Statistics",
@@ -666,6 +678,18 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-nx-stats",
+        "name": {
+          "en": "Ningxia Bureau of Statistics",
+          "zh": "宁夏回族自治区统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tj.nx.gov.cn/tjsj_htr/jdsj_htr/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-nx-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
         "id": "china-qh-stats",
         "name": {
           "en": "Qinghai Bureau of Statistics",
@@ -723,6 +747,18 @@
         "data_url": "https://tjj.shaanxi.gov.cn/tjsj/",
         "has_api": false,
         "file_path": "china/economy/provincial/china-sn-stats.json",
+        "geographic_scope": "subnational"
+      },
+      {
+        "id": "china-sx-stats",
+        "name": {
+          "en": "Shanxi Bureau of Statistics",
+          "zh": "山西省统计局"
+        },
+        "authority_level": "government",
+        "data_url": "https://tjj.shanxi.gov.cn/tjsj/",
+        "has_api": false,
+        "file_path": "china/economy/provincial/china-sx-stats.json",
         "geographic_scope": "subnational"
       },
       {
@@ -1116,6 +1152,18 @@
         "data_url": "https://www.moj.gov.cn/pub/sfbgw/zwgkzl/tjsj/",
         "has_api": false,
         "file_path": "china/governance/china-moj.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-mva",
+        "name": {
+          "en": "Ministry of Veterans Affairs of China",
+          "zh": "中华人民共和国退役军人事务部"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.mva.gov.cn/gongkai/",
+        "has_api": false,
+        "file_path": "china/governance/china-mva.json",
         "geographic_scope": "national"
       },
       {
