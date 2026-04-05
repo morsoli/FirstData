@@ -8,8 +8,8 @@
     "en": "The Hainan Bureau of Statistics is the official statistical authority for Hainan Province, China's southernmost and smallest province by land area, located on the tropical island of Hainan. Since 2018, Hainan has been designated as China's largest free trade zone (Hainan Free Trade Port), making it a unique economic policy experiment. The bureau publishes comprehensive socioeconomic statistics covering GDP, tourism (a pillar industry), tropical agriculture, international trade, real estate, and population data. It releases the Hainan Statistical Yearbook and economic bulletins reflecting the province's rapid development as a free trade hub.",
     "zh": "海南省统计局是海南省官方统计机构，海南是中国最南端、陆地面积最小的省份，位于热带岛屿。2018年以来，海南被设立为中国最大的自由贸易区（海南自由贸易港），成为独特的经济政策试验区。统计局发布海南省GDP、旅游（支柱产业）、热带农业、国际贸易、房地产和人口等全面社会经济统计数据，并出版《海南统计年鉴》及经济运行情况报告，反映该省作为自由贸易港的快速发展动态。"
   },
-  "website": "http://stats.hainan.gov.cn/",
-  "data_url": "http://stats.hainan.gov.cn/hntjj/tjsj/",
+  "website": "https://stats.hainan.gov.cn/",
+  "data_url": "https://stats.hainan.gov.cn/hntjj/tjsj/",
   "api_url": null,
   "authority_level": "government",
   "country": "CN",

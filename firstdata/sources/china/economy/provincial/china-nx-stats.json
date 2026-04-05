@@ -8,8 +8,8 @@
     "en": "The Ningxia Bureau of Statistics is the official statistical authority for the Ningxia Hui Autonomous Region, China's only provincial-level administrative region for the Hui Muslim ethnic group. Located in northwestern China along the upper Yellow River, Ningxia is a key producer of coal, natural gas, and chemicals, and is also emerging as a major wine region (Helan Mountain). The bureau publishes comprehensive socioeconomic statistics covering GDP, industrial output (especially energy and chemicals), agricultural production (including wolfberry cultivation), population, employment, and consumer prices. It releases the Ningxia Statistical Yearbook and regular economic bulletins.",
     "zh": "宁夏回族自治区统计局是宁夏回族自治区的官方统计机构，宁夏是中国唯一的回族省级行政区划，位于中国西北部黄河上游地区。宁夏是重要的煤炭、天然气和化工产品生产基地，同时也是新兴葡萄酒产区（贺兰山东麓）。统计局发布宁夏GDP、工业产值（尤其是能源和化工）、农业生产（包括枸杞种植）、人口、就业和居民消费价格指数等全面社会经济统计，并出版《宁夏统计年鉴》及定期经济运行情况报告。"
   },
-  "website": "http://tjj.nx.gov.cn/",
-  "data_url": "http://tjj.nx.gov.cn/tjsj/",
+  "website": "https://tj.nx.gov.cn/",
+  "data_url": "https://tj.nx.gov.cn/tjsj_htr/jdsj_htr/",
   "api_url": null,
   "authority_level": "government",
   "country": "CN",
