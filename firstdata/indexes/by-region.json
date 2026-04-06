@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-04-05T06:10:28.317170+00:00",
+    "generated_at": "2026-04-06T02:10:49.420691+00:00",
     "total_regions": 58,
-    "total_sources": 374,
+    "total_sources": 379,
     "version": "2.0"
   },
   "regions": {
@@ -1227,6 +1227,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-nrta",
+        "name": {
+          "en": "National Radio and Television Administration of China",
+          "zh": "国家广播电视总局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nrta.gov.cn/col/col2040/index.html",
+        "has_api": false,
+        "file_path": "china/governance/china-nrta.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "china-saac",
         "name": {
           "en": "National Archives Administration of China",
@@ -1260,6 +1272,18 @@
         "data_url": "https://www.sport.gov.cn/n315/n330/index.html",
         "has_api": false,
         "file_path": "china/governance/sports/china-gas.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-ndcpa",
+        "name": {
+          "en": "National Disease Control and Prevention Administration of China",
+          "zh": "国家疾病预防控制局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.ndcpa.gov.cn/jbkzzx/c100016/second/list.html",
+        "has_api": false,
+        "file_path": "china/health/china-ndcpa.json",
         "geographic_scope": "national"
       },
       {
@@ -1310,6 +1334,18 @@
         "data_url": "https://www.mot.gov.cn/shuju/",
         "has_api": false,
         "file_path": "china/infrastructure/china-mot.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-nra",
+        "name": {
+          "en": "National Railway Administration of China",
+          "zh": "国家铁路局"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nra.gov.cn/xxgk/gkml/",
+        "has_api": false,
+        "file_path": "china/infrastructure/china-nra.json",
         "geographic_scope": "national"
       },
       {
@@ -1399,6 +1435,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-cae",
+        "name": {
+          "en": "Chinese Academy of Engineering",
+          "zh": "中国工程院"
+        },
+        "authority_level": "research",
+        "data_url": "https://www.cae.cn/cae/html/main/col73/column_73_1.html",
+        "has_api": false,
+        "file_path": "china/research/china-cae.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "china-caict",
         "name": {
           "en": "China Academy of Information and Communications Technology",
@@ -1408,6 +1456,18 @@
         "data_url": "http://www.caict.ac.cn/kxyj/qwfb/",
         "has_api": false,
         "file_path": "china/research/china-caict.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-cas",
+        "name": {
+          "en": "Chinese Academy of Sciences - Science Data Bank",
+          "zh": "中国科学院科学数据库"
+        },
+        "authority_level": "research",
+        "data_url": "https://www.scidb.cn/",
+        "has_api": false,
+        "file_path": "china/research/china-cas.json",
         "geographic_scope": "national"
       },
       {
