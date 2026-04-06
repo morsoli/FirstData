@@ -8,8 +8,8 @@
     "en": "The Chinese Academy of Fiscal Sciences (CFPA), formerly the Research Institute for Fiscal Science under the Ministry of Finance, is China's premier government-affiliated research institution for fiscal and tax policy. CFPA conducts authoritative research on fiscal policy, tax system reform, government debt, local government finance, and public expenditure efficiency. It publishes flagship annual reports including the China Fiscal Development Report (中国财政发展报告) and tax blue books, as well as policy briefs and working papers widely cited by policymakers and academics. CFPA's research directly informs China's fiscal reform agenda and budget management innovations.",
     "zh": "中国财政科学研究院（原财政部财政科学研究所）是中国财政税收政策领域最权威的政府附属科研机构。研究院开展财政政策、税制改革、政府债务、地方政府财政及公共支出效率等方面的权威研究，发布《中国财政发展报告》和税收蓝皮书等旗舰年度报告，以及被政策制定者和学术界广泛引用的政策简报和工作论文。研究院的研究成果直接服务于中国财政改革议程和预算管理创新。"
   },
-  "website": "https://www.cfpa.org.cn/",
-  "data_url": "https://www.cfpa.org.cn/cgsyj/",
+  "website": "http://www.crifs.org.cn/",
+  "data_url": "http://www.crifs.org.cn/czkxyj/",
   "api_url": null,
   "authority_level": "research",
   "country": "CN",
