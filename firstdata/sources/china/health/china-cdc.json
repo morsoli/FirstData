@@ -1,0 +1,78 @@
+{
+  "id": "china-cdc",
+  "name": {
+    "en": "Chinese Center for Disease Control and Prevention",
+    "zh": "中国疾病预防控制中心"
+  },
+  "description": {
+    "en": "The Chinese Center for Disease Control and Prevention (China CDC) is China's national public health agency responsible for disease surveillance, epidemic control, public health research, and health promotion. Established under the National Health Commission, China CDC operates the national disease surveillance information system covering over 600 notifiable infectious diseases and public health events, tracking epidemiological trends across China's 31 provinces and municipalities. It publishes official incidence and mortality data for statutory notifiable diseases including tuberculosis, HIV/AIDS, viral hepatitis, influenza, hand-foot-mouth disease, and emerging infectious diseases. China CDC also monitors non-communicable disease (NCD) risk factors through national health surveys, conducts environmental health monitoring, and leads national immunization program oversight. Its China CDC Weekly journal publishes real-time epidemiological data and outbreak reports for the scientific and public health communities.",
+    "zh": "中国疾病预防控制中心（中国疾控中心）是负责疾病监测、疫情控制、公共卫生研究和健康促进的国家公共卫生机构，隶属于国家卫生健康委员会。中国疾控中心运营全国疾病监测信息报告管理系统，覆盖600余种法定报告传染病和突发公共卫生事件，追踪全国31个省市的流行病学动态。局方发布结核病、艾滋病、病毒性肝炎、流感、手足口病及新发传染病等法定传染病的官方发病率和死亡率数据。中国疾控中心还通过全国健康调查监测慢性病风险因素，开展环境健康监测，负责全国免疫规划工作。旗下《中国疾控周报》（China CDC Weekly）面向科学和公共卫生界及时发布流行病学数据和疫情报告。"
+  },
+  "website": "http://www.chinacdc.cn/",
+  "data_url": "http://www.chinacdc.cn/tjsj/",
+  "api_url": null,
+  "authority_level": "government",
+  "country": "CN",
+  "geographic_scope": "national",
+  "domains": [
+    "health",
+    "epidemiology",
+    "social"
+  ],
+  "update_frequency": "monthly",
+  "tags": [
+    "中国疾控中心",
+    "China CDC",
+    "Chinese Center for Disease Control and Prevention",
+    "传染病监测",
+    "infectious disease surveillance",
+    "法定传染病",
+    "notifiable diseases",
+    "流行病学",
+    "epidemiology",
+    "结核病",
+    "tuberculosis",
+    "艾滋病",
+    "HIV/AIDS",
+    "病毒性肝炎",
+    "viral hepatitis",
+    "慢性病",
+    "non-communicable diseases",
+    "疫情报告",
+    "outbreak reports",
+    "免疫规划",
+    "immunization program",
+    "公共卫生",
+    "public health",
+    "环境健康",
+    "environmental health",
+    "流感监测",
+    "influenza surveillance",
+    "China CDC Weekly",
+    "中国疾控周报"
+  ],
+  "data_content": {
+    "en": [
+      "Notifiable infectious disease data: monthly incidence rates and case counts for 40+ category A and B notifiable diseases across all provinces, including TB, HIV, hepatitis, and influenza",
+      "Epidemiological surveillance reports: weekly and monthly surveillance bulletins covering disease trends, outbreak investigations, and public health emergency assessments",
+      "China CDC Weekly: peer-reviewed epidemiological journal publishing real-time outbreak data, field investigation reports, and public health emergency analyses",
+      "Non-communicable disease surveys: nationally representative survey data on prevalence of hypertension, diabetes, cancer, and cardiovascular disease risk factors",
+      "Immunization coverage data: vaccination rates by province and vaccine type for all childhood and adult immunization program vaccines",
+      "HIV/AIDS monitoring: annual national HIV/AIDS epidemic status report with incidence, prevalence, mortality, and treatment coverage data",
+      "Tuberculosis surveillance: national TB notification rates, treatment success rates, drug resistance data, and progress toward WHO End TB targets",
+      "Environmental health monitoring: data on lead exposure, air pollution-related health impacts, and water quality safety assessments",
+      "Maternal and child health: infant and under-5 mortality rates, maternal mortality, and birth defect surveillance data"
+    ],
+    "zh": [
+      "法定传染病数据：全国各省40余种甲乙类法定传染病月度发病率和病例数，包括结核病、艾滋病、肝炎和流感",
+      "流行病学监测报告：涵盖疾病趋势、疫情调查和突发公共卫生事件评估的周报和月报",
+      "中国疾控周报：实时发布疫情数据、现场调查报告和突发公共卫生事件分析的同行评审流行病学期刊",
+      "慢性病调查：高血压、糖尿病、癌症和心血管疾病风险因素患病率全国代表性调查数据",
+      "免疫接种覆盖数据：各省和各疫苗类型的儿童和成人免疫规划疫苗接种率",
+      "艾滋病监测：全国艾滋病年度流行状况报告，包含发病率、患病率、死亡率和治疗覆盖率",
+      "结核病监测：全国结核病报告率、治疗成功率、耐药数据及世卫组织终止结核病目标进展",
+      "环境健康监测：铅暴露、空气污染相关健康影响和饮水安全评估数据",
+      "妇幼卫生：婴儿和五岁以下儿童死亡率、孕产妇死亡率及出生缺陷监测数据"
+    ]
+  }
+}
