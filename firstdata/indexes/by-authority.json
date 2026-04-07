@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "generated_at": "2026-04-07T02:14:51.926989+00:00",
-    "total_sources": 386,
+    "generated_at": "2026-04-07T06:20:55.104176+00:00",
+    "total_sources": 391,
     "authority_counts": {
       "research": 39,
       "international": 74,
-      "government": 226,
+      "government": 231,
       "other": 11,
       "market": 20,
       "commercial": 16
@@ -2315,6 +2315,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-npc-law",
+        "name": {
+          "en": "National People's Congress Law Database",
+          "zh": "全国人大法律法规数据库"
+        },
+        "authority_level": "government",
+        "data_url": "https://flk.npc.gov.cn/",
+        "has_api": true,
+        "file_path": "china/governance/china-npc-law.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "china-nrta",
         "name": {
           "en": "National Radio and Television Administration of China",
@@ -2336,6 +2348,30 @@
         "data_url": "https://www.saac.gov.cn/daj/fzgz/lmlist.shtml",
         "has_api": false,
         "file_path": "china/governance/china-saac.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-spc",
+        "name": {
+          "en": "Supreme People's Court of China",
+          "zh": "最高人民法院"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.court.gov.cn/sfsj.html",
+        "has_api": false,
+        "file_path": "china/governance/china-spc.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-spp",
+        "name": {
+          "en": "Supreme People's Procuratorate of China",
+          "zh": "最高人民检察院"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.spp.gov.cn/spp/jcdt/jcgzdt/index_1.shtml",
+        "has_api": false,
+        "file_path": "china/governance/china-spp.json",
         "geographic_scope": "national"
       },
       {
@@ -2511,6 +2547,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-nsfc",
+        "name": {
+          "en": "National Natural Science Foundation of China",
+          "zh": "国家自然科学基金委员会"
+        },
+        "authority_level": "government",
+        "data_url": "https://www.nsfc.gov.cn/p1/2961/2964/3655/cg.html",
+        "has_api": false,
+        "file_path": "china/research/china-nsfc.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "china-mee",
         "name": {
           "en": "Ministry of Ecology and Environment of China - Environmental Data",
@@ -2556,6 +2604,18 @@
         "data_url": "https://www.mnr.gov.cn/sj/sjfw/kc_19263/",
         "has_api": false,
         "file_path": "china/resources/mineral/china-mnr-minerals.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-nmdis",
+        "name": {
+          "en": "National Marine Data and Information Service",
+          "zh": "国家海洋信息中心"
+        },
+        "authority_level": "government",
+        "data_url": "https://mds.nmdis.org.cn/",
+        "has_api": false,
+        "file_path": "china/resources/ocean/china-nmdis.json",
         "geographic_scope": "national"
       },
       {

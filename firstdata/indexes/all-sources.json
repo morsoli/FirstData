@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-04-07T02:14:51.926989+00:00",
-    "total_sources": 386,
+    "generated_at": "2026-04-07T06:20:55.104176+00:00",
+    "total_sources": 391,
     "version": "2.0",
     "schema_version": "v2.0.0"
   },
@@ -7591,6 +7591,87 @@
       "file_path": "china/governance/china-nia.json"
     },
     {
+      "id": "china-npc-law",
+      "name": {
+        "en": "National People's Congress Law Database",
+        "zh": "全国人大法律法规数据库"
+      },
+      "description": {
+        "en": "The National People's Congress (NPC) Law Database (法律法规库) is the official repository for China's national legislation, maintained by the Standing Committee of the NPC. It provides the full text of all laws enacted by the NPC and its Standing Committee, administrative regulations issued by the State Council, local regulations from provincial legislatures, judicial interpretations, and Party regulations. This database is the authoritative reference for China's statutory law and enables tracking of legislative history, amendments, and repeal dates for every piece of enacted national legislation. Updated continuously as new laws are passed, it serves as the primary legal data source for government agencies, courts, law firms, academic institutions, and compliance teams operating in China. The platform also offers structured metadata enabling systematic analysis of China's legislative output and regulatory trends.",
+        "zh": "全国人民代表大会法律法规数据库（法律法规库）是由全国人民代表大会常务委员会维护的中国国家立法官方数据库。该数据库收录全国人大及其常委会通过的全部法律全文、国务院发布的行政法规、省级立法机关制定的地方性法规、司法解释及党内法规。该数据库是中国成文法的权威参考，可追溯每部现行国家立法的立法历史、修订情况和废止日期。随新法通过持续更新，是在华政府机关、法院、律师事务所、学术机构和合规团队的主要法律数据来源。该平台还提供结构化元数据，支持对中国立法产出和法规趋势进行系统分析。"
+      },
+      "website": "https://www.npc.gov.cn/",
+      "data_url": "https://flk.npc.gov.cn/",
+      "api_url": "https://flk.npc.gov.cn/api/",
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "national",
+      "domains": [
+        "governance",
+        "law",
+        "policy",
+        "regulatory"
+      ],
+      "update_frequency": "irregular",
+      "tags": [
+        "全国人大",
+        "NPC",
+        "National People's Congress",
+        "法律法规库",
+        "law database",
+        "中国法律",
+        "Chinese law",
+        "国家立法",
+        "national legislation",
+        "行政法规",
+        "administrative regulations",
+        "地方性法规",
+        "local regulations",
+        "司法解释",
+        "judicial interpretations",
+        "立法历史",
+        "legislative history",
+        "全文检索",
+        "full-text search",
+        "法律全文",
+        "law full text",
+        "党内法规",
+        "Party regulations",
+        "法规修订",
+        "law amendments",
+        "合规数据",
+        "compliance data",
+        "法制",
+        "rule of law",
+        "人民代表大会",
+        "People's Congress"
+      ],
+      "data_content": {
+        "en": [
+          "Full text of national laws: complete text of all laws enacted by the NPC and Standing Committee since the founding of the PRC, with amendment history",
+          "Administrative regulations: full text of State Council regulations (行政法规) with enactment and effective dates",
+          "Local regulations: provincial and municipal legislative acts (地方性法规) from all 31 provincial-level jurisdictions",
+          "Judicial interpretations: official interpretations by the Supreme People's Court and Supreme People's Procuratorate",
+          "Party regulations: selected regulations issued by the Central Committee of the Communist Party of China",
+          "Legislative metadata: law number, enactment authority, adoption date, effective date, revision history, and repeal status for each document",
+          "Thematic law collections: curated sets of laws by topic area including civil law, criminal law, economic law, environmental law, and administrative law",
+          "Legislative statistics: annual counts of laws passed, amended, and repealed by the NPC and Standing Committee"
+        ],
+        "zh": [
+          "国家法律全文：中华人民共和国成立以来全国人大及其常委会通过的全部法律完整文本及修订历史",
+          "行政法规：国务院行政法规全文及颁布日期和施行日期",
+          "地方性法规：全国31个省级行政区的地方性立法（地方性法规）",
+          "司法解释：最高人民法院和最高人民检察院发布的正式司法解释",
+          "党内法规：中国共产党中央委员会颁布的部分党内法规",
+          "立法元数据：各文件的法规编号、制定机关、通过日期、施行日期、修订历史和废止状态",
+          "专题法律汇编：按民法、刑法、经济法、环境法、行政法等专题整理的法律文件集",
+          "立法统计：全国人大及常委会年度立法、修订和废止法律的数量统计"
+        ]
+      },
+      "has_api": true,
+      "file_path": "china/governance/china-npc-law.json"
+    },
+    {
       "id": "china-nrta",
       "name": {
         "en": "National Radio and Television Administration of China",
@@ -7735,6 +7816,166 @@
       },
       "has_api": false,
       "file_path": "china/governance/china-saac.json"
+    },
+    {
+      "id": "china-spc",
+      "name": {
+        "en": "Supreme People's Court of China",
+        "zh": "最高人民法院"
+      },
+      "description": {
+        "en": "The Supreme People's Court (SPC) is China's highest judicial authority, responsible for supervising the administration of justice across all courts nationwide. The SPC publishes annual judicial statistics covering the entire Chinese court system, including case filings, disposals, and outcomes at the district, intermediate, and high court levels across all 31 provincial jurisdictions. Its public data includes criminal, civil, administrative, and enforcement case volumes; trial efficiency indicators; appeal rates; and the breakdown of disputes by type. The SPC also operates China Judgments Online (中国裁判文书网), the world's largest public database of court decisions, containing over 100 million judicial documents. Additionally, the SPC issues binding judicial interpretations that function as quasi-legislation, shaping the application of law throughout the judicial system.",
+        "zh": "最高人民法院是中国最高司法机关，负责监督全国各级法院的司法工作。最高人民法院每年发布覆盖全国法院体系的司法统计数据，包括全国31个省级行政区基层法院、中级法院和高级法院的案件受理、办结和裁判结果。公开数据涵盖刑事、民事、行政和执行案件数量、审判效率指标、上诉率及纠纷类型分布。最高人民法院还运营“中国裁判文书网”，这是全球最大的裁判文书公开数据库，收录逾1亿份司法文书。此外，最高人民法院发布具有约束力的司法解释，其效力准同法律，对全司法系统的法律适用产生重要影响。"
+      },
+      "website": "https://www.court.gov.cn/",
+      "data_url": "https://www.court.gov.cn/sfsj.html",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "national",
+      "domains": [
+        "governance",
+        "law",
+        "social",
+        "regulatory"
+      ],
+      "update_frequency": "annual",
+      "tags": [
+        "最高人民法院",
+        "SPC",
+        "Supreme People's Court",
+        "司法统计",
+        "judicial statistics",
+        "裁判文书",
+        "court decisions",
+        "中国裁判文书网",
+        "China Judgments Online",
+        "案件数据",
+        "case data",
+        "刑事案件",
+        "criminal cases",
+        "民事案件",
+        "civil cases",
+        "行政诉讼",
+        "administrative litigation",
+        "执行案件",
+        "enforcement cases",
+        "审判效率",
+        "trial efficiency",
+        "司法解释",
+        "judicial interpretations",
+        "法院数据",
+        "court data",
+        "诉讼统计",
+        "litigation statistics",
+        "司法公开",
+        "judicial transparency"
+      ],
+      "data_content": {
+        "en": [
+          "Annual judicial statistics: case filings, disposals, and backlogs for all courts (district/basic, intermediate, high, and supreme) nationwide",
+          "Case type breakdown: criminal, civil, commercial, intellectual property, administrative, maritime, and enforcement case volumes by jurisdiction",
+          "Trial outcomes: conviction rates, acquittal rates, mediation rates, and appeal rates for major case categories",
+          "Enforcement statistics: number and value of enforcement cases, enforcement success rates, and listing of dishonest debtors",
+          "China Judgments Online: full-text database of court decisions from all levels of Chinese courts (100M+ documents)",
+          "Judicial interpretation texts: all binding SPC interpretations and replies, with effective dates and subject matter",
+          "Court efficiency indicators: average case resolution time, case clearance rates, and cross-jurisdictional comparison data",
+          "People's assessors data: participation rates of lay assessors (人民陪审员) in trials across China"
+        ],
+        "zh": [
+          "年度司法统计：全国各级法院（基层法院、中级法院、高级法院和最高法院）案件受理、办结及待结数据",
+          "案件类型分布：按管辖区域分列的刑事、民事、商事、知识产权、行政、海事和执行案件数量",
+          "裁判结果：主要案件类型的定罪率、无罪率、调解率和上诉率",
+          "执行统计：执行案件数量和标的额、执行到位率及失信被执行人名单",
+          "中国裁判文书网：全国各级法院裁判文书全文数据库（逾1亿份文书）",
+          "司法解释文本：最高人民法院全部具有约束力的解释和批复，含施行日期和主题",
+          "审判效率指标：平均结案时间、结案率及跨辖区比较数据",
+          "人民陪审员数据：人民陪审员在全国各地法院审判活动中的参与情况"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/governance/china-spc.json"
+    },
+    {
+      "id": "china-spp",
+      "name": {
+        "en": "Supreme People's Procuratorate of China",
+        "zh": "最高人民检察院"
+      },
+      "description": {
+        "en": "The Supreme People's Procuratorate (SPP) is China's highest procuratorial authority, responsible for legal supervision of the entire criminal justice system including investigation, prosecution, trial, and sentence execution. The SPP publishes comprehensive annual procuratorial statistics covering the full spectrum of criminal cases handled by prosecutors at all levels — district, intermediate, and provincial — across China's 31 provincial jurisdictions. Its statistical releases include data on criminal arrests, prosecutions, non-prosecution decisions, public interest litigation, and supervision of public officials. The SPP also issues white papers on specific crime types, anti-corruption prosecution outcomes, juvenile crime, and environmental protection enforcement. Through its public prosecution database and annual work report presented to the National People's Congress, the SPP provides authoritative data on China's criminal justice trends, enforcement priorities, and rule-of-law development.",
+        "zh": "最高人民检察院（最高检）是中国最高检察机关，负责对侦查、起诉、审判和刑罚执行全过程进行法律监督。最高检每年发布覆盖全国31个省级行政区各级（基层、中级、高级）检察院办理刑事案件情况的全面检察统计数据，内容涵盖逮捕、提起公诉、不起诉决定、公益诉讼和对公职人员的监督。最高检还就特定犯罪类型、反腐败起诉结果、未成年人犯罪和环境保护执法发布白皮书。通过公开的检察数据库和每年向全国人民代表大会提交的工作报告，最高检提供关于中国刑事司法趋势、执法重点和法治建设的权威数据。"
+      },
+      "website": "https://www.spp.gov.cn/",
+      "data_url": "https://www.spp.gov.cn/spp/jcdt/jcgzdt/index_1.shtml",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "national",
+      "domains": [
+        "governance",
+        "law",
+        "social",
+        "regulatory"
+      ],
+      "update_frequency": "annual",
+      "tags": [
+        "最高人民检察院",
+        "SPP",
+        "Supreme People's Procuratorate",
+        "检察统计",
+        "procuratorial statistics",
+        "刑事起诉",
+        "criminal prosecution",
+        "逮捕数据",
+        "arrest data",
+        "不起诉",
+        "non-prosecution",
+        "公益诉讼",
+        "public interest litigation",
+        "反腐败",
+        "anti-corruption",
+        "职务犯罪",
+        "duty crimes",
+        "未成年人犯罪",
+        "juvenile crime",
+        "环境违法",
+        "environmental enforcement",
+        "检察白皮书",
+        "procuratorial white paper",
+        "检察工作报告",
+        "procuratorial work report",
+        "刑事司法",
+        "criminal justice",
+        "法律监督",
+        "legal supervision",
+        "司法数据",
+        "judicial data"
+      ],
+      "data_content": {
+        "en": [
+          "Annual procuratorial statistics: case counts for arrests approved, prosecutions initiated, and non-prosecution decisions by crime category and provincial jurisdiction",
+          "Anti-corruption prosecution data: number of officials investigated and prosecuted for corruption, bribery, and dereliction of duty, including senior official cases",
+          "Criminal justice pipeline: data on cases transferred from public security to prosecution, prosecution rates, and conviction outcomes from court proceedings",
+          "Public interest litigation statistics: civil and administrative public interest cases filed by procuratorates in environmental, food safety, land, and state asset protection domains",
+          "Juvenile crime statistics: cases involving minors as offenders or victims, including trends in internet-related offenses and campus safety incidents",
+          "Environmental enforcement: prosecutions of illegal dumping, pollution discharge, poaching, and other environmental crimes under the Criminal Law",
+          "Financial and securities crimes: prosecution data on fraud, money laundering, securities manipulation, and corporate crime",
+          "Annual work reports to NPC: official annual reports to the National People's Congress summarizing prosecution outcomes, reform priorities, and rule-of-law indicators"
+        ],
+        "zh": [
+          "年度检察统计：按犯罪类型和省级行政区分列的批准逮捕、提起公诉和不起诉案件数量",
+          "反腐败起诉数据：被侦查和起诉的腐败、受贿及渎职公职人员数量，包括高级别案件",
+          "刑事司法流程：公安机关移送审查起诉案件数、起诉率和法院审判结果",
+          "公益诉讼统计：检察机关在环境、食品安全、土地和国有资产保护领域提起的民事和行政公益诉讼案件",
+          "未成年人犯罪统计：未成年人涉案（作为加害人或被害人）案件，包括网络犯罪和校园安全事件趋势",
+          "环境违法执法：依据《刑法》对非法排污、非法狩猎等环境犯罪的起诉数据",
+          "金融和证券犯罪：欺诈、洗钱、证券操纵和企业犯罪起诉数据",
+          "向全国人大工作报告：关于起诉结果、改革重点和法治指标的年度官方报告"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/governance/china-spp.json"
     },
     {
       "id": "china-stma",
@@ -9167,6 +9408,85 @@
       "file_path": "china/research/china-cast.json"
     },
     {
+      "id": "china-nsfc",
+      "name": {
+        "en": "National Natural Science Foundation of China",
+        "zh": "国家自然科学基金委员会"
+      },
+      "description": {
+        "en": "The National Natural Science Foundation of China (NSFC) is the primary government agency responsible for funding basic and applied research in natural sciences in China. Established in 1986, NSFC manages over 40 billion RMB in annual grants across disciplines including mathematics, physics, chemistry, life sciences, earth sciences, engineering, information sciences, and management. NSFC publishes comprehensive annual reports detailing funded projects, grant recipients, research outcomes, and strategic funding priorities. Its project database covers hundreds of thousands of funded research grants since inception, serving as a key indicator of China's scientific research investment, emerging disciplines, and talent development in academia. NSFC also collaborates with foreign counterparts to fund bilateral research programs, producing comparative data on international science cooperation.",
+        "zh": "国家自然科学基金委员会（自然科学基金委）是负责资助中国自然科学基础研究和应用基础研究的主要政府机构，成立于1986年。基金委每年管理超过400亿元人民币的资助经费，覆盖数学、物理、化学、生命科学、地球科学、工程科学、信息科学和管理科学等学科。基金委发布详尽的年度报告，包括资助项目、获资助研究人员、研究成果及战略资助重点。其项目数据库收录自成立以来数十万个资助研究项目，是衡量中国科研投入、新兴学科发展和学术人才培养的重要指标。基金委还与境外同行合作开展双边研究资助计划，产出国际科技合作比较数据。"
+      },
+      "website": "https://www.nsfc.gov.cn/",
+      "data_url": "https://www.nsfc.gov.cn/p1/2961/2964/3655/cg.html",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "national",
+      "domains": [
+        "research",
+        "science",
+        "technology",
+        "education"
+      ],
+      "update_frequency": "annual",
+      "tags": [
+        "国家自然科学基金",
+        "NSFC",
+        "National Natural Science Foundation of China",
+        "自然科学基金",
+        "natural science fund",
+        "科研立项",
+        "research grants",
+        "基础研究",
+        "basic research",
+        "应用基础研究",
+        "applied basic research",
+        "科学资助",
+        "science funding",
+        "立项数据",
+        "project database",
+        "科研人才",
+        "research talent",
+        "学科前沿",
+        "disciplinary frontiers",
+        "中国科研投入",
+        "China R&D investment",
+        "国际合作",
+        "international cooperation",
+        "年度报告",
+        "annual report",
+        "杰出青年基金",
+        "outstanding young scientist fund",
+        "重大项目",
+        "major projects"
+      ],
+      "data_content": {
+        "en": [
+          "Annual funded projects database: searchable records of all NSFC-funded grants by year, discipline, institution, and principal investigator",
+          "Science funding statistics: total annual appropriations, grant counts, and funding rates by discipline and grant type (General Program, Key Program, Major Program, etc.)",
+          "Talent development data: statistics on funded young scientists, outstanding youth, and distinguished senior researchers",
+          "Research outcomes: publication counts, patents, and other outputs attributed to NSFC-funded projects",
+          "Institutional rankings: university and research institute performance in NSFC funding competition by discipline",
+          "International cooperation projects: bilateral grant programs with foreign funding agencies including NSF, DFG, ANR, and others",
+          "Annual reports: comprehensive yearly overview of NSFC strategy, priorities, funded science, and policy direction",
+          "Disciplinary planning: medium and long-term development plans for each major scientific discipline funded by NSFC"
+        ],
+        "zh": [
+          "年度资助项目数据库：按年度、学科、承担单位和项目负责人可检索的全部资助项目记录",
+          "科学资助统计：按学科和项目类型（面上项目、重点项目、重大项目等）分列的年度总经费、资助数量和资助率",
+          "人才培养数据：青年科学家、优秀青年科学基金和杰出青年科学基金获资助者统计",
+          "研究成果：归属于基金委资助项目的论文发表数量、专利及其他产出",
+          "机构排名：各高校和科研院所按学科在基金委资助竞争中的表现",
+          "国际合作项目：与美国NSF、德国DFG、法国ANR等境外资助机构开展的双边资助计划",
+          "年度报告：基金委战略、重点、资助科学和政策方向的全面年度综述",
+          "学科规划：基金委各重大资助科学学科的中长期发展规划"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/research/china-nsfc.json"
+    },
+    {
       "id": "china-resdc",
       "name": {
         "en": "Resource and Environment Science and Data Center, Chinese Academy of Sciences",
@@ -9742,6 +10062,89 @@
       },
       "has_api": false,
       "file_path": "china/resources/mineral/china-mnr-minerals.json"
+    },
+    {
+      "id": "china-nmdis",
+      "name": {
+        "en": "National Marine Data and Information Service",
+        "zh": "国家海洋信息中心"
+      },
+      "description": {
+        "en": "The National Marine Data and Information Service (NMDIS) is China's official national center for marine data collection, management, and dissemination, operating under the Ministry of Natural Resources. NMDIS manages the national ocean database integrating data from China's oceanographic survey vessels, coastal observation stations, Argo floats, ocean buoys, and satellite remote sensing systems. Its data holdings encompass sea surface and sub-surface temperature, salinity, currents, wave heights, sea ice extent, marine biodiversity observations, ocean pollution monitoring, and seabed topography. NMDIS publishes the China Ocean Yearbook and Marine Environmental Status Bulletin, providing annual comprehensive overviews of China's maritime environment, marine resources, and ocean economy. It also hosts the marine data sharing platform for research institutions and provides ocean data services to support navigation safety, climate research, disaster early warning, and marine resource management.",
+        "zh": "国家海洋信息中心（NMDIS）是自然资源部下属的中国官方海洋数据收集、管理和发布机构。NMDIS运营整合了中国海洋调查船、沿海观测站、Argo浮标、海洋浮标和卫星遥感系统数据的国家海洋数据库。数据资源涵盖海面和次表层温度、盐度、流速、浪高、海冰范围、海洋生物多样性观测、海洋污染监测和海底地形。NMDIS出版《中国海洋年鉴》和《中国海洋生态环境状况公报》，对中国海洋环境、海洋资源和海洋经济进行年度综合评估。NMDIS还为科研机构提供海洋数据共享平台，并提供海洋数据服务，支撑航行安全、气候研究、灾害预警和海洋资源管理。"
+      },
+      "website": "https://www.nmdis.org.cn/",
+      "data_url": "https://mds.nmdis.org.cn/",
+      "api_url": null,
+      "authority_level": "government",
+      "country": "CN",
+      "geographic_scope": "national",
+      "domains": [
+        "environment",
+        "ocean",
+        "climate",
+        "resources"
+      ],
+      "update_frequency": "daily",
+      "tags": [
+        "国家海洋信息中心",
+        "NMDIS",
+        "National Marine Data",
+        "海洋数据",
+        "ocean data",
+        "海洋环境",
+        "marine environment",
+        "海洋年鉴",
+        "China Ocean Yearbook",
+        "海水温度",
+        "sea surface temperature",
+        "盐度",
+        "salinity",
+        "海浪",
+        "wave height",
+        "海冰",
+        "sea ice",
+        "海洋生物多样性",
+        "marine biodiversity",
+        "海洋污染",
+        "marine pollution",
+        "Argo浮标",
+        "Argo floats",
+        "海洋观测",
+        "ocean observation",
+        "海底地形",
+        "seabed topography",
+        "海洋气候",
+        "ocean climate",
+        "海洋经济",
+        "marine economy",
+        "海洋灾害",
+        "marine disasters"
+      ],
+      "data_content": {
+        "en": [
+          "Ocean temperature and salinity profiles: historical and real-time vertical profiles from research vessels, XBT casts, CTD sensors, and Argo floats across China's seas",
+          "Sea surface observations: gridded datasets of sea surface temperature (SST), sea surface height, and surface current velocity from satellite and buoy networks",
+          "Wave and tide data: significant wave height, wave period, and tidal level time series from coastal stations and offshore buoys",
+          "Sea ice data: annual and seasonal extent, concentration, and thickness of sea ice in the Bohai Sea, Yellow Sea, and polar regions from Chinese expeditions",
+          "Marine biodiversity: species distribution records, phytoplankton and zooplankton community surveys, and fishery resource assessments",
+          "Marine pollution monitoring: concentrations of inorganic nitrogen, phosphates, petroleum hydrocarbons, heavy metals, and plastics in Chinese coastal and offshore waters",
+          "China Ocean Yearbook: annual compendium of ocean economy statistics, marine industry output, port throughput, and maritime shipping data",
+          "Marine Environmental Status Bulletin: annual assessment of seawater quality grades, ecological health of coastal wetlands, and red tide/harmful algal bloom events"
+        ],
+        "zh": [
+          "海洋温盐剖面：来自科考船、XBT投放、CTD传感器和Argo浮标的中国各海域历史及实时垂直剖面数据",
+          "海面观测：来自卫星和浮标网络的海面温度（SST）、海面高度和表层流速格点数据集",
+          "浪潮数据：沿海站和近海浮标的有效波高、波周期和潮位时间序列",
+          "海冰数据：来自中国极地科考的渤海、黄海海冰年度和季节性范围、密集度和厚度数据",
+          "海洋生物多样性：物种分布记录、浮游植物和浮游动物群落调查及渔业资源评估",
+          "海洋污染监测：中国近岸和近海水体中无机氮、磷酸盐、石油烃、重金属和塑料浓度",
+          "中国海洋年鉴：海洋经济统计、海洋产业产值、港口吞吐量和海上运输数据的年度汇编",
+          "中国海洋生态环境状况公报：海水水质等级、滨海湿地生态健康状况及赤潮/有害藻华事件年度评估"
+        ]
+      },
+      "has_api": false,
+      "file_path": "china/resources/ocean/china-nmdis.json"
     },
     {
       "id": "china-cea",
