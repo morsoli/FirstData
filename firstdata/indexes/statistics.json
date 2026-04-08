@@ -1,24 +1,24 @@
 {
   "metadata": {
-    "generated_at": "2026-04-07T06:20:55.104176+00:00",
+    "generated_at": "2026-04-08T01:19:36.538244+00:00",
     "version": "2.0"
   },
   "overview": {
-    "total_sources": 391,
+    "total_sources": 396,
     "sources_with_api": 151,
-    "last_updated": "2026-04-07"
+    "last_updated": "2026-04-08"
   },
   "by_authority_level": {
     "research": 39,
     "international": 74,
     "government": 231,
-    "other": 11,
+    "other": 16,
     "market": 20,
     "commercial": 16
   },
   "by_geographic_scope": {
     "global": 100,
-    "national": 234,
+    "national": 239,
     "regional": 26,
     "subnational": 31
   },
@@ -26,8 +26,8 @@
     "irregular": 54,
     "daily": 56,
     "weekly": 9,
-    "quarterly": 35,
-    "monthly": 143,
+    "quarterly": 36,
+    "monthly": 147,
     "annual": 82,
     "real-time": 12
   },
@@ -36,15 +36,15 @@
     "trade": 88,
     "social": 84,
     "demographics": 75,
+    "agriculture": 64,
     "environment": 63,
-    "agriculture": 62,
     "finance": 59,
     "statistics": 53,
     "health": 46,
+    "industry": 45,
     "education": 43,
     "employment": 42,
-    "industry": 40,
-    "energy": 33,
+    "energy": 35,
     "technology": 27,
     "governance": 26,
     "prices": 22,
@@ -73,6 +73,7 @@
     "bioinformatics": 6,
     "epidemiology": 6,
     "construction": 6,
+    "resources": 6,
     "capital-markets": 6,
     "earth-science": 6,
     "telecommunications": 6,
@@ -84,7 +85,6 @@
     "materials science": 5,
     "foreign exchange": 5,
     "payment systems": 5,
-    "resources": 5,
     "law": 5,
     "international trade": 5,
     "balance of payments": 5,

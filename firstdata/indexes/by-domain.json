@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "generated_at": "2026-04-07T06:20:55.104176+00:00",
+    "generated_at": "2026-04-08T01:19:36.538244+00:00",
     "total_domains": 708,
-    "total_sources": 391,
+    "total_sources": 396,
     "version": "2.0"
   },
   "domains": {
@@ -442,6 +442,30 @@
         "data_url": "https://www.forestry.gov.cn/gjlcj/5462/index.html",
         "has_api": false,
         "file_path": "china/resources/forestry/china-nfga.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-caamm",
+        "name": {
+          "en": "China Association of Agricultural Machinery Manufacturers",
+          "zh": "中国农业机械工业协会"
+        },
+        "authority_level": "other",
+        "data_url": "http://www.caamm.org.cn/member/qytj.jspx",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-caamm.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-cnfia",
+        "name": {
+          "en": "China National Food Industry Association",
+          "zh": "中国食品工业协会"
+        },
+        "authority_level": "other",
+        "data_url": "https://www.cnfia.cn/archives/category/hangyetongji",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-cnfia.json",
         "geographic_scope": "national"
       },
       {
@@ -10106,6 +10130,30 @@
         "geographic_scope": "subnational"
       },
       {
+        "id": "china-cpia",
+        "name": {
+          "en": "China Photovoltaic Industry Association",
+          "zh": "中国光伏行业协会"
+        },
+        "authority_level": "other",
+        "data_url": "https://www.chinapv.org.cn/StaticPage/association_page1.html",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-cpia.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-cwea",
+        "name": {
+          "en": "Chinese Wind Energy Association",
+          "zh": "中国可再生能源学会风能专业委员会"
+        },
+        "authority_level": "other",
+        "data_url": "http://www.cwea.org.cn/news_lastest.html",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-cwea.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "japan-meti",
         "name": {
           "en": "Ministry of Economy, Trade and Industry (Japan)",
@@ -16234,6 +16282,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-caamm",
+        "name": {
+          "en": "China Association of Agricultural Machinery Manufacturers",
+          "zh": "中国农业机械工业协会"
+        },
+        "authority_level": "other",
+        "data_url": "http://www.caamm.org.cn/member/qytj.jspx",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-caamm.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "china-cisa",
         "name": {
           "en": "China Iron and Steel Association",
@@ -16246,6 +16306,18 @@
         "geographic_scope": "national"
       },
       {
+        "id": "china-cnfia",
+        "name": {
+          "en": "China National Food Industry Association",
+          "zh": "中国食品工业协会"
+        },
+        "authority_level": "other",
+        "data_url": "https://www.cnfia.cn/archives/category/hangyetongji",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-cnfia.json",
+        "geographic_scope": "national"
+      },
+      {
         "id": "china-cntac",
         "name": {
           "en": "China National Textile and Apparel Council",
@@ -16255,6 +16327,42 @@
         "data_url": "https://www.cntac.org.cn/jinghua",
         "has_api": false,
         "file_path": "china/technology/industry_associations/china-cntac.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-cpia",
+        "name": {
+          "en": "China Photovoltaic Industry Association",
+          "zh": "中国光伏行业协会"
+        },
+        "authority_level": "other",
+        "data_url": "https://www.chinapv.org.cn/StaticPage/association_page1.html",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-cpia.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-csre",
+        "name": {
+          "en": "China Society of Rare Earths",
+          "zh": "中国稀土学会"
+        },
+        "authority_level": "other",
+        "data_url": "http://www.cs-re.org.cn/c50",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-csre.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-cwea",
+        "name": {
+          "en": "Chinese Wind Energy Association",
+          "zh": "中国可再生能源学会风能专业委员会"
+        },
+        "authority_level": "other",
+        "data_url": "http://www.cwea.org.cn/news_lastest.html",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-cwea.json",
         "geographic_scope": "national"
       },
       {
@@ -22243,6 +22351,18 @@
         "data_url": "https://mds.nmdis.org.cn/",
         "has_api": false,
         "file_path": "china/resources/ocean/china-nmdis.json",
+        "geographic_scope": "national"
+      },
+      {
+        "id": "china-csre",
+        "name": {
+          "en": "China Society of Rare Earths",
+          "zh": "中国稀土学会"
+        },
+        "authority_level": "other",
+        "data_url": "http://www.cs-re.org.cn/c50",
+        "has_api": false,
+        "file_path": "china/technology/industry_associations/china-csre.json",
         "geographic_scope": "national"
       }
     ],
